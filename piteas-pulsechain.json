@@ -1,0 +1,48 @@
+{
+  "name": "Piteas Pulsechain Tokens",
+  "timestamp": "2023-06-03T13:52:06.436Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 369,
+      "address": "0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07",
+      "name": "USD Coin from Ethereum",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Wrapped Ether from Ethereum",
+      "address": "0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Wrapped Pulse",
+      "address": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
+      "symbol": "WPLS",
+      "decimals": 18,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xA1077a294dDE1B09bB078844df40758a5D0f9a27.png"
+    },
+    {
+      "chainId": 369,
+      "name": "PulseX",
+      "address": "0x95B303987A60C71504D99Aa1b13B4DA07b0790ab",
+      "symbol": "PLSX",
+      "decimals": 18,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x95B303987A60C71504D99Aa1b13B4DA07b0790ab.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Tether USD",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xdAC17F958D2ee523a2206206994597C13D831ec7.png"
+    }
+  ],
+  "logoURI": "https://piteas.io/img/logo-icon.png"
+}
