@@ -1,7 +1,7 @@
 {
   "name": "Piteas Pulsechain Tokens",
-  "timestamp": "2023-06-04T13:54:06.436Z",
-  "version": { "major": 1, "minor": 1, "patch": 3 },
+  "timestamp": "2023-06-04T13:56:06.436Z",
+  "version": { "major": 2, "minor": 1, "patch": 1 },
   "tokens": [
     {
       "chainId": 369,
@@ -66,6 +66,14 @@
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xefD766cCb38EaF1dfd701853BFCe31359239F305.png"
+    },
+    {
+      "chainId": 369,
+      "name": "HEX from Ethereum",
+      "address": "0x57fde0a71132198BBeC939B98976993d8D89D225",
+      "symbol": "HEX",
+      "decimals": 8,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x57fde0a71132198BBeC939B98976993d8D89D225.png"
     }
   ],
   "logoURI": "https://piteas.io/img/logo-icon.png"
