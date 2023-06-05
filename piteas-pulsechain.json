@@ -1,6 +1,6 @@
 {
   "name": "Piteas Pulsechain Tokens",
-  "timestamp": "2023-06-04T13:53:06.436Z",
+  "timestamp": "2023-06-04T13:54:06.436Z",
   "version": { "major": 1, "minor": 1, "patch": 3 },
   "tokens": [
     {
@@ -58,6 +58,14 @@
       "symbol": "HEX",
       "decimals": 8,
       "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Dai Stablecoin from Ethereum",
+      "address": "0xefD766cCb38EaF1dfd701853BFCe31359239F305",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xefD766cCb38EaF1dfd701853BFCe31359239F305.png"
     }
   ],
   "logoURI": "https://piteas.io/img/logo-icon.png"
