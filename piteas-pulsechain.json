@@ -1,7 +1,7 @@
 {
   "name": "Piteas Pulsechain Tokens",
-  "timestamp": "2023-06-04T13:52:06.436Z",
-  "version": { "major": 1, "minor": 1, "patch": 2 },
+  "timestamp": "2023-06-04T13:53:06.436Z",
+  "version": { "major": 1, "minor": 1, "patch": 3 },
   "tokens": [
     {
       "chainId": 369,
@@ -13,11 +13,11 @@
     },
     {
       "chainId": 369,
-      "name": "Tether USD",
-      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "name": "Tether USD from Ethereum",
+      "address": "0x0Cb6F5a34ad42ec934882A05265A7d5F59b51A2f",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xdAC17F958D2ee523a2206206994597C13D831ec7.png"
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x0Cb6F5a34ad42ec934882A05265A7d5F59b51A2f.png"
     },
     {
       "chainId": 369,
@@ -50,6 +50,14 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xb17D901469B9208B17d916112988A3FeD19b5cA1.png"
+    },
+    {
+      "chainId": 369,
+      "name": "HEX",
+      "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
+      "symbol": "HEX",
+      "decimals": 8,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39.png"
     }
   ],
   "logoURI": "https://piteas.io/img/logo-icon.png"
