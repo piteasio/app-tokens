@@ -1,7 +1,7 @@
 {
   "name": "Piteas Pulsechain Tokens",
-  "timestamp": "2023-06-04T14:56:06.436Z",
-  "version": { "major": 2, "minor": 1, "patch": 3 },
+  "timestamp": "2023-06-04T16:56:06.436Z",
+  "version": { "major": 2, "minor": 1, "patch": 5 },
   "tokens": [
     {
       "chainId": 369,
@@ -162,6 +162,30 @@
       "symbol": "ASIC",
       "decimals": 12,
       "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x347a96a5BD06D2E15199b032F46fB724d6c73047.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Phiat Token",
+      "address": "0x96E035ae0905EFaC8F733f133462f971Cfa45dB1",
+      "symbol": "PHIAT",
+      "decimals": 18,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x96E035ae0905EFaC8F733f133462f971Cfa45dB1.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Daytona Finance",
+      "address": "0x9F8182aD65c53Fd78bd07648a1b3DDcB675c6772",
+      "symbol": "TONI",
+      "decimals": 18,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x9F8182aD65c53Fd78bd07648a1b3DDcB675c6772.png"
+    },
+    {
+      "chainId": 369,
+      "name": "XEN Crypto",
+      "address": "0x8a7FDcA264e87b6da72D000f22186B4403081A2a",
+      "symbol": "pXEN",
+      "decimals": 18,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x8a7FDcA264e87b6da72D000f22186B4403081A2a.png"
     }
   ],
   "logoURI": "https://piteas.io/img/logo-icon.png"
