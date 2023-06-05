@@ -1,7 +1,7 @@
 {
   "name": "Piteas Pulsechain Tokens",
-  "timestamp": "2023-06-04T13:56:06.436Z",
-  "version": { "major": 2, "minor": 1, "patch": 1 },
+  "timestamp": "2023-06-04T14:56:06.436Z",
+  "version": { "major": 2, "minor": 1, "patch": 3 },
   "tokens": [
     {
       "chainId": 369,
@@ -69,11 +69,99 @@
     },
     {
       "chainId": 369,
-      "name": "HEX from Ethereum",
+      "name": "HEX from Ethereum (eHEX)",
       "address": "0x57fde0a71132198BBeC939B98976993d8D89D225",
       "symbol": "HEX",
       "decimals": 8,
       "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x57fde0a71132198BBeC939B98976993d8D89D225.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Incentive",
+      "address": "0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d",
+      "symbol": "INC",
+      "decimals": 18,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Hedron",
+      "address": "0x3819f64f282bf135d62168C1e513280dAF905e06",
+      "symbol": "HDRN",
+      "decimals": 9,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x3819f64f282bf135d62168C1e513280dAF905e06.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Hedron from Ethereum",
+      "address": "0xAbF663531FA10ab8116cbf7d5c6229B018A26Ff9",
+      "symbol": "HDRN",
+      "decimals": 9,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xAbF663531FA10ab8116cbf7d5c6229B018A26Ff9.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Icosa",
+      "address": "0xfc4913214444aF5c715cc9F7b52655e788A569ed",
+      "symbol": "ICSA",
+      "decimals": 9,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xfc4913214444aF5c715cc9F7b52655e788A569ed.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Xenbitcoin",
+      "address": "0xB971a3429c04d96F8a75EDaC7bc79e7C4672b4E6",
+      "symbol": "XBTC",
+      "decimals": 18,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xB971a3429c04d96F8a75EDaC7bc79e7C4672b4E6.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Pulse Inu",
+      "address": "0x655cdd69442912076A05975C26eA59BAd179244d",
+      "symbol": "PINU",
+      "decimals": 9,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x655cdd69442912076A05975C26eA59BAd179244d.png"
+    },
+    {
+      "chainId": 369,
+      "name": "BabyRichardHeart",
+      "address": "0x2ac07C8c921Fc64e99c9B39cAa750370eecA57Cc",
+      "symbol": "BRICH",
+      "decimals": 18,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x2ac07C8c921Fc64e99c9B39cAa750370eecA57Cc.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Maximus Lucky",
+      "address": "0x6B0956258fF7bd7645aa35369B55B61b8e6d6140",
+      "symbol": "LUCKY",
+      "decimals": 8,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x6B0956258fF7bd7645aa35369B55B61b8e6d6140.png"
+    },
+    {
+      "chainId": 369,
+      "name": "PulseBitcoin",
+      "address": "0x5EE84583f67D5EcEa5420dBb42b462896E7f8D06",
+      "symbol": "PLSB",
+      "decimals": 12,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x5EE84583f67D5EcEa5420dBb42b462896E7f8D06.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Maximus Trio",
+      "address": "0xF55cD1e399e1cc3D95303048897a680be3313308",
+      "symbol": "TRIO",
+      "decimals": 8,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xF55cD1e399e1cc3D95303048897a680be3313308.png"
+    },
+    {
+      "chainId": 369,
+      "name": "ASIC Token",
+      "address": "0x347a96a5BD06D2E15199b032F46fB724d6c73047",
+      "symbol": "ASIC",
+      "decimals": 12,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x347a96a5BD06D2E15199b032F46fB724d6c73047.png"
     }
   ],
   "logoURI": "https://piteas.io/img/logo-icon.png"
