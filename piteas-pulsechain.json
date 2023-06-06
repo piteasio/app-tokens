@@ -1,7 +1,7 @@
 {
-  "name": "Piteas Pulsechain Tokens",
-  "timestamp": "2023-06-04T16:56:06.436Z",
-  "version": { "major": 2, "minor": 1, "patch": 5 },
+  "name": "Piteas Tokenlist",
+  "timestamp": "2023-06-05T16:56:06.436Z",
+  "version": { "major": 2, "minor": 2, "patch": 1 },
   "tokens": [
     {
       "chainId": 369,
@@ -9,7 +9,7 @@
       "name": "USD Coin from Ethereum",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07.png"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07.png"
     },
     {
       "chainId": 369,
@@ -17,7 +17,7 @@
       "address": "0x0Cb6F5a34ad42ec934882A05265A7d5F59b51A2f",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x0Cb6F5a34ad42ec934882A05265A7d5F59b51A2f.png"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x0Cb6F5a34ad42ec934882A05265A7d5F59b51A2f.png"
     },
     {
       "chainId": 369,
@@ -25,7 +25,7 @@
       "address": "0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C.png"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C.png"
     },
     {
       "chainId": 369,
@@ -33,7 +33,7 @@
       "address": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
       "symbol": "WPLS",
       "decimals": 18,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xA1077a294dDE1B09bB078844df40758a5D0f9a27.png"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA1077a294dDE1B09bB078844df40758a5D0f9a27.png"
     },
     {
       "chainId": 369,
@@ -41,7 +41,7 @@
       "address": "0x95B303987A60C71504D99Aa1b13B4DA07b0790ab",
       "symbol": "PLSX",
       "decimals": 18,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x95B303987A60C71504D99Aa1b13B4DA07b0790ab.png"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x95B303987A60C71504D99Aa1b13B4DA07b0790ab.png"
     },
     {
       "chainId": 369,
@@ -49,7 +49,7 @@
       "address": "0xb17D901469B9208B17d916112988A3FeD19b5cA1",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xb17D901469B9208B17d916112988A3FeD19b5cA1.png"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xb17D901469B9208B17d916112988A3FeD19b5cA1.png"
     },
     {
       "chainId": 369,
@@ -57,7 +57,7 @@
       "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
       "symbol": "HEX",
       "decimals": 8,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39.png"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39.png"
     },
     {
       "chainId": 369,
@@ -65,7 +65,7 @@
       "address": "0xefD766cCb38EaF1dfd701853BFCe31359239F305",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xefD766cCb38EaF1dfd701853BFCe31359239F305.png"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xefD766cCb38EaF1dfd701853BFCe31359239F305.png"
     },
     {
       "chainId": 369,
@@ -73,7 +73,7 @@
       "address": "0x57fde0a71132198BBeC939B98976993d8D89D225",
       "symbol": "HEX",
       "decimals": 8,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x57fde0a71132198BBeC939B98976993d8D89D225.png"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x57fde0a71132198BBeC939B98976993d8D89D225.png"
     },
     {
       "chainId": 369,
@@ -81,7 +81,7 @@
       "address": "0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d",
       "symbol": "INC",
       "decimals": 18,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d.png"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d.png"
     },
     {
       "chainId": 369,
@@ -89,7 +89,7 @@
       "address": "0x3819f64f282bf135d62168C1e513280dAF905e06",
       "symbol": "HDRN",
       "decimals": 9,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x3819f64f282bf135d62168C1e513280dAF905e06.png"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x3819f64f282bf135d62168C1e513280dAF905e06.png"
     },
     {
       "chainId": 369,
@@ -97,7 +97,7 @@
       "address": "0xAbF663531FA10ab8116cbf7d5c6229B018A26Ff9",
       "symbol": "HDRN",
       "decimals": 9,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xAbF663531FA10ab8116cbf7d5c6229B018A26Ff9.png"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xAbF663531FA10ab8116cbf7d5c6229B018A26Ff9.png"
     },
     {
       "chainId": 369,
@@ -105,7 +105,7 @@
       "address": "0xfc4913214444aF5c715cc9F7b52655e788A569ed",
       "symbol": "ICSA",
       "decimals": 9,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xfc4913214444aF5c715cc9F7b52655e788A569ed.png"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xfc4913214444aF5c715cc9F7b52655e788A569ed.png"
     },
     {
       "chainId": 369,
@@ -113,7 +113,7 @@
       "address": "0xB971a3429c04d96F8a75EDaC7bc79e7C4672b4E6",
       "symbol": "XBTC",
       "decimals": 18,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xB971a3429c04d96F8a75EDaC7bc79e7C4672b4E6.png"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xB971a3429c04d96F8a75EDaC7bc79e7C4672b4E6.png"
     },
     {
       "chainId": 369,
@@ -121,7 +121,7 @@
       "address": "0x655cdd69442912076A05975C26eA59BAd179244d",
       "symbol": "PINU",
       "decimals": 9,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x655cdd69442912076A05975C26eA59BAd179244d.png"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x655cdd69442912076A05975C26eA59BAd179244d.png"
     },
     {
       "chainId": 369,
@@ -129,7 +129,7 @@
       "address": "0x2ac07C8c921Fc64e99c9B39cAa750370eecA57Cc",
       "symbol": "BRICH",
       "decimals": 18,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x2ac07C8c921Fc64e99c9B39cAa750370eecA57Cc.png"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2ac07C8c921Fc64e99c9B39cAa750370eecA57Cc.png"
     },
     {
       "chainId": 369,
@@ -137,7 +137,7 @@
       "address": "0x6B0956258fF7bd7645aa35369B55B61b8e6d6140",
       "symbol": "LUCKY",
       "decimals": 8,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x6B0956258fF7bd7645aa35369B55B61b8e6d6140.png"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6B0956258fF7bd7645aa35369B55B61b8e6d6140.png"
     },
     {
       "chainId": 369,
@@ -145,7 +145,7 @@
       "address": "0x5EE84583f67D5EcEa5420dBb42b462896E7f8D06",
       "symbol": "PLSB",
       "decimals": 12,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x5EE84583f67D5EcEa5420dBb42b462896E7f8D06.png"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x5EE84583f67D5EcEa5420dBb42b462896E7f8D06.png"
     },
     {
       "chainId": 369,
@@ -153,7 +153,7 @@
       "address": "0xF55cD1e399e1cc3D95303048897a680be3313308",
       "symbol": "TRIO",
       "decimals": 8,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xF55cD1e399e1cc3D95303048897a680be3313308.png"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xF55cD1e399e1cc3D95303048897a680be3313308.png"
     },
     {
       "chainId": 369,
@@ -161,7 +161,7 @@
       "address": "0x347a96a5BD06D2E15199b032F46fB724d6c73047",
       "symbol": "ASIC",
       "decimals": 12,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x347a96a5BD06D2E15199b032F46fB724d6c73047.png"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x347a96a5BD06D2E15199b032F46fB724d6c73047.png"
     },
     {
       "chainId": 369,
@@ -169,7 +169,7 @@
       "address": "0x96E035ae0905EFaC8F733f133462f971Cfa45dB1",
       "symbol": "PHIAT",
       "decimals": 18,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x96E035ae0905EFaC8F733f133462f971Cfa45dB1.png"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x96E035ae0905EFaC8F733f133462f971Cfa45dB1.png"
     },
     {
       "chainId": 369,
@@ -177,7 +177,7 @@
       "address": "0x9F8182aD65c53Fd78bd07648a1b3DDcB675c6772",
       "symbol": "TONI",
       "decimals": 18,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x9F8182aD65c53Fd78bd07648a1b3DDcB675c6772.png"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9F8182aD65c53Fd78bd07648a1b3DDcB675c6772.png"
     },
     {
       "chainId": 369,
@@ -185,8 +185,8 @@
       "address": "0x8a7FDcA264e87b6da72D000f22186B4403081A2a",
       "symbol": "pXEN",
       "decimals": 18,
-      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x8a7FDcA264e87b6da72D000f22186B4403081A2a.png"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8a7FDcA264e87b6da72D000f22186B4403081A2a.png"
     }
   ],
-  "logoURI": "https://piteas.io/img/logo-icon.png"
+  "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
