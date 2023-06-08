@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokenlist",
-  "timestamp": "2023-06-05T16:56:06.436Z",
-  "version": { "major": 2, "minor": 2, "patch": 1 },
+  "timestamp": "2023-06-06T16:56:06.436Z",
+  "version": { "major": 2, "minor": 2, "patch": 4 },
   "tokens": [
     {
       "chainId": 369,
@@ -186,6 +186,70 @@
       "symbol": "pXEN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8a7FDcA264e87b6da72D000f22186B4403081A2a.png"
+    },
+    {
+      "chainId": 369,
+      "name": "OlympulseX",
+      "address": "0xBB366A397D7d4d2BEDABD9139D4c32a8826605Ed",
+      "symbol": "SEX",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xbb366a397d7d4d2bedabd9139d4c32a8826605ed.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Pepe",
+      "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6982508145454Ce325dDbE47a25d4ec3d2311933.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Maximus BASE",
+      "address": "0xe9f84d418B008888A992Ff8c6D22389C2C3504e0",
+      "symbol": "BASE",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe9f84d418b008888a992ff8c6d22389c2c3504e0.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "T.I.M.E. Dividend",
+      "address": "0xCA35638A3fdDD02fEC597D8c1681198C06b23F58",
+      "symbol": "TIME",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xCA35638A3fdDD02fEC597D8c1681198C06b23F58.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "PulseMoonR",
+      "address": "0x2f28EC133bd2861a166d375145513EEd7F4947B4",
+      "symbol": "MOONR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2f28EC133bd2861a166d375145513EEd7F4947B4.png"
+    },
+    {
+      "chainId": 369,
+      "name": "uP Token",
+      "address": "0x131bF51e864024DF1982F2cd7B1C786e1A005152",
+      "symbol": "UP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x131bF51e864024DF1982F2cd7B1C786e1A005152.png"
+    },
+    {
+      "chainId": 369,
+      "name": "PoorPleb",
+      "address": "0x9565c2036963697786705120Fc59310F747bCfD0",
+      "symbol": "PP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9565c2036963697786705120Fc59310F747bCfD0.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Pulsedoge",
+      "address": "0x52Ada28F70BC8EBe5dd4381120d3CD76863919A8",
+      "symbol": "PLD",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x52Ada28F70BC8EBe5dd4381120d3CD76863919A8.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
