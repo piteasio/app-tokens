@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokenlist",
-  "timestamp": "2023-06-09T17:56:06.436Z",
-  "version": { "major": 2, "minor": 3, "patch": 2 },
+  "timestamp": "2023-06-09T18:06:06.436Z",
+  "version": { "major": 2, "minor": 3, "patch": 5 },
   "tokens": [
     {
       "chainId": 369,
@@ -95,7 +95,7 @@
       "chainId": 369,
       "name": "Hedron from Ethereum",
       "address": "0xAbF663531FA10ab8116cbf7d5c6229B018A26Ff9",
-      "symbol": "HDRN",
+      "symbol": "eHDRN",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xAbF663531FA10ab8116cbf7d5c6229B018A26Ff9.png"
     },
