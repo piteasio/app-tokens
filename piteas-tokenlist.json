@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokenlist",
-  "timestamp": "2023-06-09T18:07:06.436Z",
-  "version": { "major": 2, "minor": 3, "patch": 6 },
+  "timestamp": "2023-06-09T18:08:06.436Z",
+  "version": { "major": 2, "minor": 3, "patch": 7 },
   "tokens": [
     {
       "chainId": 369,
@@ -241,7 +241,7 @@
       "address": "0x9565c2036963697786705120Fc59310F747bCfD0",
       "symbol": "PP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9565c2036963697786705120Fc59310F747bCfD0.webp"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9565c2036963697786705120Fc59310F747bCfD0.png"
     },
     {
       "chainId": 369,
