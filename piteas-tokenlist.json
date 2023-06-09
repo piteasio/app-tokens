@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokenlist",
-  "timestamp": "2023-06-09T18:14:06.436Z",
-  "version": { "major": 2, "minor": 4, "patch": 1 },
+  "timestamp": "2023-06-09T18:18:06.436Z",
+  "version": { "major": 2, "minor": 4, "patch": 2 },
   "tokens": [
     {
       "chainId": 369,
@@ -282,6 +282,14 @@
       "symbol": "MAXI",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x0d86EB9f43C57f6FF3BC9E23D8F9d82503f0e84b.svg"
+    },
+    {
+      "chainId": 369,
+      "name": "WhalesCandyPLS",
+      "address": "0x0B14EDb2ffaea3888f62d5fBfB2B88C53a987dDd",
+      "symbol": "WC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x0B14EDb2ffaea3888f62d5fBfB2B88C53a987dDd.webp"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
