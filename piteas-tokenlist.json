@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokenlist",
-  "timestamp": "2023-06-09T16:56:06.436Z",
-  "version": { "major": 2, "minor": 3, "patch": 1 },
+  "timestamp": "2023-06-09T17:56:06.436Z",
+  "version": { "major": 2, "minor": 3, "patch": 2 },
   "tokens": [
     {
       "chainId": 369,
@@ -69,9 +69,9 @@
     },
     {
       "chainId": 369,
-      "name": "HEX from Ethereum (eHEX)",
+      "name": "HEX from Ethereum",
       "address": "0x57fde0a71132198BBeC939B98976993d8D89D225",
-      "symbol": "HEX",
+      "symbol": "eHEX",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x57fde0a71132198BBeC939B98976993d8D89D225.png"
     },
