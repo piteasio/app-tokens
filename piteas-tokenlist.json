@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokenlist",
-  "timestamp": "2023-06-17T18:19:06.436Z",
-  "version": { "major": 2, "minor": 4, "patch": 4 },
+  "timestamp": "2023-06-17T05:21:06.436Z",
+  "version": { "major": 2, "minor": 5, "patch": 1 },
   "tokens": [
     {
       "chainId": 369,
@@ -314,6 +314,14 @@
       "symbol": "PLSPAD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xB66aDb0ec2Fd216301e5d80B0270a1aA7495c56D.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Velocimeter",
+      "address": "0x39b9D781dAD0810D07E24426c876217218Ad353D",
+      "symbol": "FLOW",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x39b9D781dAD0810D07E24426c876217218Ad353D.webp"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
