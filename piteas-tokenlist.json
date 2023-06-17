@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokenlist",
-  "timestamp": "2023-06-09T18:19:06.436Z",
-  "version": { "major": 2, "minor": 4, "patch": 3 },
+  "timestamp": "2023-06-17T18:19:06.436Z",
+  "version": { "major": 2, "minor": 4, "patch": 4 },
   "tokens": [
     {
       "chainId": 369,
@@ -290,6 +290,30 @@
       "symbol": "WC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x0b14edb2ffaea3888f62d5fbfb2b88c53a987ddd.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "DOGE",
+      "address": "0x9CC7437978255e2c38B0d3D4671fb9AC411a68aC",
+      "symbol": "DOGE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9CC7437978255e2c38B0d3D4671fb9AC411a68aC.jpg"
+    },
+    {
+      "chainId": 369,
+      "name": "Love.io",
+      "address": "0xb55EE890426341FE45EE6dc788D2D93d25B59063",
+      "symbol": "LOVE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xb55EE890426341FE45EE6dc788D2D93d25B59063.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "PulsePad",
+      "address": "0xB66aDb0ec2Fd216301e5d80B0270a1aA7495c56D",
+      "symbol": "PLSPAD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xB66aDb0ec2Fd216301e5d80B0270a1aA7495c56D.webp"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
