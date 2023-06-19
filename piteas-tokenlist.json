@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokenlist",
-  "timestamp": "2023-06-19T06:21:06.436Z",
-  "version": { "major": 2, "minor": 5, "patch": 2 },
+  "timestamp": "2023-06-19T06:22:06.436Z",
+  "version": { "major": 2, "minor": 5, "patch": 3 },
   "tokens": [
     {
       "chainId": 369,
@@ -330,6 +330,14 @@
       "symbol": "TEXAN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xcFCFfE432A48dB53F59c301422d2EdD77B2A88d7.png"
+    },
+    {
+      "chainId": 369,
+      "name": "ePhiat from Ethereum",
+      "address": "0xfE39FDc0012DCf10C9f674ea7e74889e4d71a226",
+      "symbol": "ePhiat",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xfE39FDc0012DCf10C9f674ea7e74889e4d71a226.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
