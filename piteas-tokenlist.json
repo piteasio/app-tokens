@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokenlist",
-  "timestamp": "2023-06-19T06:22:06.436Z",
-  "version": { "major": 2, "minor": 5, "patch": 3 },
+  "timestamp": "2023-06-19T06:24:06.436Z",
+  "version": { "major": 2, "minor": 5, "patch": 7 },
   "tokens": [
     {
       "chainId": 369,
@@ -338,6 +338,14 @@
       "symbol": "ePhiat",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xfE39FDc0012DCf10C9f674ea7e74889e4d71a226.png"
+    },
+    {
+      "chainId": 369,
+      "name": "PHUX Governance Token",
+      "address": "0x9663c2d75ffd5F4017310405fCe61720aF45B829",
+      "symbol": "PHUX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9663c2d75ffd5F4017310405fCe61720aF45B829.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
