@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-06-19T06:25:06.436Z",
-  "version": { "major": 2, "minor": 5, "patch": 8 },
+  "timestamp": "2023-06-25T06:25:06.436Z",
+  "version": { "major": 2, "minor": 5, "patch": 9 },
   "tokens": [
     {
       "chainId": 369,
@@ -50,6 +50,14 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xb17D901469B9208B17d916112988A3FeD19b5cA1.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Wrapped BTC",
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.png"
     },
     {
       "chainId": 369,
