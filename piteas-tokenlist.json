@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-06-29T06:45:06.436Z",
-  "version": { "major": 2, "minor": 6, "patch": 2 },
+  "timestamp": "2023-06-30T06:45:06.436Z",
+  "version": { "major": 2, "minor": 6, "patch": 3 },
   "tokens": [
     {
       "chainId": 369,
@@ -370,6 +370,30 @@
       "symbol": "TETRAp",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xAeC4C07537B03E3E62fc066EC62401Aed5Fdd361.png"
+    },
+    {
+      "chainId": 369,
+      "name": "PulseReflections",
+      "address": "0xb6B57227150a7097723e0C013752001AaD01248F",
+      "symbol": "PRS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xb6B57227150a7097723e0C013752001AaD01248F.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Shiba Inu",
+      "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+      "symbol": "SHIB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Aave Token",
+      "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9.webp"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
