@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-06-30T06:45:06.436Z",
-  "version": { "major": 2, "minor": 6, "patch": 3 },
+  "timestamp": "2023-07-03T06:45:06.436Z",
+  "version": { "major": 2, "minor": 6, "patch": 4 },
   "tokens": [
     {
       "chainId": 369,
@@ -394,6 +394,22 @@
       "symbol": "AAVE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "PulseRate",
+      "address": "0x62959f4A9D771dE322c4a52CaA9BaBd1874DEb53",
+      "symbol": "PRATE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x62959f4A9D771dE322c4a52CaA9BaBd1874DEb53.png"
+    },
+    {
+      "chainId": 369,
+      "name": "PulseShare",
+      "address": "0x11D4109Cd7E5cE596471583E90e20e51d087de33",
+      "symbol": "PulseShare",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x11D4109Cd7E5cE596471583E90e20e51d087de33.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
