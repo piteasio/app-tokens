@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-07-06T06:46:06.436Z",
-  "version": { "major": 3, "minor": 1, "patch": 1 },
+  "timestamp": "2023-07-06T06:48:06.436Z",
+  "version": { "major": 3, "minor": 1, "patch": 2 },
   "tokens": [
     {
       "chainId": 369,
@@ -378,6 +378,14 @@
       "symbol": "LINK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xEe2D275Dbb79c7871F8C6eB2A4D0687dD85409D1.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Poly Maximus",
+      "address": "0x9d93692E826A4bd9e903e2A27D7FbD1e116efdad",
+      "symbol": "POLY",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9d93692E826A4bd9e903e2A27D7FbD1e116efdad.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
