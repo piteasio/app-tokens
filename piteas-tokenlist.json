@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-07-03T06:46:06.436Z",
-  "version": { "major": 2, "minor": 6, "patch": 5 },
+  "timestamp": "2023-07-06T06:46:06.436Z",
+  "version": { "major": 3, "minor": 1, "patch": 1 },
   "tokens": [
     {
       "chainId": 369,
@@ -133,14 +133,6 @@
     },
     {
       "chainId": 369,
-      "name": "BabyRichardHeart",
-      "address": "0x2ac07C8c921Fc64e99c9B39cAa750370eecA57Cc",
-      "symbol": "BRICH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2ac07C8c921Fc64e99c9B39cAa750370eecA57Cc.png"
-    },
-    {
-      "chainId": 369,
       "name": "Maximus Lucky",
       "address": "0x6B0956258fF7bd7645aa35369B55B61b8e6d6140",
       "symbol": "LUCKY",
@@ -194,14 +186,6 @@
       "symbol": "pXEN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8a7FDcA264e87b6da72D000f22186B4403081A2a.png"
-    },
-    {
-      "chainId": 369,
-      "name": "OlympulseX",
-      "address": "0xBB366A397D7d4d2BEDABD9139D4c32a8826605Ed",
-      "symbol": "SEX",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xbb366a397d7d4d2bedabd9139d4c32a8826605ed.webp"
     },
     {
       "chainId": 369,
@@ -293,14 +277,6 @@
     },
     {
       "chainId": 369,
-      "name": "WhalesCandyPLS",
-      "address": "0x0B14EDb2ffaea3888f62d5fBfB2B88C53a987dDd",
-      "symbol": "WC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x0b14edb2ffaea3888f62d5fbfb2b88c53a987ddd.webp"
-    },
-    {
-      "chainId": 369,
       "name": "DOGE",
       "address": "0x9CC7437978255e2c38B0d3D4671fb9AC411a68aC",
       "symbol": "DOGE",
@@ -338,14 +314,6 @@
       "symbol": "TEXAN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xcFCFfE432A48dB53F59c301422d2EdD77B2A88d7.png"
-    },
-    {
-      "chainId": 369,
-      "name": "ePhiat from Ethereum",
-      "address": "0xfE39FDc0012DCf10C9f674ea7e74889e4d71a226",
-      "symbol": "ePhiat",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xfE39FDc0012DCf10C9f674ea7e74889e4d71a226.png"
     },
     {
       "chainId": 369,
@@ -394,6 +362,22 @@
       "symbol": "AAVE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9.webp"
+    },
+    {
+      "chainId": 369,
+      "name": "Uniswap from Ethereum",
+      "address": "0x3f105121A10247DE9a92e818554DD5Fcd2063AE7",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x3f105121A10247DE9a92e818554DD5Fcd2063AE7.png"
+    },
+    {
+      "chainId": 369,
+      "name": "ChainLink Token from Ethereum",
+      "address": "0xEe2D275Dbb79c7871F8C6eB2A4D0687dD85409D1",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xEe2D275Dbb79c7871F8C6eB2A4D0687dD85409D1.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
