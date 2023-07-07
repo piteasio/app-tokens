@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-07-06T07:12:06.436Z",
-  "version": { "major": 3, "minor": 1, "patch": 3 },
+  "timestamp": "2023-07-07T07:12:06.436Z",
+  "version": { "major": 3, "minor": 2, "patch": 1 },
   "tokens": [
     {
       "chainId": 369,
@@ -201,7 +201,7 @@
       "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
       "symbol": "PEPE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6982508145454Ce325dDbE47a25d4ec3d2311933.webp"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6982508145454Ce325dDbE47a25d4ec3d2311933.png"
     },
     {
       "chainId": 369,
@@ -209,7 +209,7 @@
       "address": "0xe9f84d418B008888A992Ff8c6D22389C2C3504e0",
       "symbol": "BASE",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe9f84d418b008888a992ff8c6d22389c2c3504e0.webp"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe9f84d418b008888a992ff8c6d22389c2c3504e0.png"
     },
     {
       "chainId": 369,
@@ -217,7 +217,7 @@
       "address": "0xCA35638A3fdDD02fEC597D8c1681198C06b23F58",
       "symbol": "TIME",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xCA35638A3fdDD02fEC597D8c1681198C06b23F58.webp"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xCA35638A3fdDD02fEC597D8c1681198C06b23F58.png"
     },
     {
       "chainId": 369,
@@ -249,7 +249,7 @@
       "address": "0x75DB6c0115bAE972979bAcCce94E3B8a21A48C4E",
       "symbol": "PP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x75DB6c0115bAE972979bAcCce94E3B8a21A48C4E.webp"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x75DB6c0115bAE972979bAcCce94E3B8a21A48C4E.png"
     },
     {
       "chainId": 369,
@@ -265,7 +265,7 @@
       "address": "0xeDA0073B4Aa1b1B6f9c718c3036551ab46E5Ec32",
       "symbol": "BEET",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xeDA0073B4Aa1b1B6f9c718c3036551ab46E5Ec32.webp"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xeDA0073B4Aa1b1B6f9c718c3036551ab46E5Ec32.png"
     },
     {
       "chainId": 369,
@@ -273,7 +273,7 @@
       "address": "0x6b32022693210cD2Cfc466b9Ac0085DE8fC34eA6",
       "symbol": "DECI",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6b32022693210cD2Cfc466b9Ac0085DE8fC34eA6.svg"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6b32022693210cD2Cfc466b9Ac0085DE8fC34eA6.png"
     },
     {
       "chainId": 369,
@@ -281,7 +281,7 @@
       "address": "0x0d86EB9f43C57f6FF3BC9E23D8F9d82503f0e84b",
       "symbol": "MAXI",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x0d86EB9f43C57f6FF3BC9E23D8F9d82503f0e84b.svg"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x0d86EB9f43C57f6FF3BC9E23D8F9d82503f0e84b.png"
     },
     {
       "chainId": 369,
@@ -289,7 +289,7 @@
       "address": "0x9CC7437978255e2c38B0d3D4671fb9AC411a68aC",
       "symbol": "DOGE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9CC7437978255e2c38B0d3D4671fb9AC411a68aC.jpg"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9CC7437978255e2c38B0d3D4671fb9AC411a68aC.png"
     },
     {
       "chainId": 369,
@@ -297,7 +297,7 @@
       "address": "0xb55EE890426341FE45EE6dc788D2D93d25B59063",
       "symbol": "LOVE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xb55EE890426341FE45EE6dc788D2D93d25B59063.webp"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xb55EE890426341FE45EE6dc788D2D93d25B59063.png"
     },
     {
       "chainId": 369,
@@ -305,7 +305,7 @@
       "address": "0xB66aDb0ec2Fd216301e5d80B0270a1aA7495c56D",
       "symbol": "PLSPAD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xB66aDb0ec2Fd216301e5d80B0270a1aA7495c56D.webp"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xB66aDb0ec2Fd216301e5d80B0270a1aA7495c56D.png"
     },
     {
       "chainId": 369,
@@ -313,7 +313,7 @@
       "address": "0x39b9D781dAD0810D07E24426c876217218Ad353D",
       "symbol": "FLOW",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x39b9D781dAD0810D07E24426c876217218Ad353D.webp"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x39b9D781dAD0810D07E24426c876217218Ad353D.png"
     },
     {
       "chainId": 369,
@@ -337,7 +337,7 @@
       "address": "0x6cF99BAA0a4d079F960216d08cf9a1Bc7e4dd37C",
       "symbol": "EAZY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6cF99BAA0a4d079F960216d08cf9a1Bc7e4dd37C.webp"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6cF99BAA0a4d079F960216d08cf9a1Bc7e4dd37C.png"
     },
     {
       "chainId": 369,
@@ -369,7 +369,7 @@
       "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
       "symbol": "AAVE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9.webp"
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9.png"
     },
     {
       "chainId": 369,
