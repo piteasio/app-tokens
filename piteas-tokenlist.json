@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-07-07T10:12:06.436Z",
-  "version": { "major": 3, "minor": 2, "patch": 2 },
+  "timestamp": "2023-07-18T08:12:06.436Z",
+  "version": { "major": 3, "minor": 2, "patch": 3 },
   "tokens": [
     {
       "chainId": 369,
@@ -394,6 +394,38 @@
       "symbol": "POLY",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9d93692E826A4bd9e903e2A27D7FbD1e116efdad.png"
+    },
+    {
+      "chainId": 369,
+      "name": "HELGO",
+      "address": "0x0567CA0dE35606E9C260CC2358404B11DE21DB44",
+      "symbol": "HELGO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x0567CA0dE35606E9C260CC2358404B11DE21DB44.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Yield.Finance",
+      "address": "0xDd40a166b43c0b95F1248c9A5AFFD7A166f1526a",
+      "symbol": "YIELDX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xDd40a166b43c0b95F1248c9A5AFFD7A166f1526a.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Chirp.Finance",
+      "address": "0xCa66B54a8A4AD9a231DD70d3605D1ff6aE95d427",
+      "symbol": "CHIRP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xCa66B54a8A4AD9a231DD70d3605D1ff6aE95d427.png"
+    },
+    {
+      "chainId": 369,
+      "name": "TYRH",
+      "address": "0xc91562626B9a697af683555dA9946986278Ac9a5",
+      "symbol": "TYRH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xc91562626B9a697af683555dA9946986278Ac9a5.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
