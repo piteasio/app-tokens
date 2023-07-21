@@ -221,6 +221,14 @@
     },
     {
       "chainId": 369,
+      "name": "Internet Money",
+      "address": "0xBBcF895BFCb57d0f457D050bb806d1499436c0CE",
+      "symbol": "IM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xBBcF895BFCb57d0f457D050bb806d1499436c0CE.png"
+    },
+    {
+      "chainId": 369,
       "name": "PulseMoonR",
       "address": "0x2f28EC133bd2861a166d375145513EEd7F4947B4",
       "symbol": "MOONR",
