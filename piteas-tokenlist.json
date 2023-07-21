@@ -189,14 +189,6 @@
     },
     {
       "chainId": 369,
-      "name": "XEN Crypto",
-      "address": "0x8a7FDcA264e87b6da72D000f22186B4403081A2a",
-      "symbol": "pXEN",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8a7FDcA264e87b6da72D000f22186B4403081A2a.png"
-    },
-    {
-      "chainId": 369,
       "name": "Pepe",
       "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
       "symbol": "PEPE",
@@ -226,14 +218,6 @@
       "symbol": "IM",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xBBcF895BFCb57d0f457D050bb806d1499436c0CE.png"
-    },
-    {
-      "chainId": 369,
-      "name": "PulseMoonR",
-      "address": "0x2f28EC133bd2861a166d375145513EEd7F4947B4",
-      "symbol": "MOONR",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2f28EC133bd2861a166d375145513EEd7F4947B4.png"
     },
     {
       "chainId": 369,
@@ -309,14 +293,6 @@
     },
     {
       "chainId": 369,
-      "name": "PulsePad",
-      "address": "0xB66aDb0ec2Fd216301e5d80B0270a1aA7495c56D",
-      "symbol": "PLSPAD",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xB66aDb0ec2Fd216301e5d80B0270a1aA7495c56D.png"
-    },
-    {
-      "chainId": 369,
       "name": "Velocimeter",
       "address": "0x39b9D781dAD0810D07E24426c876217218Ad353D",
       "symbol": "FLOW",
@@ -354,14 +330,6 @@
       "symbol": "TETRAp",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xAeC4C07537B03E3E62fc066EC62401Aed5Fdd361.png"
-    },
-    {
-      "chainId": 369,
-      "name": "PulseReflections",
-      "address": "0xb6B57227150a7097723e0C013752001AaD01248F",
-      "symbol": "PRS",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xb6B57227150a7097723e0C013752001AaD01248F.png"
     },
     {
       "chainId": 369,
