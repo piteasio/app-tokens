@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-07-26T09:12:06.436Z",
-  "version": { "major": 3, "minor": 3, "patch": 2 },
+  "timestamp": "2023-07-26T09:18:06.436Z",
+  "version": { "major": 3, "minor": 4, "patch": 1 },
   "tokens": [
     {
       "chainId": 369,
@@ -418,6 +418,14 @@
       "symbol": "HOC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xd22E78C22D7E77229d60cc9fC57b0E294F54488E.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Apin Pulse",
+      "address": "0xBb101431d43b0E1fc31f000bf96826794806e0b4",
+      "symbol": "APC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xBb101431d43b0E1fc31f000bf96826794806e0b4.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
