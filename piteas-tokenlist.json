@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
   "timestamp": "2023-08-10T02:18:06.436Z",
-  "version": { "major": 3, "minor": 5, "patch": 2 },
+  "version": { "major": 4, "minor": 1, "patch": 1 },
   "tokens": [
     {
       "chainId": 369,
@@ -55,7 +55,7 @@
       "chainId": 369,
       "name": "Wrapped BTC",
       "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-      "symbol": "WBTC",
+      "symbol": "pWBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.png"
     },
@@ -114,22 +114,6 @@
       "symbol": "ICSA",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xfc4913214444aF5c715cc9F7b52655e788A569ed.png"
-    },
-    {
-      "chainId": 369,
-      "name": "Xenbitcoin",
-      "address": "0xB971a3429c04d96F8a75EDaC7bc79e7C4672b4E6",
-      "symbol": "XBTC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xB971a3429c04d96F8a75EDaC7bc79e7C4672b4E6.png"
-    },
-    {
-      "chainId": 369,
-      "name": "Pulse Inu",
-      "address": "0x655cdd69442912076A05975C26eA59BAd179244d",
-      "symbol": "PINU",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x655cdd69442912076A05975C26eA59BAd179244d.png"
     },
     {
       "chainId": 369,
@@ -253,14 +237,6 @@
     },
     {
       "chainId": 369,
-      "name": "BEETroot",
-      "address": "0xeDA0073B4Aa1b1B6f9c718c3036551ab46E5Ec32",
-      "symbol": "BEET",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xeDA0073B4Aa1b1B6f9c718c3036551ab46E5Ec32.png"
-    },
-    {
-      "chainId": 369,
       "name": "Maximus Decimus",
       "address": "0x6b32022693210cD2Cfc466b9Ac0085DE8fC34eA6",
       "symbol": "DECI",
@@ -274,14 +250,6 @@
       "symbol": "MAXI",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x0d86EB9f43C57f6FF3BC9E23D8F9d82503f0e84b.png"
-    },
-    {
-      "chainId": 369,
-      "name": "DOGE",
-      "address": "0x9CC7437978255e2c38B0d3D4671fb9AC411a68aC",
-      "symbol": "DOGE",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9CC7437978255e2c38B0d3D4671fb9AC411a68aC.png"
     },
     {
       "chainId": 369,
@@ -365,6 +333,14 @@
     },
     {
       "chainId": 369,
+      "name": "ChainLink Token",
+      "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+      "symbol": "pLINK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x514910771AF9Ca656af840dff83E8264EcF986CA.png"
+    },
+    {
+      "chainId": 369,
       "name": "Poly Maximus",
       "address": "0x9d93692E826A4bd9e903e2A27D7FbD1e116efdad",
       "symbol": "POLY",
@@ -394,14 +370,6 @@
       "symbol": "CHIRP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xCa66B54a8A4AD9a231DD70d3605D1ff6aE95d427.png"
-    },
-    {
-      "chainId": 369,
-      "name": "TYRH",
-      "address": "0xc91562626B9a697af683555dA9946986278Ac9a5",
-      "symbol": "TYRH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xc91562626B9a697af683555dA9946986278Ac9a5.png"
     },
     {
       "chainId": 369,
@@ -455,9 +423,25 @@
       "chainId": 369,
       "name": "Dai Stablecoin",
       "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-      "symbol": "DAI",
+      "symbol": "pDAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6B175474E89094C44Da98b954EedeAC495271d0F.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Tether USD",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "symbol": "pUSDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xdAC17F958D2ee523a2206206994597C13D831ec7.png"
+    },
+    {
+      "chainId": 369,
+      "name": "USD Coin",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "symbol": "pUSDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
