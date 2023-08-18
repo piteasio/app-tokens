@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-08-15T02:18:06.436Z",
-  "version": { "major": 4, "minor": 1, "patch": 3 },
+  "timestamp": "2023-08-18T02:18:06.436Z",
+  "version": { "major": 4, "minor": 2, "patch": 1 },
   "tokens": [
     {
       "chainId": 369,
@@ -466,6 +466,86 @@
       "symbol": "OPHIR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xC59Be55D22CB7967ee95e5bE0770e263EE014F78.png"
+    },
+    {
+      "chainId": 369,
+      "name": "AxisAlive",
+      "address": "0x8BDB63033b02C15f113De51EA1C3a96Af9e8ecb5",
+      "symbol": "AXIS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8BDB63033b02C15f113De51EA1C3a96Af9e8ecb5.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Atropa",
+      "address": "0xCc78A0acDF847A2C1714D2A925bB4477df5d48a6",
+      "symbol": "ATROPA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xCc78A0acDF847A2C1714D2A925bB4477df5d48a6.png"
+    },
+    {
+      "chainId": 369,
+      "name": "TYRH",
+      "address": "0xc91562626B9a697af683555dA9946986278Ac9a5",
+      "symbol": "TYRH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xc91562626B9a697af683555dA9946986278Ac9a5.png"
+    },
+    {
+      "chainId": 369,
+      "name": "BURN",
+      "address": "0xe20CCe146Eb2223B486C99B1d4a1a4200AeCD979",
+      "symbol": "BURN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe20CCe146Eb2223B486C99B1d4a1a4200AeCD979.png"
+    },
+    {
+      "chainId": 369,
+      "name": "PLANT",
+      "address": "0xD2320E58C9Fbc9c90Adcac7d6c27D7321aF6Fef5",
+      "symbol": "PLANT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD2320E58C9Fbc9c90Adcac7d6c27D7321aF6Fef5.png"
+    },
+    {
+      "chainId": 369,
+      "name": "WATER",
+      "address": "0xDFfBC11B0C5190c56956e299fd69d6d9b5dc9EF6",
+      "symbol": "WATER",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xDFfBC11B0C5190c56956e299fd69d6d9b5dc9EF6.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Hex Orange Address",
+      "address": "0x7901a3569679AEc3501dbeC59399F327854a70fe",
+      "symbol": "HOA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7901a3569679AEc3501dbeC59399F327854a70fe.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Meme Coin Mafia",
+      "address": "0x78a2809e8e2ef8e07429559f15703Ee20E885588",
+      "symbol": "M3M3",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x78a2809e8e2ef8e07429559f15703Ee20E885588.png"
+    },
+    {
+      "chainId": 369,
+      "name": "IMPLS Token",
+      "address": "0x5f63BC3d5bd234946f18d24e98C324f629D9d60e",
+      "symbol": "IMPLS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x5f63BC3d5bd234946f18d24e98C324f629D9d60e.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Where Did The ETH Go",
+      "address": "0xDe0220b69CE3e855a0124433A8E8D093f53A6bE4",
+      "symbol": "WHETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xDe0220b69CE3e855a0124433A8E8D093f53A6bE4.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
