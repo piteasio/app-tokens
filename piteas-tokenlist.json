@@ -570,6 +570,14 @@
       "symbol": "TSFi",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4243568Fa2bbad327ee36e06c16824cAd8B37819.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Leeloo",
+      "address": "0x4540C4aF8bB6696732108f646Ba97e04c6A981fD",
+      "symbol": "LEELU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4540C4aF8bB6696732108f646Ba97e04c6A981fD.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
