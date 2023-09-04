@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
   "timestamp": "2023-09-02T02:18:06.436Z",
-  "version": { "major": 4, "minor": 3, "patch": 1 },
+  "version": { "major": 4, "minor": 3, "patch": 2 },
   "tokens": [
     {
       "chainId": 369,
@@ -594,6 +594,22 @@
       "symbol": "SPARK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6386704cD6f7A584EA9D23cccA66aF7EBA5a727e.png"
+    },
+    {
+      "chainId": 369,
+      "name": "dOWN",
+      "address": "0x2556F7f8d82EbcdD7b821b0981C38D9dA9439CdD",
+      "symbol": "dOWN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2556F7f8d82EbcdD7b821b0981C38D9dA9439CdD.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Genius",
+      "address": "0x444444444444C1a66F394025Ac839A535246FCc8",
+      "symbol": "GENI",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x444444444444C1a66F394025Ac839A535246FCc8.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
