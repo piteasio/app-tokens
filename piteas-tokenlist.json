@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-09-04T02:18:06.436Z",
-  "version": { "major": 4, "minor": 3, "patch": 2 },
+  "timestamp": "2023-09-07T02:18:06.436Z",
+  "version": { "major": 4, "minor": 3, "patch": 3 },
   "tokens": [
     {
       "chainId": 369,
@@ -482,6 +482,14 @@
       "symbol": "PrimePHUX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x545998ABCbf0633C83bA20Cb94f384925BE75dd5.png"
+    },
+    {
+      "chainId": 369,
+      "name": "CST Stable Pool",
+      "address": "0x9009c1de3220cAF855F83140E5Ac18A43272eC01",
+      "symbol": "CSTStable",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9009c1de3220cAF855F83140E5Ac18A43272eC01.png"
     },
     {
       "chainId": 369,
