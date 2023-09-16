@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-09-14T03:18:06.436Z",
-  "version": { "major": 5, "minor": 3, "patch": 1 },
+  "timestamp": "2023-09-16T03:18:06.436Z",
+  "version": { "major": 5, "minor": 4, "patch": 1 },
   "tokens": [
     {
       "chainId": 369,
@@ -306,6 +306,14 @@
       "symbol": "PHUX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9663c2d75ffd5F4017310405fCe61720aF45B829.png"
+    },
+    {
+      "chainId": 369,
+      "name": "PHAME",
+      "address": "0x8854bC985fB5725F872c8856bEA11B917cAEb2fE",
+      "symbol": "PHAME",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8854bC985fB5725F872c8856bEA11B917cAEb2fE.png"
     },
     {
       "chainId": 369,
