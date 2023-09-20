@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-09-20T03:18:06.436Z",
-  "version": { "major": 5, "minor": 5, "patch": 1 },
+  "timestamp": "2023-09-20T03:19:06.436Z",
+  "version": { "major": 5, "minor": 6, "patch": 1 },
   "tokens": [
     {
       "chainId": 369,
@@ -490,6 +490,14 @@
       "symbol": "PrimePHUX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x545998ABCbf0633C83bA20Cb94f384925BE75dd5.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Phame LP",
+      "address": "0xF8bba8B1B1A05992B18051E4e79415364Cbf4539",
+      "symbol": "PHLP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xF8bba8B1B1A05992B18051E4e79415364Cbf4539.png"
     },
     {
       "chainId": 369,
