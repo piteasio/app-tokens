@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
   "timestamp": "2023-09-20T03:19:06.436Z",
-  "version": { "major": 5, "minor": 6, "patch": 1 },
+  "version": { "major": 5, "minor": 7, "patch": 1 },
   "tokens": [
     {
       "chainId": 369,
@@ -706,6 +706,22 @@
       "symbol": "GRANN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xfCf7F3915A899b9133b0D10f6b84F6a849C212Df.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Wrapped Ether",
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "symbol": "pWETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Monat Money",
+      "address": "0xf8AB3393b1f5CD6184Fb6800A1fC802043C4063e",
+      "symbol": "Ǝ𒑰",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xf8AB3393b1f5CD6184Fb6800A1fC802043C4063e.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
