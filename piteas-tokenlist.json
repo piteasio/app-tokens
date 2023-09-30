@@ -742,3 +742,11 @@
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+    {
+      "chainId": 369,
+      "address": "0xCF409C91B49DD3F796d20Eec20535fDC79A08798",
+      "name": "HEX.COM DIAMOND",
+      "symbol": "DMND",
+      "decimals": 18,
+      "logoURI": "file:///Users/feinewce/Downloads/GoPulse.com%20Profile%20Picture%20(1).png",
+    }
