@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-10-02T03:19:06.436Z",
-  "version": { "major": 5, "minor": 9, "patch": 1 },
+  "timestamp": "2023-10-06T03:19:06.436Z",
+  "version": { "major": 6, "minor": 0, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -746,6 +746,14 @@
       "symbol": "DMND",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xCF409C91B49DD3F796d20Eec20535fDC79A08798.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Atrofarm",
+      "address": "0x303f764A9c9511c12837cD2D1ECF13d4a6F99E17",
+      "symbol": "Atrofa",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x303f764A9c9511c12837cD2D1ECF13d4a6F99E17.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
