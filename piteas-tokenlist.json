@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-10-06T03:19:06.436Z",
-  "version": { "major": 6, "minor": 0, "patch": 0 },
+  "timestamp": "2023-10-11T03:19:06.436Z",
+  "version": { "major": 6, "minor": 1, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -754,6 +754,46 @@
       "symbol": "Atrofa",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x303f764A9c9511c12837cD2D1ECF13d4a6F99E17.png"
+    },
+    {
+      "chainId": 369,
+      "name": "PussyCat",
+      "address": "0x733099917CbA30614e4b2ef1de8A551645665143",
+      "symbol": "PUSSY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x733099917CbA30614e4b2ef1de8A551645665143.png"
+    },
+    {
+      "chainId": 369,
+      "name": "OG.Incentive",
+      "address": "0xF84b84dAAce6Ac00DbBAed26CA32Ff3570Aaf66C",
+      "symbol": "OG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xF84b84dAAce6Ac00DbBAed26CA32Ff3570Aaf66C.png"
+    },
+    {
+      "chainId": 369,
+      "name": "GillespieCoin",
+      "address": "0x3981920A82d95A117A8747eCF9A11e105Ca38B62",
+      "symbol": "GDAY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x3981920A82d95A117A8747eCF9A11e105Ca38B62.png"
+    },
+    {
+      "chainId": 369,
+      "name": "TANGent Golden Yacht",
+      "address": "0xdB8E20f794Fa48d36Ae4988dC3D5Ba327df625f8",
+      "symbol": "YACHT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xdB8E20f794Fa48d36Ae4988dC3D5Ba327df625f8.png"
+    },
+    {
+      "chainId": 369,
+      "name": "CiA",
+      "address": "0x2e5898b2e107a3cAf4f0597aCFE5D2e6d73F2196",
+      "symbol": "CiA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2e5898b2e107a3cAf4f0597aCFE5D2e6d73F2196.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
