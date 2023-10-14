@@ -797,4 +797,12 @@
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
-}
+},
+    {
+     "chainId": 369,
+     "address": "0x8eDb13CE75562056DFf2221D193557Fb4A05770D",
+     "name": "Make Ethereum Great Again",
+    "symbol": "MEGA",
+    "decimals": 18,
+    "logoURI": "https://postimg.cc/JHmWyqkM",
+    }
