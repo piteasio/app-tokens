@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-10-16T03:19:06.436Z",
-  "version": { "major": 6, "minor": 2, "patch": 0 },
+  "timestamp": "2023-10-17T03:19:06.436Z",
+  "version": { "major": 6, "minor": 3, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -802,6 +802,14 @@
       "symbol": "PLSD",
       "decimals": 12,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x34F0915a5f15a66Eba86F6a58bE1A471FB7836A7.png"
+    },
+    {
+      "chainId": 369,
+      "name": "XEN Crypto",
+      "address": "0x8a7FDcA264e87b6da72D000f22186B4403081A2a",
+      "symbol": "pXEN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8a7FDcA264e87b6da72D000f22186B4403081A2a.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
