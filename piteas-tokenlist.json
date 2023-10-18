@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-10-17T03:19:06.436Z",
-  "version": { "major": 6, "minor": 3, "patch": 0 },
+  "timestamp": "2023-10-18T03:19:06.436Z",
+  "version": { "major": 6, "minor": 4, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -810,6 +810,22 @@
       "symbol": "pXEN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8a7FDcA264e87b6da72D000f22186B4403081A2a.png"
+    },
+    {
+      "chainId": 369,
+      "name": "LUSD Stablecoin",
+      "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+      "symbol": "pLUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x5f98805A4E8be255a32880FDeC7F6728C6568bA0.png"
+    },
+    {
+      "chainId": 369,
+      "name": "PulseHotList",
+      "address": "0x3693693695E7a8Ac0ee0ff2f2C4E7B85eAB6c555",
+      "symbol": "PHL",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x3693693695E7a8Ac0ee0ff2f2C4E7B85eAB6c555.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
