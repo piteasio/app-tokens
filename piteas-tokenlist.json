@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-10-20T03:19:06.436Z",
-  "version": { "major": 6, "minor": 5, "patch": 0 },
+  "timestamp": "2023-10-20T03:19:07.436Z",
+  "version": { "major": 6, "minor": 6, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -266,6 +266,14 @@
       "symbol": "DECI",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6b32022693210cD2Cfc466b9Ac0085DE8fC34eA6.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Maximus Team",
+      "address": "0xB7c9E99Da8A857cE576A830A9c19312114d9dE02",
+      "symbol": "TEAM",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xB7c9E99Da8A857cE576A830A9c19312114d9dE02.png"
     },
     {
       "chainId": 369,
