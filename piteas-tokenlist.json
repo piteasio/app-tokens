@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-10-18T03:19:06.436Z",
-  "version": { "major": 6, "minor": 4, "patch": 0 },
+  "timestamp": "2023-10-20T03:19:06.436Z",
+  "version": { "major": 6, "minor": 5, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -826,6 +826,14 @@
       "symbol": "PHL",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x3693693695E7a8Ac0ee0ff2f2C4E7B85eAB6c555.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Mintra",
+      "address": "0x207e6b4529840A4fd518f73c68bc9c19B2A15944",
+      "symbol": "MINT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x207e6b4529840A4fd518f73c68bc9c19B2A15944.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
