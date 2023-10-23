@@ -1,0 +1,8 @@
+{
+    "chainId": 369
+    "address": "0x2502053928880d66a7b4B17f9eCeFad63bfF17Aa",
+    "name": "BTC HalvingCountdown",
+    "symbol": "BHC",
+    "decimals": 18,
+    "logoURI": "https://snipboard.io/kZXCKq.jpg",
+}
