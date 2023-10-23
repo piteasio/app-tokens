@@ -1,0 +1,8 @@
+{
+    "chainId": 369
+    "address": "token_address on Pulsechain",
+    "name": "BTC HalvingCountdown",
+    "symbol": "BHC",
+    "decimals": 18,
+    "logoURI": "https://snipboard.io/kZXCKq.jpg",
+}
