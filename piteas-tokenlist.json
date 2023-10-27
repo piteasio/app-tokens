@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-10-23T03:19:07.436Z",
-  "version": { "major": 6, "minor": 7, "patch": 0 },
+  "timestamp": "2023-10-27T03:19:07.436Z",
+  "version": { "major": 6, "minor": 8, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -226,6 +226,22 @@
       "symbol": "IM",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xBBcF895BFCb57d0f457D050bb806d1499436c0CE.png"
+    },
+    {
+      "chainId": 369,
+      "name": "9INCH",
+      "address": "0x3ca80d83277e721171284667829c686527B8b3c5",
+      "symbol": "9INCH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x3ca80d83277e721171284667829c686527B8b3c5.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Big Bonus Coin",
+      "address": "0x8b4cfb020aF9AcAd95AD80020cE8f67FBB2C700E",
+      "symbol": "BBC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8b4cfb020aF9AcAd95AD80020cE8f67FBB2C700E.png"
     },
     {
       "chainId": 369,
