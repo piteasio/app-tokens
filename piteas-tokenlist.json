@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
   "timestamp": "2023-10-27T03:19:07.436Z",
-  "version": { "major": 6, "minor": 8, "patch": 0 },
+  "version": { "major": 6, "minor": 9, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -866,6 +866,14 @@
       "symbol": "PKTTN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x378b04A0E24DbF08dcA65F3c87aD9dafc1d0dd9d.png"
+    },
+    {
+      "chainId": 369,
+      "name": "TOYBUX",
+      "address": "0xcb2c9c2CF13e193F634c84879F375B524e4A73C3",
+      "symbol": "TBUX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xcb2c9c2CF13e193F634c84879F375B524e4A73C3.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
