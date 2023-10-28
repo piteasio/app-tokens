@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-10-27T03:19:07.436Z",
-  "version": { "major": 6, "minor": 9, "patch": 0 },
+  "timestamp": "2023-10-28T03:19:07.436Z",
+  "version": { "major": 6, "minor": 10, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -874,6 +874,14 @@
       "symbol": "TBUX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xcb2c9c2CF13e193F634c84879F375B524e4A73C3.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Communis",
+      "address": "0x5A9780Bfe63f3ec57f01b087cD65BD656C9034A8",
+      "symbol": "COM",
+      "decimals": 12,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x5A9780Bfe63f3ec57f01b087cD65BD656C9034A8.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
