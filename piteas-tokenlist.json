@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-10-28T03:19:07.436Z",
-  "version": { "major": 6, "minor": 10, "patch": 0 },
+  "timestamp": "2023-10-31T03:19:07.436Z",
+  "version": { "major": 6, "minor": 11, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -234,6 +234,14 @@
       "symbol": "9INCH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x3ca80d83277e721171284667829c686527B8b3c5.png"
+    },
+    {
+      "chainId": 369,
+      "name": "9INCH from Ethereum",
+      "address": "0xeD22494279e0F3F1Ab491F823c6eC4055afeB21F",
+      "symbol": "9INCH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xeD22494279e0F3F1Ab491F823c6eC4055afeB21F.png"
     },
     {
       "chainId": 369,
