@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-10-31T03:19:07.436Z",
-  "version": { "major": 6, "minor": 11, "patch": 0 },
+  "timestamp": "2023-11-06T03:19:07.436Z",
+  "version": { "major": 6, "minor": 12, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -890,6 +890,14 @@
       "symbol": "COM",
       "decimals": 12,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x5A9780Bfe63f3ec57f01b087cD65BD656C9034A8.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Basketball",
+      "address": "0x35F525BEe58624b89879CDAfAdA040F5840D4460",
+      "symbol": "NBA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x35F525BEe58624b89879CDAfAdA040F5840D4460.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
