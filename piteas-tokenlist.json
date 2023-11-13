@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-11-10T03:19:08.436Z",
-  "version": { "major": 6, "minor": 14, "patch": 0 },
+  "timestamp": "2023-11-13T03:19:08.436Z",
+  "version": { "major": 6, "minor": 15, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -914,6 +914,14 @@
       "symbol": "DOGE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9CC7437978255e2c38B0d3D4671fb9AC411a68aC.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Glass",
+      "address": "0xd687FF2C9C5294f4A2bC0300B46eA921dB312063",
+      "symbol": "GLASS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xd687FF2C9C5294f4A2bC0300B46eA921dB312063.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
