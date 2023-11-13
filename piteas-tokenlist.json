@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-11-13T03:19:08.436Z",
-  "version": { "major": 6, "minor": 15, "patch": 0 },
+  "timestamp": "2023-11-13T03:19:18.436Z",
+  "version": { "major": 6, "minor": 16, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -922,6 +922,14 @@
       "symbol": "GLASS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xd687FF2C9C5294f4A2bC0300B46eA921dB312063.png"
+    },
+    {
+      "chainId": 369,
+      "name": "PulseInu",
+      "address": "0xa12E2661ec6603CBbB891072b2Ad5b3d5edb48bd",
+      "symbol": "PINU",
+      "decimals": 12,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xa12E2661ec6603CBbB891072b2Ad5b3d5edb48bd.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
