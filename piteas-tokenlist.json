@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-11-18T03:19:18.436Z",
-  "version": { "major": 6, "minor": 18, "patch": 0 },
+  "timestamp": "2023-11-23T03:19:18.436Z",
+  "version": { "major": 6, "minor": 19, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -954,6 +954,14 @@
       "symbol": "PLN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xa685C45fd071DF23278069Db9137e124564897D0.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Fluffy Slippers Edition",
+      "address": "0x21F279B6de28C98a3093E4D79e11E7b82a2E225C",
+      "symbol": "FLUFFY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x21F279B6de28C98a3093E4D79e11E7b82a2E225C.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
