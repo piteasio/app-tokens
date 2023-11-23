@@ -954,6 +954,14 @@
       "symbol": "PLN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xa685C45fd071DF23278069Db9137e124564897D0.png"
+    },
+    {
+    "chainId": 369,
+    "address": "0x21F279B6de28C98a3093E4D79e11E7b82a2E225C",
+    "name": "Fluffy Slippers Edition 0",
+    "symbol": "Fluffy",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x21F279B6de28C98a3093E4D79e11E7b82a2E225C.png",
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
