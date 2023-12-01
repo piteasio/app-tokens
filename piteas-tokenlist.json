@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-11-30T03:19:18.436Z",
-  "version": { "major": 6, "minor": 20, "patch": 0 },
+  "timestamp": "2023-12-01T03:19:18.436Z",
+  "version": { "major": 6, "minor": 21, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -978,6 +978,14 @@
       "symbol": "ANON",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x075F7F657AEAD0e698EDb4E0A47d1DEF869536B4.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Baaana Massik",
+      "address": "0x637Ecd6b33BD8d5A550939A2e6058Dd7Dc52812e",
+      "symbol": "BAANA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x637Ecd6b33BD8d5A550939A2e6058Dd7Dc52812e.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
