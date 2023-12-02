@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
   "timestamp": "2023-12-01T03:19:18.436Z",
-  "version": { "major": 6, "minor": 21, "patch": 0 },
+  "version": { "major": 6, "minor": 22, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -250,6 +250,22 @@
       "symbol": "BBC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8b4cfb020aF9AcAd95AD80020cE8f67FBB2C700E.png"
+    },
+    {
+      "chainId": 369,
+      "name": "USDL Stablecoin",
+      "address": "0x0dEEd1486bc52aA0d3E6f8849cEC5adD6598A162",
+      "symbol": "USDL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x0dEEd1486bc52aA0d3E6f8849cEC5adD6598A162.png"
+    },
+    {
+      "chainId": 369,
+      "name": "LOAN",
+      "address": "0x9159f1D2a9f51998Fc9Ab03fbd8f265ab14A1b3B",
+      "symbol": "LOAN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9159f1D2a9f51998Fc9Ab03fbd8f265ab14A1b3B.png"
     },
     {
       "chainId": 369,
