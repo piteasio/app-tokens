@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-12-01T03:19:18.436Z",
-  "version": { "major": 6, "minor": 22, "patch": 0 },
+  "timestamp": "2023-12-07T03:19:18.436Z",
+  "version": { "major": 6, "minor": 23, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -42,22 +42,6 @@
       "symbol": "PTS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433.png"
-    },
-    {
-      "chainId": 369,
-      "name": "Piteas Maxi Pool",
-      "address": "0x4942Ab2e69deD72627EeC632bC30e246e5d0ef88",
-      "symbol": "PTSMaxi",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4942Ab2e69deD72627EeC632bC30e246e5d0ef88.png"
-    },
-    {
-      "chainId": 369,
-      "name": "Piteas Lite Pool",
-      "address": "0x1BB0b07Ee7E95f2b8bbf115385311Dc63638aBCf",
-      "symbol": "PTSLite",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1BB0b07Ee7E95f2b8bbf115385311Dc63638aBCf.png"
     },
     {
       "chainId": 369,
