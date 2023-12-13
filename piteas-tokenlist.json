@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-12-07T03:31:18.436Z",
-  "version": { "major": 6, "minor": 25, "patch": 0 },
+  "timestamp": "2023-12-13T03:31:18.436Z",
+  "version": { "major": 6, "minor": 26, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -250,6 +250,14 @@
       "symbol": "LOAN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9159f1D2a9f51998Fc9Ab03fbd8f265ab14A1b3B.png"
+    },
+    {
+      "chainId": 369,
+      "name": "WATT",
+      "address": "0xDfdc2836FD2E63Bba9f0eE07901aD465Bff4DE71",
+      "symbol": "WATT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xDfdc2836FD2E63Bba9f0eE07901aD465Bff4DE71.png"
     },
     {
       "chainId": 369,
