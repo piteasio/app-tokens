@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-12-18T03:31:18.436Z",
-  "version": { "major": 7, "minor": 0, "patch": 0 },
+  "timestamp": "2023-12-18T03:32:18.436Z",
+  "version": { "major": 7, "minor": 1, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1034,6 +1034,14 @@
       "symbol": "NOPE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8D36123903f504eB81eEB832727af517c0db26bD.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Degen Protocol GOAT",
+      "address": "0xF5D0140B4d53c9476DC1488BC6d8597d7393f074",
+      "symbol": "GOAT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xF5D0140B4d53c9476DC1488BC6d8597d7393f074.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
