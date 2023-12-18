@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
   "timestamp": "2023-12-18T03:31:18.436Z",
-  "version": { "major": 6, "minor": 29, "patch": 0 },
+  "version": { "major": 7, "minor": 0, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
