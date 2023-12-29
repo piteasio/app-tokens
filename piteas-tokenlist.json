@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-12-18T03:32:18.436Z",
-  "version": { "major": 7, "minor": 1, "patch": 0 },
+  "timestamp": "2023-12-29T03:32:18.436Z",
+  "version": { "major": 7, "minor": 2, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -765,7 +765,7 @@
     },
     {
       "chainId": 369,
-      "name": "Monat Money",
+      "name": "monat money Ǝ𒑰",
       "address": "0xf8AB3393b1f5CD6184Fb6800A1fC802043C4063e",
       "symbol": "Ǝ𒑰",
       "decimals": 18,
@@ -1042,6 +1042,22 @@
       "symbol": "GOAT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xF5D0140B4d53c9476DC1488BC6d8597d7393f074.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Wrapped BNB from BSC",
+      "address": "0x518076CCE3729eF1a3877EA3647a26e278e764FE",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x518076CCE3729eF1a3877EA3647a26e278e764FE.png"
+    },
+    {
+      "chainId": 369,
+      "name": "CROWS ㉫",
+      "address": "0x203e366A1821570b2f84Ff5ae8B3BdeB48Dc4fa1",
+      "symbol": "CROWS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x203e366A1821570b2f84Ff5ae8B3BdeB48Dc4fa1.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
