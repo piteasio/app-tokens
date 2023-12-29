@@ -1042,7 +1042,15 @@
       "symbol": "GOAT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xF5D0140B4d53c9476DC1488BC6d8597d7393f074.png"
-    }
-  ],
+     },
+    {
+      "chainId": 369,
+      "name": "Vibranium Token",
+      "address": "0x9F76E2aE203ce81a9E3B97007462052a26F63922",
+      "symbol": "VBNT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/codmpro/codmpro/main/token-logo/vbnt.PNG"
+    },
+  {
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
