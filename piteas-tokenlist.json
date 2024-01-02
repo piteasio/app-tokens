@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2023-12-29T03:32:18.436Z",
-  "version": { "major": 7, "minor": 2, "patch": 0 },
+  "timestamp": "2024-01-02T03:32:18.436Z",
+  "version": { "major": 7, "minor": 3, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1058,6 +1058,30 @@
       "symbol": "CROWS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x203e366A1821570b2f84Ff5ae8B3BdeB48Dc4fa1.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Carpe Diem Pension",
+      "address": "0x6f0dDa6b522fcC7807CcacA4D37eF6958e95E1B9",
+      "symbol": "CDP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6f0dDa6b522fcC7807CcacA4D37eF6958e95E1B9.png"
+    },
+    {
+      "chainId": 369,
+      "name": "NO EXPECTATION",
+      "address": "0x0016269802dE1FC2dC4F5Cfd2178f721EF2171EE",
+      "symbol": "NOEX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x0016269802dE1FC2dC4F5Cfd2178f721EF2171EE.png"
+    },
+    {
+      "chainId": 369,
+      "name": "PUSD",
+      "address": "0xff6eCEdc9Dca27Cf92930E227F4237771ED9F6A5",
+      "symbol": "PUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xff6eCEdc9Dca27Cf92930E227F4237771ED9F6A5.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
