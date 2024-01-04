@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-01-02T03:45:18.436Z",
-  "version": { "major": 7, "minor": 5, "patch": 0 },
+  "timestamp": "2024-01-03T03:45:18.436Z",
+  "version": { "major": 7, "minor": 6, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1114,6 +1114,14 @@
       "symbol": "COOKIES",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7E461D9b06e8B7a4806beB6B9C5C5CB44da3E555.png"
+    },
+    {
+      "chainId": 369,
+      "name": "SteamBoat Shilly",
+      "address": "0x59ae4b213016ef205b38c7e5836fE62cFf342E1B",
+      "symbol": "STEAM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x59ae4b213016ef205b38c7e5836fE62cFf342E1B.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
