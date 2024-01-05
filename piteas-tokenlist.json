@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-01-03T03:45:18.436Z",
-  "version": { "major": 7, "minor": 6, "patch": 0 },
+  "timestamp": "2024-01-05T03:45:18.436Z",
+  "version": { "major": 7, "minor": 7, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -154,6 +154,22 @@
       "symbol": "TRIO",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xF55cD1e399e1cc3D95303048897a680be3313308.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Maximus from Ethereum",
+      "address": "0x352511c9bC5D47DBC122883Ed9353E987d10A3BA",
+      "symbol": "eMAXI",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x352511c9bC5D47DBC122883Ed9353E987d10A3BA.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Maximus Decimus from Ethereum",
+      "address": "0x189a3CA3cC1337e85c7bC0a43b8d3457FD5AaE89",
+      "symbol": "eDECI",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x189a3CA3cC1337e85c7bC0a43b8d3457FD5AaE89.png"
     },
     {
       "chainId": 369,
