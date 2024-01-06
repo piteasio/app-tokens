@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-01-05T03:45:18.436Z",
-  "version": { "major": 7, "minor": 7, "patch": 0 },
+  "timestamp": "2024-01-06T03:45:18.436Z",
+  "version": { "major": 7, "minor": 8, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1138,6 +1138,30 @@
       "symbol": "STEAM",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x59ae4b213016ef205b38c7e5836fE62cFf342E1B.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Richards Only Brothr",
+      "address": "0x1c2766F5949A4aA5d4cf0439067051135ffc1b28",
+      "symbol": "ROB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1c2766F5949A4aA5d4cf0439067051135ffc1b28.png"
+    },
+    {
+      "chainId": 369,
+      "name": "The Grays Currency",
+      "address": "0x94534EeEe131840b1c0F61847c572228bdfDDE93",
+      "symbol": "pTGC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x94534EeEe131840b1c0F61847c572228bdfDDE93.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Bastard Token",
+      "address": "0xD738328b589c6fbfd1Dcff107C4243c73b2e05a9",
+      "symbol": "BSTRD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD738328b589c6fbfd1Dcff107C4243c73b2e05a9.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
