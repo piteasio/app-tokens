@@ -1162,6 +1162,22 @@
       "symbol": "BSTRD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD738328b589c6fbfd1Dcff107C4243c73b2e05a9.png"
+    },
+    {
+      "chainId": 369,
+      "name": "PAPER Token",
+      "address": "0x18f0Cf904adaeaC2e6bfE573d61f51D4699De72d",
+      "symbol": "PAPER",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x18f0Cf904adaeaC2e6bfE573d61f51D4699De72d.png"
+    },
+    {
+      "chainId": 369,
+      "name": "INK Token",
+      "address": "0xe5e6dFe69aE1d74d506859E052ed7e1b5DbB9d38",
+      "symbol": "INK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe5e6dFe69aE1d74d506859E052ed7e1b5DbB9d38.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
