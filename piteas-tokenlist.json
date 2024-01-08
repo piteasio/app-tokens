@@ -213,6 +213,14 @@
     },
     {
       "chainId": 369,
+      "name": "Cronos Coin",
+      "address": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+      "symbol": "CRO",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b.png"
+    },
+    {
+      "chainId": 369,
       "name": "Maximus BASE",
       "address": "0xe9f84d418B008888A992Ff8c6D22389C2C3504e0",
       "symbol": "BASE",
