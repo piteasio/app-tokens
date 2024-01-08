@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-01-07T03:45:18.436Z",
-  "version": { "major": 7, "minor": 9, "patch": 0 },
+  "timestamp": "2024-01-07T04:45:18.436Z",
+  "version": { "major": 7, "minor": 10, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1186,6 +1186,14 @@
       "symbol": "PLSP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xC52F739f544d20725BA7aD47Bb42299034F06f4F.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Pulse Inu Puppy",
+      "address": "0xe83034A7A78fC148c69defebD6D4C80f8Bb4f710",
+      "symbol": "PINU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe83034A7A78fC148c69defebD6D4C80f8Bb4f710.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
