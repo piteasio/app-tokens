@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-01-10T04:45:18.436Z",
-  "version": { "major": 7, "minor": 11, "patch": 0 },
+  "timestamp": "2024-01-12T04:45:18.436Z",
+  "version": { "major": 7, "minor": 12, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1210,6 +1210,22 @@
       "symbol": "HTP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7c7ba94b60270BC2c7d98d3498B5ce85B870a749.png"
+    },
+    {
+      "chainId": 369,
+      "name": "CAVIAR",
+      "address": "0x8C5eB0F7007c374D6FE14627259B99a5e9613C84",
+      "symbol": "CAVIAR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8C5eB0F7007c374D6FE14627259B99a5e9613C84.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Blastar",
+      "address": "0x6a44bE19d96f087494Bafa66EE5DF1bf7AAF220f",
+      "symbol": "BLAST",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6a44bE19d96f087494Bafa66EE5DF1bf7AAF220f.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
