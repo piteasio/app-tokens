@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-01-14T04:46:18.436Z",
-  "version": { "major": 7, "minor": 15, "patch": 0 },
+  "timestamp": "2024-01-15T04:46:18.436Z",
+  "version": { "major": 7, "minor": 16, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1250,6 +1250,14 @@
       "symbol": "MORE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xbEEf3bB9dA340EbdF0f5bae2E85368140d7D85D0.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Teddy Bear INU",
+      "address": "0xee9082DaEA925Be8F79f1b2c457fC9470A104414",
+      "symbol": "TBI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xee9082DaEA925Be8F79f1b2c457fC9470A104414.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
