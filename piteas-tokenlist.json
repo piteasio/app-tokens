@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-01-15T04:46:18.436Z",
-  "version": { "major": 7, "minor": 16, "patch": 0 },
+  "timestamp": "2024-01-16T04:46:18.436Z",
+  "version": { "major": 7, "minor": 17, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1258,6 +1258,14 @@
       "symbol": "TBI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xee9082DaEA925Be8F79f1b2c457fC9470A104414.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Galactic Credits",
+      "address": "0x49603d2C2bf78A88767cDca6E76c64cd5E8D6482",
+      "symbol": "CREDS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x49603d2C2bf78A88767cDca6E76c64cd5E8D6482.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
