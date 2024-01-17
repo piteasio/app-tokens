@@ -1261,4 +1261,12 @@
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
-}
+},
+{
+      "chainId": 369,
+      "name": "Galactic Credits",
+      "address": "0x49603d2c2bf78a88767cdca6e76c64cd5e8d6482",
+      "symbol": "CREDS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x49603d2c2bf78a88767cdca6e76c64cd5e8d6482.png"
+    }
