@@ -1266,6 +1266,14 @@
       "symbol": "CREDS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x49603d2C2bf78A88767cDca6E76c64cd5E8D6482.png"
+    },
+    {
+      "chainId": 369,
+      "name": "SEED",
+      "address": "0x71B6a1D8E065E68E02c0CfcC1Ef763f7c8F86914",
+      "symbol": "SEED",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x71B6a1D8E065E68E02c0CfcC1Ef763f7c8F86914.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
