@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-01-16T04:46:18.436Z",
-  "version": { "major": 7, "minor": 17, "patch": 0 },
+  "timestamp": "2024-01-22T04:46:18.436Z",
+  "version": { "major": 7, "minor": 18, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1266,6 +1266,22 @@
       "symbol": "CREDS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x49603d2C2bf78A88767cDca6E76c64cd5E8D6482.png"
+    },
+    {
+      "chainId": 369,
+      "name": "BOBO",
+      "address": "0x645c33E6ecC5e5FD67Bcc248cAd29B1950E469C6",
+      "symbol": "BOBO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x645c33E6ecC5e5FD67Bcc248cAd29B1950E469C6.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Louis The Duck",
+      "address": "0x88BdfdBbb5f6DeF9fA1B20eeFDB7FbF41Eb789CB",
+      "symbol": "DUCK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x88BdfdBbb5f6DeF9fA1B20eeFDB7FbF41Eb789CB.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
