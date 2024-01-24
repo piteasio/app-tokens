@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-01-23T04:46:18.436Z",
-  "version": { "major": 7, "minor": 19, "patch": 0 },
+  "timestamp": "2024-01-24T04:46:18.436Z",
+  "version": { "major": 7, "minor": 20, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1290,6 +1290,14 @@
       "symbol": "INCX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xc1b4EfB8086a4a366712C851b1E3DB035eCC0532.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Vortex",
+      "address": "0x73d8a4D01d658E565cF83068397FD39Baf386C48",
+      "symbol": "VRX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x73d8a4D01d658E565cF83068397FD39Baf386C48.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
