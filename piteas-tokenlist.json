@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-01-24T04:46:18.436Z",
-  "version": { "major": 7, "minor": 20, "patch": 0 },
+  "timestamp": "2024-01-25T04:46:18.436Z",
+  "version": { "major": 7, "minor": 21, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1298,6 +1298,30 @@
       "symbol": "VRX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x73d8a4D01d658E565cF83068397FD39Baf386C48.png"
+    },
+    {
+      "chainId": 369,
+      "name": "AMERICA FIRST",
+      "address": "0x345a4614981307D70d052c41022f168ee14464ba",
+      "symbol": "FREEDOM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x345a4614981307D70d052c41022f168ee14464ba.png"
+    },
+    {
+      "chainId": 369,
+      "name": "PulseChain Idiot",
+      "address": "0x02bFc9c1B057d301ADEFeE1E11D1b46853ba8319",
+      "symbol": "IDIOT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x02bFc9c1B057d301ADEFeE1E11D1b46853ba8319.png"
+    },
+    {
+      "chainId": 369,
+      "name": "ogwebchef888",
+      "address": "0x2bA6e201ad6f14522320BEA885A102dbb798C345",
+      "symbol": "∞",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2bA6e201ad6f14522320BEA885A102dbb798C345.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
