@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-01-27T04:47:19.436Z",
-  "version": { "major": 8, "minor": 1, "patch": 0 },
+  "timestamp": "2024-02-02T01:11:19.436Z",
+  "version": { "major": 8, "minor": 2, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1317,11 +1317,59 @@
     },
     {
       "chainId": 369,
+      "name": "ZKZX",
+      "address": "0x319e55Be473C77C35316651995C048a415219604",
+      "symbol": "ZKZX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x319e55Be473C77C35316651995C048a415219604.png"
+    },
+    {
+      "chainId": 369,
+      "name": "2 Cent Club",
+      "address": "0x6293373bf0dae2050641973d49b7b2f71adc91a1",
+      "symbol": "2CC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6293373bf0dae2050641973d49b7b2f71adc91a1.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Bigfoot",
+      "address": "0x56c57426795174789dadBb1BA07452270e010448",
+      "symbol": "BFX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x56c57426795174789dadBb1BA07452270e010448.png"
+    },
+    {
+      "chainId": 369,
       "name": "ogwebchef888",
       "address": "0x2bA6e201ad6f14522320BEA885A102dbb798C345",
       "symbol": "∞",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2bA6e201ad6f14522320BEA885A102dbb798C345.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Magic Carpet Ride",
+      "address": "0xc42945a98Eaaae8FaFBc76baCE473C90D8100967",
+      "symbol": "MAGIC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xc42945a98Eaaae8FaFBc76baCE473C90D8100967.png"
+    },
+    {
+      "chainId": 369,
+      "name": "INT3RC3PTOR",
+      "address": "0x7dB3b754883307851e2246Ad6B44D60f42Bf936F",
+      "symbol": "INTR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7dB3b754883307851e2246Ad6B44D60f42Bf936F.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Atropine",
+      "address": "0xE846884430D527168B4EAaC80Af9268515D2f0CC",
+      "symbol": "PINE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xE846884430D527168B4EAaC80Af9268515D2f0CC.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
