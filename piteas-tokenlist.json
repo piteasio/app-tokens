@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-02-02T01:11:19.436Z",
-  "version": { "major": 8, "minor": 2, "patch": 0 },
+  "timestamp": "2024-02-03T01:11:19.436Z",
+  "version": { "major": 8, "minor": 3, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1370,6 +1370,14 @@
       "symbol": "PINE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xE846884430D527168B4EAaC80Af9268515D2f0CC.png"
+    },
+    {
+      "chainId": 369,
+      "name": "ALIEN",
+      "address": "0x1B7B541BeA3aF39292FCe08649e4C4e1BEE408a1",
+      "symbol": "ALIEN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1B7B541BeA3aF39292FCe08649e4C4e1BEE408a1.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
