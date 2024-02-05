@@ -477,14 +477,6 @@
     },
     {
       "chainId": 369,
-      "name": "BEETroot",
-      "address": "0xeDA0073B4Aa1b1B6f9c718c3036551ab46E5Ec32",
-      "symbol": "BEET",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xeDA0073B4Aa1b1B6f9c718c3036551ab46E5Ec32.png"
-    },
-    {
-      "chainId": 369,
       "name": "WAIT",
       "address": "0x26179a4d4B58b4456F28d19507546596c9058ee5",
       "symbol": "WAIT",
