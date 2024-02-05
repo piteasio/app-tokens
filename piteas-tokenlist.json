@@ -1029,14 +1029,6 @@
     },
     {
       "chainId": 369,
-      "name": "Sexy",
-      "address": "0x138a0d85353b76326129E69D185EEd6cA85a4236",
-      "symbol": "EXY",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x138a0d85353b76326129E69D185EEd6cA85a4236.png"
-    },
-    {
-      "chainId": 369,
       "name": "Never Broke Again",
       "address": "0x93Ad3C61f5e39c0DA07fCEbAe0261eAA2d3A9314",
       "symbol": "NBA",
@@ -1213,14 +1205,6 @@
     },
     {
       "chainId": 369,
-      "name": "CAVIAR",
-      "address": "0x8C5eB0F7007c374D6FE14627259B99a5e9613C84",
-      "symbol": "CAVIAR",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8C5eB0F7007c374D6FE14627259B99a5e9613C84.png"
-    },
-    {
-      "chainId": 369,
       "name": "Blastar",
       "address": "0x6a44bE19d96f087494Bafa66EE5DF1bf7AAF220f",
       "symbol": "BLAST",
@@ -1285,22 +1269,6 @@
     },
     {
       "chainId": 369,
-      "name": "IncentiveX",
-      "address": "0xc1b4EfB8086a4a366712C851b1E3DB035eCC0532",
-      "symbol": "INCX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xc1b4EfB8086a4a366712C851b1E3DB035eCC0532.png"
-    },
-    {
-      "chainId": 369,
-      "name": "Vortex",
-      "address": "0x73d8a4D01d658E565cF83068397FD39Baf386C48",
-      "symbol": "VRX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x73d8a4D01d658E565cF83068397FD39Baf386C48.png"
-    },
-    {
-      "chainId": 369,
       "name": "AMERICA FIRST",
       "address": "0x345a4614981307D70d052c41022f168ee14464ba",
       "symbol": "FREEDOM",
@@ -1338,14 +1306,6 @@
       "symbol": "BFX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x56c57426795174789dadBb1BA07452270e010448.png"
-    },
-    {
-      "chainId": 369,
-      "name": "ogwebchef888",
-      "address": "0x2bA6e201ad6f14522320BEA885A102dbb798C345",
-      "symbol": "∞",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2bA6e201ad6f14522320BEA885A102dbb798C345.png"
     },
     {
       "chainId": 369,
