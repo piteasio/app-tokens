@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-02-03T01:11:19.436Z",
-  "version": { "major": 8, "minor": 3, "patch": 0 },
+  "timestamp": "2024-02-05T01:11:19.436Z",
+  "version": { "major": 8, "minor": 4, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -474,6 +474,14 @@
       "symbol": "CHIRP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xCa66B54a8A4AD9a231DD70d3605D1ff6aE95d427.png"
+    },
+    {
+      "chainId": 369,
+      "name": "BEETroot",
+      "address": "0xeDA0073B4Aa1b1B6f9c718c3036551ab46E5Ec32",
+      "symbol": "BEET",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xeDA0073B4Aa1b1B6f9c718c3036551ab46E5Ec32.png"
     },
     {
       "chainId": 369,
