@@ -1,6 +1,6 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-02-07T01:11:19.436Z",
+  "timestamp": "2024-02-10T01:11:19.436Z",
   "version": { "major": 8, "minor": 6, "patch": 0 },
   "tokens": [
     {
@@ -1354,6 +1354,30 @@
       "symbol": "NUTS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xc8C31011b54ec747aC87fCdC1d6119133d3aAcb5.png"
+    },
+    {
+      "chainId": 369,
+      "name": "HOAX",
+      "address": "0x4CB4eDdE04772332a42ECb039f3790e17733B4B8",
+      "symbol": "HOAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4CB4eDdE04772332a42ECb039f3790e17733B4B8.png"
+    },
+    {
+      "chainId": 369,
+      "name": "GOFURS",
+      "address": "0x54f667dB585b7B10347429C72c36c8B59aB441cb",
+      "symbol": "GOFURS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x54f667dB585b7B10347429C72c36c8B59aB441cb.png"
+    },
+    {
+      "chainId": 369,
+      "name": "We Are All Richard",
+      "address": "0xe06A747FC18d5fA14BBbD9E0e28da398B7B47689",
+      "symbol": "WAAR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe06A747FC18d5fA14BBbD9E0e28da398B7B47689.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
