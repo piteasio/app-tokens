@@ -1379,6 +1379,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x47cd1790BBA178894ce245D022ce869C674275dE.png"
     }
+    {
+      "chainId": 369,
+      "name": "EVMBitcoinToken",
+      "address": "0x10d46D6F8f691d3439A781FC5E7BE598Ab67b393",
+      "symbol": "E.BTC",
+      "decimals": 18,
+      "logoURI": "https://github.com/piteasio/app-tokens/blob/main/token-logo/0x10d46D6F8f691d3439A781FC5E7BE598Ab67b393.png"
+    }    
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
