@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-02-10T02:11:19.436Z",
-  "version": { "major": 8, "minor": 7, "patch": 0 },
+  "timestamp": "2024-02-12T02:11:19.436Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1386,6 +1386,30 @@
       "symbol": "FIRE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xf330cb1d41052dbC74D3325376Cb82E99454e501.png"
+    },
+    {
+      "chainId": 369,
+      "name": "FRENS",
+      "address": "0x438768705D3C57EE26918DcAFEBa08cdDdE50C7E",
+      "symbol": "FRENS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x438768705D3C57EE26918DcAFEBa08cdDdE50C7E.png"
+    },
+    {
+      "chainId": 369,
+      "name": "ŽIŽEK",
+      "address": "0xe2e1a5d691cCB9E88b84e23A1166B4e6Bd6904Dc",
+      "symbol": "ZIZEK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe2e1a5d691cCB9E88b84e23A1166B4e6Bd6904Dc.png"
+    },
+    {
+      "chainId": 369,
+      "name": "RH404",
+      "address": "0x749ccf4c4308490F3c395De897F58e091090B461",
+      "symbol": "RH404",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x749ccf4c4308490F3c395De897F58e091090B461.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
