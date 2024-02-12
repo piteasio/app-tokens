@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-02-12T02:12:19.436Z",
-  "version": { "major": 10, "minor": 0, "patch": 0 },
+  "timestamp": "2024-02-12T03:14:19.436Z",
+  "version": { "major": 10, "minor": 1, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -357,14 +357,6 @@
     },
     {
       "chainId": 369,
-      "name": "Velocimeter",
-      "address": "0x39b9D781dAD0810D07E24426c876217218Ad353D",
-      "symbol": "FLOW",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x39b9D781dAD0810D07E24426c876217218Ad353D.png"
-    },
-    {
-      "chainId": 369,
       "name": "TEXAN Token",
       "address": "0xcFCFfE432A48dB53F59c301422d2EdD77B2A88d7",
       "symbol": "TEXAN",
@@ -645,30 +637,6 @@
     },
     {
       "chainId": 369,
-      "name": "BURN",
-      "address": "0xe20CCe146Eb2223B486C99B1d4a1a4200AeCD979",
-      "symbol": "BURN",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe20CCe146Eb2223B486C99B1d4a1a4200AeCD979.png"
-    },
-    {
-      "chainId": 369,
-      "name": "PLANT",
-      "address": "0xD2320E58C9Fbc9c90Adcac7d6c27D7321aF6Fef5",
-      "symbol": "PLANT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD2320E58C9Fbc9c90Adcac7d6c27D7321aF6Fef5.png"
-    },
-    {
-      "chainId": 369,
-      "name": "WATER",
-      "address": "0xDFfBC11B0C5190c56956e299fd69d6d9b5dc9EF6",
-      "symbol": "WATER",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xDFfBC11B0C5190c56956e299fd69d6d9b5dc9EF6.png"
-    },
-    {
-      "chainId": 369,
       "name": "Hex Orange Address",
       "address": "0x7901a3569679AEc3501dbeC59399F327854a70fe",
       "symbol": "HOA",
@@ -794,14 +762,6 @@
       "symbol": "Ǝ𒑰",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xf8AB3393b1f5CD6184Fb6800A1fC802043C4063e.png"
-    },
-    {
-      "chainId": 369,
-      "name": "ThoughtCoin",
-      "address": "0xF8402D865f82562C52225CA7EfBbb3D24EEbc19a",
-      "symbol": "THCN",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xF8402D865f82562C52225CA7EfBbb3D24EEbc19a.png"
     },
     {
       "chainId": 369,
