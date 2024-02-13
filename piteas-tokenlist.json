@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-02-12T03:14:19.436Z",
-  "version": { "major": 10, "minor": 2, "patch": 0 },
+  "timestamp": "2024-02-13T03:14:19.436Z",
+  "version": { "major": 10, "minor": 3, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1378,6 +1378,30 @@
       "symbol": "DMC404",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x47cd1790BBA178894ce245D022ce869C674275dE.png"
+    },
+    {
+      "chainId": 369,
+      "name": "EvmBitcoinToken",
+      "address": "0x10d46D6F8f691d3439A781FC5E7BE598Ab67b393",
+      "symbol": "E.BTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x10d46D6F8f691d3439A781FC5E7BE598Ab67b393.png"
+    },
+    {
+      "chainId": 369,
+      "name": "A Free Slice Of Pizza",
+      "address": "0x3e7ae951d9925E6e5DE6140a99B90c3259445c9B",
+      "symbol": "PIZZA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x3e7ae951d9925E6e5DE6140a99B90c3259445c9B.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Fruits404",
+      "address": "0x4bCA66F9282A2f7E6A3e66579a2a06183207FC4A",
+      "symbol": "FRUITS404",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4bCA66F9282A2f7E6A3e66579a2a06183207FC4A.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
