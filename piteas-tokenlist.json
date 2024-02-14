@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-02-13T03:14:19.436Z",
-  "version": { "major": 10, "minor": 3, "patch": 0 },
+  "timestamp": "2024-02-14T03:14:19.436Z",
+  "version": { "major": 10, "minor": 4, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1402,6 +1402,22 @@
       "symbol": "FRUITS404",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4bCA66F9282A2f7E6A3e66579a2a06183207FC4A.png"
+    },
+    {
+      "chainId": 369,
+      "name": "PulseTrailerPark",
+      "address": "0x880Dd541e00B966d829968c3198F11C8ca38A877",
+      "symbol": "PTP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x880Dd541e00B966d829968c3198F11C8ca38A877.png"
+    },
+    {
+      "chainId": 369,
+      "name": "pls.farm",
+      "address": "0x90732c0aBC7b44F6e00c4CC90d29293D1DD01d8B",
+      "symbol": "COWTIP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x90732c0aBC7b44F6e00c4CC90d29293D1DD01d8B.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
