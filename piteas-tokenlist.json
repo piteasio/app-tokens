@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-02-14T03:14:19.436Z",
-  "version": { "major": 10, "minor": 4, "patch": 0 },
+  "timestamp": "2024-02-19T03:14:19.436Z",
+  "version": { "major": 10, "minor": 5, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1418,6 +1418,38 @@
       "symbol": "COWTIP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x90732c0aBC7b44F6e00c4CC90d29293D1DD01d8B.png"
+    },
+    {
+      "chainId": 369,
+      "name": "sciViVe",
+      "address": "0x72a96Ea9DA0C909500eEF1Ef81B433C3A26EB649",
+      "symbol": "sciViVe",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x72a96Ea9DA0C909500eEF1Ef81B433C3A26EB649.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Maximus Pool Party",
+      "address": "0x4581AF35199BBde87a89941220e04E27ce4b0099",
+      "symbol": "PARTY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4581AF35199BBde87a89941220e04E27ce4b0099.png"
+    },
+    {
+      "chainId": 369,
+      "name": "BEAN by Barista",
+      "address": "0xd7407BD3E6aD1BAAE0ba9eaFD1Ec41bFE63907B2",
+      "symbol": "BEAN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xd7407BD3E6aD1BAAE0ba9eaFD1Ec41bFE63907B2.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Jet",
+      "address": "0x5711222c7806B54ab262d68075bae1f9E6b6D5eD",
+      "symbol": "JET",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x5711222c7806B54ab262d68075bae1f9E6b6D5eD.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
