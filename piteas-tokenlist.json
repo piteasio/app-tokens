@@ -1458,6 +1458,14 @@
       "symbol": "TEDDYBULL",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x5e75aA49EcbeA9e0F41E479fe05428Fd3512688f.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Seven",
+      "address": "0xb2E59feD8974FF4858753a6082F738C4211a0184",
+      "symbol": "7EVN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xb2E59feD8974FF4858753a6082F738C4211a0184.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
