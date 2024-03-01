@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-02-22T01:17:19.436Z",
-  "version": { "major": 10, "minor": 9, "patch": 0 },
+  "timestamp": "2024-03-01T01:17:19.436Z",
+  "version": { "major": 10, "minor": 10, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1498,6 +1498,22 @@
       "symbol": "Doomer",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xC3dDb5fbC71B9E4582b115596c42dbd168117085.png"
+    },
+    {
+      "chainId": 369,
+      "name": "MOON",
+      "address": "0x09400caBE5c509384A0B8b153B2E991435c6D6D7",
+      "symbol": "MOON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x09400caBE5c509384A0B8b153B2E991435c6D6D7.png"
+    },
+    {
+      "chainId": 369,
+      "name": "goofygopher",
+      "address": "0x864429c16213D21A5c9Ff28343F3aAFADED20871",
+      "symbol": "goofygopher",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x864429c16213D21A5c9Ff28343F3aAFADED20871.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
