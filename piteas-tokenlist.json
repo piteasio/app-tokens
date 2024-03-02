@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-03-01T01:17:19.436Z",
-  "version": { "major": 10, "minor": 10, "patch": 0 },
+  "timestamp": "2024-03-02T01:17:19.436Z",
+  "version": { "major": 10, "minor": 11, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1514,6 +1514,14 @@
       "symbol": "goofygopher",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x864429c16213D21A5c9Ff28343F3aAFADED20871.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Mog Coin",
+      "address": "0x495d9b70480A22a82D0FB81981480764BA55550e",
+      "symbol": "MOG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x495d9b70480A22a82D0FB81981480764BA55550e.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
