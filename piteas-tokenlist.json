@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-03-04T01:17:19.436Z",
-  "version": { "major": 10, "minor": 12, "patch": 0 },
+  "timestamp": "2024-03-04T01:19:19.436Z",
+  "version": { "major": 10, "minor": 13, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1538,6 +1538,14 @@
       "symbol": "MOON",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8E64f0fCa8f0219cEF329ae593Ad6490BE122Ecb.png"
+    },
+    {
+      "chainId": 369,
+      "name": "404MON",
+      "address": "0x97513DD719f32eE95E1D749c7b28e30acf5D427E",
+      "symbol": "FOFMON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x97513DD719f32eE95E1D749c7b28e30acf5D427E.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
