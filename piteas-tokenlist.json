@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-03-02T01:17:19.436Z",
-  "version": { "major": 10, "minor": 11, "patch": 0 },
+  "timestamp": "2024-03-04T01:17:19.436Z",
+  "version": { "major": 10, "minor": 12, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1522,6 +1522,22 @@
       "symbol": "MOG",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x495d9b70480A22a82D0FB81981480764BA55550e.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Magic Carpet Ride",
+      "address": "0x7FF1C0e8C968a8Ddc1F25e3D891562EA549Ee32e",
+      "symbol": "MCR369",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7FF1C0e8C968a8Ddc1F25e3D891562EA549Ee32e.png"
+    },
+    {
+      "chainId": 369,
+      "name": "MOON",
+      "address": "0x8E64f0fCa8f0219cEF329ae593Ad6490BE122Ecb",
+      "symbol": "MOON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8E64f0fCa8f0219cEF329ae593Ad6490BE122Ecb.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
