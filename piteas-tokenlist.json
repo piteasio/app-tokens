@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-03-04T01:19:19.436Z",
-  "version": { "major": 10, "minor": 13, "patch": 0 },
+  "timestamp": "2024-03-06T01:19:19.436Z",
+  "version": { "major": 10, "minor": 14, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -290,6 +290,22 @@
       "symbol": "WATT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xDfdc2836FD2E63Bba9f0eE07901aD465Bff4DE71.png"
+    },
+    {
+      "chainId": 369,
+      "name": "PXDC Stablecoin",
+      "address": "0xeB6b7932Da20c6D7B3a899D5887d86dfB09A6408",
+      "symbol": "PXDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xeB6b7932Da20c6D7B3a899D5887d86dfB09A6408.png"
+    },
+    {
+      "chainId": 369,
+      "name": "EARN",
+      "address": "0xb513038BbFdF9D40B676F41606f4F61D4b02c4A2",
+      "symbol": "EARN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xb513038BbFdF9D40B676F41606f4F61D4b02c4A2.png"
     },
     {
       "chainId": 369,
