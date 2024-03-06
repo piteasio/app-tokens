@@ -1546,7 +1546,15 @@
       "symbol": "FOFMON",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x97513DD719f32eE95E1D749c7b28e30acf5D427E.png"
-    }
+    },
+    {
+    "chainId": 369,
+    "address": "0xDFB10795E6fE7D0Db68F9778Ba4C575a28E8Cd4c",
+    "name": "Function Island",
+    "symbol": "ISLAND",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xDFB10795E6fE7D0Db68F9778Ba4C575a28E8Cd4c.png",
+}
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
