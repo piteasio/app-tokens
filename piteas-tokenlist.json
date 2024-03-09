@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-03-06T01:19:19.436Z",
-  "version": { "major": 10, "minor": 14, "patch": 0 },
+  "timestamp": "2024-03-09T01:19:19.436Z",
+  "version": { "major": 11, "minor": 0, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -586,6 +586,14 @@
       "symbol": "CSTStable",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9009c1de3220cAF855F83140E5Ac18A43272eC01.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Oracle and Bridge Stable Pool",
+      "address": "0xB272AE05C5F5eCE5a3a599928c06469ebc73FC31",
+      "symbol": "OBStable",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xB272AE05C5F5eCE5a3a599928c06469ebc73FC31.png"
     },
     {
       "chainId": 369,
@@ -1562,6 +1570,54 @@
       "symbol": "FOFMON",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x97513DD719f32eE95E1D749c7b28e30acf5D427E.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Hatsune Miku",
+      "address": "0x78d5B734c0F33BD9F62C23543B0a0FcEC0766B85",
+      "symbol": "MIKU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x78d5B734c0F33BD9F62C23543B0a0FcEC0766B85.png"
+    },
+    {
+      "chainId": 369,
+      "name": "GIFFORDwear",
+      "address": "0x6e86e2b8be6228d1c12aA9d82f5Ec3F27A88Ecce",
+      "symbol": "GIFF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6e86e2b8be6228d1c12aA9d82f5Ec3F27A88Ecce.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Monsters INC",
+      "address": "0xa8DCD0EB29f6F918289b5C14634C1B5F443Af826",
+      "symbol": "MIKE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xa8DCD0EB29f6F918289b5C14634C1B5F443Af826.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Elixir Token",
+      "address": "0xeCd465A15fac825B0Fe69416A4c7BfE03A50c12E",
+      "symbol": "Elixir",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xeCd465A15fac825B0Fe69416A4c7BfE03A50c12E.png"
+    },
+    {
+      "chainId": 369,
+      "name": "KIRK",
+      "address": "0x267b2b0047C2D2Cd6467fa353b9caCEE0dF946D0",
+      "symbol": "KIRK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x267b2b0047C2D2Cd6467fa353b9caCEE0dF946D0.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Nacho Keys",
+      "address": "0x8B5C1c2cB52dfb471c3ed758f6e863364636bd75",
+      "symbol": "NACHO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8B5C1c2cB52dfb471c3ed758f6e863364636bd75.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
