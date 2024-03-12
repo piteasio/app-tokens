@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-03-09T01:19:19.436Z",
-  "version": { "major": 11, "minor": 0, "patch": 0 },
+  "timestamp": "2024-03-12T01:19:19.436Z",
+  "version": { "major": 11, "minor": 1, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1618,6 +1618,14 @@
       "symbol": "NACHO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8B5C1c2cB52dfb471c3ed758f6e863364636bd75.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Landwolf",
+      "address": "0xa219C24353B59bEE9F535C4402c11C476A49ACA9",
+      "symbol": "WOLF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xa219C24353B59bEE9F535C4402c11C476A49ACA9.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
