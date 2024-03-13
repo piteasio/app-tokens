@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-03-12T01:19:19.436Z",
-  "version": { "major": 11, "minor": 1, "patch": 0 },
+  "timestamp": "2024-03-13T01:19:19.436Z",
+  "version": { "major": 11, "minor": 2, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1626,6 +1626,30 @@
       "symbol": "WOLF",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xa219C24353B59bEE9F535C4402c11C476A49ACA9.png"
+    },
+    {
+      "chainId": 369,
+      "name": "sDAI",
+      "address": "0x30FCB23A906493371b1721C8feb8815804808D74",
+      "symbol": "sDAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x30FCB23A906493371b1721C8feb8815804808D74.png"
+    },
+    {
+      "chainId": 369,
+      "name": "EMP from Binance",
+      "address": "0x9231937aC31506B6913ac5fb1DB5a1C1AE83783A",
+      "symbol": "EMP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9231937aC31506B6913ac5fb1DB5a1C1AE83783A.png"
+    },
+    {
+      "chainId": 369,
+      "name": "USDEX+",
+      "address": "0xaA2C47a35C1298795B5271490971Ec4874C8e53d",
+      "symbol": "USDEX+",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xaA2C47a35C1298795B5271490971Ec4874C8e53d.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
