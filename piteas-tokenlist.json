@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-03-18T01:19:19.436Z",
-  "version": { "major": 11, "minor": 3, "patch": 0 },
+  "timestamp": "2024-03-18T01:21:19.436Z",
+  "version": { "major": 11, "minor": 4, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1658,6 +1658,14 @@
       "symbol": "USDEX+",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xaA2C47a35C1298795B5271490971Ec4874C8e53d.png"
+    },
+    {
+      "chainId": 369,
+      "name": "ZEUS PEPES DOG",
+      "address": "0xa7839b9eb8255cfc66E8DC4cf1cF7aDe8c76e704",
+      "symbol": "ZEUS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xa7839b9eb8255cfc66E8DC4cf1cF7aDe8c76e704.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
