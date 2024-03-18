@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-03-18T01:21:19.436Z",
-  "version": { "major": 11, "minor": 4, "patch": 0 },
+  "timestamp": "2024-03-18T02:21:19.436Z",
+  "version": { "major": 11, "minor": 5, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1666,6 +1666,78 @@
       "symbol": "ZEUS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xa7839b9eb8255cfc66E8DC4cf1cF7aDe8c76e704.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Function Island",
+      "address": "0xDFB10795E6fE7D0Db68F9778Ba4C575a28E8Cd4c",
+      "symbol": "ISLAND",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xDFB10795E6fE7D0Db68F9778Ba4C575a28E8Cd4c.png"
+    },
+    {
+      "chainId": 369,
+      "name": "1DOLLAR",
+      "address": "0x7a8723500ABb21BAF736EBF5BcC8e7a02B0E3906",
+      "symbol": "1DOLLAR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7a8723500ABb21BAF736EBF5BcC8e7a02B0E3906.png"
+    },
+    {
+      "chainId": 369,
+      "name": "BUZZBALL",
+      "address": "0x5D9cDb31C973847B1C3b13dab0b6E78BfD0cDA49",
+      "symbol": "BUZZBALL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x5D9cDb31C973847B1C3b13dab0b6E78BfD0cDA49.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Sand Is Evil",
+      "address": "0x296ec1064Fe41E3625c02007E80B64714922369c",
+      "symbol": "513",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x296ec1064Fe41E3625c02007E80B64714922369c.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Bitcoin Pirate",
+      "address": "0xD4BB404e36a0bf7Dc9E8e38Dc2F166F0Efad724e",
+      "symbol": "BTC8",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD4BB404e36a0bf7Dc9E8e38Dc2F166F0Efad724e.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Big Monster Willy",
+      "address": "0x82D394e2d5354fdb92f52208E721471FB9415ab1",
+      "symbol": "BMW",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x82D394e2d5354fdb92f52208E721471FB9415ab1.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Rules Of the Druid Order",
+      "address": "0x927AB78572C2340E8013417C826A8DeaEA535da8",
+      "symbol": "R0D0",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x927AB78572C2340E8013417C826A8DeaEA535da8.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Digital Nomadic Tribe",
+      "address": "0x439aa8e167F21CE21F86Aa1C81F59100Ad7aC133",
+      "symbol": "DNT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x439aa8e167F21CE21F86Aa1C81F59100Ad7aC133.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Everything is Sentient",
+      "address": "0xbb5FEe21fD4A6902fEb14312c81729aAFC03A461",
+      "symbol": "CCCXV",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xbb5FEe21fD4A6902fEb14312c81729aAFC03A461.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
