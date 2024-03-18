@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-03-13T01:19:19.436Z",
-  "version": { "major": 11, "minor": 2, "patch": 0 },
+  "timestamp": "2024-03-18T01:19:19.436Z",
+  "version": { "major": 11, "minor": 3, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1410,6 +1410,14 @@
       "symbol": "E.BTC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x10d46D6F8f691d3439A781FC5E7BE598Ab67b393.png"
+    },
+    {
+      "chainId": 369,
+      "name": "EvmBitcoinCash",
+      "address": "0xe99e627f29914c31f36E7ef4cbB2f4556714D035",
+      "symbol": "E.BCH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe99e627f29914c31f36E7ef4cbB2f4556714D035.png"
     },
     {
       "chainId": 369,
