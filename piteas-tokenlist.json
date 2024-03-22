@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-03-19T02:21:19.436Z",
-  "version": { "major": 11, "minor": 6, "patch": 0 },
+  "timestamp": "2024-03-22T02:21:19.436Z",
+  "version": { "major": 11, "minor": 7, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1746,6 +1746,22 @@
       "symbol": "LAUNCH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe3aa4EF74FC70b1817e04605921F6F6c649E1819.png"
+    },
+    {
+      "chainId": 369,
+      "name": "The Reptilian Currency",
+      "address": "0xe2892C876c5e52a4413Ba5f373D1a6E5f2e9116D",
+      "symbol": "TRC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe2892C876c5e52a4413Ba5f373D1a6E5f2e9116D.png"
+    },
+    {
+      "chainId": 369,
+      "name": "dickwifbutt",
+      "address": "0xAEbcD0F8f69ECF9587e292bdfc4d731c1abedB68",
+      "symbol": "DWB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xAEbcD0F8f69ECF9587e292bdfc4d731c1abedB68.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
