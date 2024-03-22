@@ -1763,6 +1763,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xAEbcD0F8f69ECF9587e292bdfc4d731c1abedB68.png"
     }
+{
+      "chainId": 369,
+      "name": "One USD",
+      "address": "0xfBB2566396399Aa594fe95D42f1c8b8DFeAAfA30",
+      "symbol": "OUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xfBB2566396399Aa594fe95D42f1c8b8DFeAAfA30.png"
+    }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
