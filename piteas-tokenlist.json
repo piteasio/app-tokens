@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-03-25T02:31:19.436Z",
-  "version": { "major": 12, "minor": 0, "patch": 0 },
+  "timestamp": "2024-03-26T02:31:19.436Z",
+  "version": { "major": 12, "minor": 1, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1770,6 +1770,14 @@
       "symbol": "ACTLY",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x276108f8DeA409d3eA2a8DF2BF4Ba4b790449656.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Function Island Farm",
+      "address": "0xfd4d3A2fd12C7f3146428a2ebDCb489550Ae9bea",
+      "symbol": "FARM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xfd4d3A2fd12C7f3146428a2ebDCb489550Ae9bea.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
