@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-03-26T02:31:19.436Z",
-  "version": { "major": 12, "minor": 1, "patch": 0 },
+  "timestamp": "2024-03-27T01:12:19.436Z",
+  "version": { "major": 12, "minor": 2, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1778,7 +1778,39 @@
       "symbol": "FARM",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xfd4d3A2fd12C7f3146428a2ebDCb489550Ae9bea.png"
-    }
+    },
+    {
+      "chainId": 369,
+      "name": "CHOOSE RICH",
+      "address": "0x88970E6F210a25C27cfD24829eDd994CB44F51C7",
+      "symbol": "RICH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x88970E6F210a25C27cfD24829eDd994CB44F51C7.png"
+    },
+    {
+      "chainId": 369,
+      "name": "doggwifweed",
+      "address": "0x220E4cF83eCa26bDF4eA5BB250842c63FcA0813D",
+      "symbol": "PLIFF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x220E4cF83eCa26bDF4eA5BB250842c63FcA0813D.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Peppa",
+      "address": "0x93Cf7d72333Fe9faEb9D455b82A4c85D7F0609aa",
+      "symbol": "PEPPA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x93Cf7d72333Fe9faEb9D455b82A4c85D7F0609aa.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Rick Ross Pear",
+      "address": "0xA5beB85e5F82419Ab6BD0C13f6C3F66bb95C79DA",
+      "symbol": "PEAR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA5beB85e5F82419Ab6BD0C13f6C3F66bb95C79DA.png"
+    },
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
