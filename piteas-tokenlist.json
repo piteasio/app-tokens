@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-03-30T01:16:19.436Z",
-  "version": { "major": 12, "minor": 5, "patch": 0 },
+  "timestamp": "2024-04-03T01:16:19.436Z",
+  "version": { "major": 12, "minor": 6, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1826,6 +1826,22 @@
       "symbol": "LUNCH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1F5E09CA8164d33d3923ec89c76620B15c51C25B.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Solid X",
+      "address": "0x8Da17Db850315A34532108f0f5458fc0401525f6",
+      "symbol": "SOLIDX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8Da17Db850315A34532108f0f5458fc0401525f6.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Tard",
+      "address": "0xC18123608cAdb0605c24Fb2a6430165c05A67f66",
+      "symbol": "TARD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xC18123608cAdb0605c24Fb2a6430165c05A67f66.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
