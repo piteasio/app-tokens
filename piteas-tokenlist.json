@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-04-06T01:16:19.436Z",
-  "version": { "major": 12, "minor": 7, "patch": 0 },
+  "timestamp": "2024-04-06T01:19:19.436Z",
+  "version": { "major": 12, "minor": 8, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -477,14 +477,6 @@
     },
     {
       "chainId": 369,
-      "name": "Chirp.Finance",
-      "address": "0xCa66B54a8A4AD9a231DD70d3605D1ff6aE95d427",
-      "symbol": "CHIRP",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xCa66B54a8A4AD9a231DD70d3605D1ff6aE95d427.png"
-    },
-    {
-      "chainId": 369,
       "name": "WAIT",
       "address": "0x26179a4d4B58b4456F28d19507546596c9058ee5",
       "symbol": "WAIT",
@@ -957,14 +949,6 @@
     },
     {
       "chainId": 369,
-      "name": "Furu Token",
-      "address": "0x764F1A4e2D5A7D1A32aC0F8B8A109cE831C3dC66",
-      "symbol": "FURU",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x764F1A4e2D5A7D1A32aC0F8B8A109cE831C3dC66.png"
-    },
-    {
-      "chainId": 369,
       "name": "Hedron Smores Address",
       "address": "0xe1d32634516926F0A440ef42b8fCD9fefe71ADBE",
       "symbol": "HSA",
@@ -978,14 +962,6 @@
       "symbol": "PLN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xa685C45fd071DF23278069Db9137e124564897D0.png"
-    },
-    {
-      "chainId": 369,
-      "name": "Fluffy Slippers Edition",
-      "address": "0x21F279B6de28C98a3093E4D79e11E7b82a2E225C",
-      "symbol": "FLUFFY",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x21F279B6de28C98a3093E4D79e11E7b82a2E225C.png"
     },
     {
       "chainId": 369,
@@ -1077,14 +1053,6 @@
     },
     {
       "chainId": 369,
-      "name": "PUSD",
-      "address": "0xff6eCEdc9Dca27Cf92930E227F4237771ED9F6A5",
-      "symbol": "PUSD",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xff6eCEdc9Dca27Cf92930E227F4237771ED9F6A5.png"
-    },
-    {
-      "chainId": 369,
       "name": "The Enigma",
       "address": "0x85F1724A1a21a2e4F27C2ffb54a976D5857b2FA0",
       "symbol": "ENIGMA",
@@ -1154,14 +1122,6 @@
       "symbol": "PAPER",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x18f0Cf904adaeaC2e6bfE573d61f51D4699De72d.png"
-    },
-    {
-      "chainId": 369,
-      "name": "INK Token",
-      "address": "0xe5e6dFe69aE1d74d506859E052ed7e1b5DbB9d38",
-      "symbol": "INK",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe5e6dFe69aE1d74d506859E052ed7e1b5DbB9d38.png"
     },
     {
       "chainId": 369,
@@ -1261,14 +1221,6 @@
     },
     {
       "chainId": 369,
-      "name": "PulseChain Idiot",
-      "address": "0x02bFc9c1B057d301ADEFeE1E11D1b46853ba8319",
-      "symbol": "IDIOT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x02bFc9c1B057d301ADEFeE1E11D1b46853ba8319.png"
-    },
-    {
-      "chainId": 369,
       "name": "ZKZX",
       "address": "0x319e55Be473C77C35316651995C048a415219604",
       "symbol": "ZKZX",
@@ -1333,22 +1285,6 @@
     },
     {
       "chainId": 369,
-      "name": "SOMMI the SQUIRREL",
-      "address": "0xc8C31011b54ec747aC87fCdC1d6119133d3aAcb5",
-      "symbol": "NUTS",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xc8C31011b54ec747aC87fCdC1d6119133d3aAcb5.png"
-    },
-    {
-      "chainId": 369,
-      "name": "HOAX",
-      "address": "0x4CB4eDdE04772332a42ECb039f3790e17733B4B8",
-      "symbol": "HOAX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4CB4eDdE04772332a42ECb039f3790e17733B4B8.png"
-    },
-    {
-      "chainId": 369,
       "name": "GOFURS",
       "address": "0x54f667dB585b7B10347429C72c36c8B59aB441cb",
       "symbol": "GOFURS",
@@ -1397,14 +1333,6 @@
     },
     {
       "chainId": 369,
-      "name": "Dragon Mint Council",
-      "address": "0x47cd1790BBA178894ce245D022ce869C674275dE",
-      "symbol": "DMC404",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x47cd1790BBA178894ce245D022ce869C674275dE.png"
-    },
-    {
-      "chainId": 369,
       "name": "EvmBitcoinToken",
       "address": "0x10d46D6F8f691d3439A781FC5E7BE598Ab67b393",
       "symbol": "E.BTC",
@@ -1426,14 +1354,6 @@
       "symbol": "PIZZA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x3e7ae951d9925E6e5DE6140a99B90c3259445c9B.png"
-    },
-    {
-      "chainId": 369,
-      "name": "Fruits404",
-      "address": "0x4bCA66F9282A2f7E6A3e66579a2a06183207FC4A",
-      "symbol": "FRUITS404",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4bCA66F9282A2f7E6A3e66579a2a06183207FC4A.png"
     },
     {
       "chainId": 369,
@@ -1474,14 +1394,6 @@
       "symbol": "BEAN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xd7407BD3E6aD1BAAE0ba9eaFD1Ec41bFE63907B2.png"
-    },
-    {
-      "chainId": 369,
-      "name": "Jet",
-      "address": "0x5711222c7806B54ab262d68075bae1f9E6b6D5eD",
-      "symbol": "JET",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x5711222c7806B54ab262d68075bae1f9E6b6D5eD.png"
     },
     {
       "chainId": 369,
@@ -1530,22 +1442,6 @@
       "symbol": "Doomer",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xC3dDb5fbC71B9E4582b115596c42dbd168117085.png"
-    },
-    {
-      "chainId": 369,
-      "name": "MOON",
-      "address": "0x09400caBE5c509384A0B8b153B2E991435c6D6D7",
-      "symbol": "MOON",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x09400caBE5c509384A0B8b153B2E991435c6D6D7.png"
-    },
-    {
-      "chainId": 369,
-      "name": "goofygopher",
-      "address": "0x864429c16213D21A5c9Ff28343F3aAFADED20871",
-      "symbol": "goofygopher",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x864429c16213D21A5c9Ff28343F3aAFADED20871.png"
     },
     {
       "chainId": 369,
@@ -1693,14 +1589,6 @@
     },
     {
       "chainId": 369,
-      "name": "Sand Is Evil",
-      "address": "0x296ec1064Fe41E3625c02007E80B64714922369c",
-      "symbol": "513",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x296ec1064Fe41E3625c02007E80B64714922369c.png"
-    },
-    {
-      "chainId": 369,
       "name": "Bitcoin Pirate",
       "address": "0xD4BB404e36a0bf7Dc9E8e38Dc2F166F0Efad724e",
       "symbol": "BTC8",
@@ -1714,30 +1602,6 @@
       "symbol": "BMW",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x82D394e2d5354fdb92f52208E721471FB9415ab1.png"
-    },
-    {
-      "chainId": 369,
-      "name": "Rules Of the Druid Order",
-      "address": "0x927AB78572C2340E8013417C826A8DeaEA535da8",
-      "symbol": "R0D0",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x927AB78572C2340E8013417C826A8DeaEA535da8.png"
-    },
-    {
-      "chainId": 369,
-      "name": "Digital Nomadic Tribe",
-      "address": "0x439aa8e167F21CE21F86Aa1C81F59100Ad7aC133",
-      "symbol": "DNT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x439aa8e167F21CE21F86Aa1C81F59100Ad7aC133.png"
-    },
-    {
-      "chainId": 369,
-      "name": "Everything is Sentient",
-      "address": "0xbb5FEe21fD4A6902fEb14312c81729aAFC03A461",
-      "symbol": "CCCXV",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xbb5FEe21fD4A6902fEb14312c81729aAFC03A461.png"
     },
     {
       "chainId": 369,
