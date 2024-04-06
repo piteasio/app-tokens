@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-04-03T01:16:19.436Z",
-  "version": { "major": 12, "minor": 6, "patch": 0 },
+  "timestamp": "2024-04-06T01:16:19.436Z",
+  "version": { "major": 12, "minor": 7, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1842,6 +1842,38 @@
       "symbol": "TARD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xC18123608cAdb0605c24Fb2a6430165c05A67f66.png"
+    },
+    {
+      "chainId": 369,
+      "name": "PermaGIFF",
+      "address": "0x8fC70fd5F10Cd5494EB369b0737CefD22eB33F17",
+      "symbol": "pGIFF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8fC70fd5F10Cd5494EB369b0737CefD22eB33F17.png"
+    },
+    {
+      "chainId": 369,
+      "name": "DaiHard",
+      "address": "0xB6Bad00525221EB28Eb911a0B1162a0709b4CE57",
+      "symbol": "HARD",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xB6Bad00525221EB28Eb911a0B1162a0709b4CE57.png"
+    },
+    {
+      "chainId": 369,
+      "name": "ICARUS",
+      "address": "0x8c4a50c87e348f602ac6a59f4Da857ee23307a42",
+      "symbol": "ICARUS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8c4a50c87e348f602ac6a59f4Da857ee23307a42.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Loner",
+      "address": "0x860cB4695aeE38D6087BC548f63D13F9096A1933",
+      "symbol": "LONER",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x860cB4695aeE38D6087BC548f63D13F9096A1933.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
