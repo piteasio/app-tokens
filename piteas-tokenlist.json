@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-04-06T01:19:19.436Z",
-  "version": { "major": 12, "minor": 8, "patch": 0 },
+  "timestamp": "2024-04-09T01:19:19.436Z",
+  "version": { "major": 13, "minor": 0, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1738,6 +1738,22 @@
       "symbol": "LONER",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x860cB4695aeE38D6087BC548f63D13F9096A1933.png"
+    },
+    {
+      "chainId": 369,
+      "name": "BEEF",
+      "address": "0x5BCc93f9b2c0dBeE8c97f6B70aB324927e218e38",
+      "symbol": "BEEF",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x5BCc93f9b2c0dBeE8c97f6B70aB324927e218e38.png"
+    },
+    {
+      "chainId": 369,
+      "name": "1 Unit Bias Coin",
+      "address": "0x798284FB86a512D49e2bB05638306214Ab1A6213",
+      "symbol": "1UBC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x798284FB86a512D49e2bB05638306214Ab1A6213.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
