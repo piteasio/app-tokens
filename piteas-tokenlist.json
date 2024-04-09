@@ -1738,6 +1738,14 @@
       "symbol": "LONER",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x860cB4695aeE38D6087BC548f63D13F9096A1933.png"
+    },
+    {
+      "chainId": 369,
+      "name": "MetaTreasure",
+      "address": "0x8ab5bab83e62d647af74631479885556ee9f3410",
+      "symbol": "MTT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8ab5bab83e62d647af74631479885556ee9f3410.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
