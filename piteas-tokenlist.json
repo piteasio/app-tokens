@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-04-11T01:19:19.436Z",
-  "version": { "major": 13, "minor": 1, "patch": 0 },
+  "timestamp": "2024-04-15T01:19:19.436Z",
+  "version": { "major": 13, "minor": 2, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1770,6 +1770,14 @@
       "symbol": "FGZ",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x80028eDf22a39E7DE07F4b6D9a559420e40b8761.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Hammer Time",
+      "address": "0x0767ed257BeEE2F4659e31Ab80AEE3FD2D5Cd81b",
+      "symbol": "DISCOVERY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x0767ed257BeEE2F4659e31Ab80AEE3FD2D5Cd81b.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
