@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-04-16T01:19:19.436Z",
-  "version": { "major": 13, "minor": 3, "patch": 0 },
+  "timestamp": "2024-04-17T01:19:19.436Z",
+  "version": { "major": 13, "minor": 4, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1786,6 +1786,14 @@
       "symbol": "MTT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8aB5BAB83E62D647aF74631479885556Ee9f3410.png"
+    },
+    {
+      "chainId": 369,
+      "name": "LEVEL",
+      "address": "0x569D4018E8a5B869b57df1a0A5C7B4E71aF29656",
+      "symbol": "LVL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x569D4018E8a5B869b57df1a0A5C7B4E71aF29656.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
