@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-04-17T02:19:19.436Z",
-  "version": { "major": 13, "minor": 5, "patch": 0 },
+  "timestamp": "2024-04-17T03:19:19.436Z",
+  "version": { "major": 13, "minor": 6, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1810,6 +1810,14 @@
       "symbol": "FRUIT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x14B02AFF4B105d18c90472EF574AcC58D9994D1D.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Banana Republic",
+      "address": "0x74D98E37132dF921dF38c5A2Ae8748aDbab63238",
+      "symbol": "Nanana",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x74D98E37132dF921dF38c5A2Ae8748aDbab63238.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
