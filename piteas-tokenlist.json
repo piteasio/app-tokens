@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-04-17T01:19:19.436Z",
-  "version": { "major": 13, "minor": 4, "patch": 0 },
+  "timestamp": "2024-04-17T02:19:19.436Z",
+  "version": { "major": 13, "minor": 5, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1794,6 +1794,22 @@
       "symbol": "LVL",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x569D4018E8a5B869b57df1a0A5C7B4E71aF29656.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Cream",
+      "address": "0x2ba592F78dB6436527729929AAf6c908497cB200",
+      "symbol": "CREAM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2ba592F78dB6436527729929AAf6c908497cB200.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Florida Fruit Rat",
+      "address": "0x14B02AFF4B105d18c90472EF574AcC58D9994D1D",
+      "symbol": "FRUIT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x14B02AFF4B105d18c90472EF574AcC58D9994D1D.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
