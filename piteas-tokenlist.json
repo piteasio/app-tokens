@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-04-19T03:21:19.436Z",
-  "version": { "major": 13, "minor": 8, "patch": 0 },
+  "timestamp": "2024-04-24T03:21:19.436Z",
+  "version": { "major": 13, "minor": 9, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1834,6 +1834,14 @@
       "symbol": "ACCOUNT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x283a7e68DBB4d26Cb3878CA9084ed3d0e45cF5C5.png"
+    },
+    {
+      "chainId": 369,
+      "name": "FRESH START SHOWER",
+      "address": "0x4B8dA1baCdc416A1Cc339F462e2DE97A4D7cE891",
+      "symbol": "FSS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4B8dA1baCdc416A1Cc339F462e2DE97A4D7cE891.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
