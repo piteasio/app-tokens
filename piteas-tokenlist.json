@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-04-24T03:21:19.436Z",
-  "version": { "major": 13, "minor": 9, "patch": 0 },
+  "timestamp": "2024-04-24T03:23:19.436Z",
+  "version": { "major": 13, "minor": 10, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1842,6 +1842,14 @@
       "symbol": "FSS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4B8dA1baCdc416A1Cc339F462e2DE97A4D7cE891.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Topkek",
+      "address": "0xBE927aA4304cfcaB0d89514742fABb8ea37992CE",
+      "symbol": "TOP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xBE927aA4304cfcaB0d89514742fABb8ea37992CE.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
