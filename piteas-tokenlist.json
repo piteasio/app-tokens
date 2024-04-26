@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-04-24T03:23:19.436Z",
-  "version": { "major": 13, "minor": 10, "patch": 0 },
+  "timestamp": "2024-04-26T01:02:19.436Z",
+  "version": { "major": 13, "minor": 11, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1850,6 +1850,14 @@
       "symbol": "TOP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xBE927aA4304cfcaB0d89514742fABb8ea37992CE.png"
+    },
+    {
+      "chainId": 369,
+      "name": "BROmance",
+      "address": "0x401464296A7e0cd14D85AB6baF0Dc91B5ad5Ad1b",
+      "symbol": "BRO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x401464296A7e0cd14D85AB6baF0Dc91B5ad5Ad1b.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
