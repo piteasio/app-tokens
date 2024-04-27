@@ -1,7 +1,7 @@
 {
   "name": "Piteas Tokens",
-  "timestamp": "2024-04-26T01:02:19.436Z",
-  "version": { "major": 13, "minor": 11, "patch": 0 },
+  "timestamp": "2024-04-27T01:02:19.436Z",
+  "version": { "major": 13, "minor": 12, "patch": 0 },
   "tokens": [
     {
       "chainId": 369,
@@ -1858,6 +1858,22 @@
       "symbol": "BRO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x401464296A7e0cd14D85AB6baF0Dc91B5ad5Ad1b.png"
+    },
+    {
+      "chainId": 369,
+      "name": "WINGS",
+      "address": "0xe991E9A1090E707206e12561eB271712B1A20Ee4",
+      "symbol": "WINGS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe991E9A1090E707206e12561eB271712B1A20Ee4.png"
+    },
+    {
+      "chainId": 369,
+      "name": "Butt Wif Dingleberry",
+      "address": "0x3AeDC6b0AAE54e6dd2537B34b145B52e9dB60A1A",
+      "symbol": "BWD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x3AeDC6b0AAE54e6dd2537B34b145B52e9dB60A1A.png"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
