@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-04-29T01:32:19.436Z",
+    "timestamp": "2024-04-30T01:32:19.436Z",
     "version": {
         "major": 1,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "tokens": [
@@ -1750,6 +1750,14 @@
             "symbol": "TEVE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x5FE90464eD06B809D3f8888aD12e98346E409d4D.png"
+        },
+        {
+            "chainId": 369,
+            "name": "VOODOOBALLS",
+            "address": "0x6C221D35Df7c9a3D287AEd5B4D5a43B84e49B5E5",
+            "symbol": "VDB",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6C221D35Df7c9a3D287AEd5B4D5a43B84e49B5E5.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
