@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-05-01T01:02:19.436Z",
+    "timestamp": "2024-05-01T01:22:19.436Z",
     "version": {
         "major": 1,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
     "tokens": [
@@ -310,6 +310,22 @@
             "symbol": "EARN",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xb513038BbFdF9D40B676F41606f4F61D4b02c4A2.png"
+        },
+        {
+            "chainId": 369,
+            "name": "FLEX",
+            "address": "0x9c6fA17D92898B684676993828143596894AA2A6",
+            "symbol": "FLEX",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9c6fA17D92898B684676993828143596894AA2A6.png"
+        },
+        {
+            "chainId": 369,
+            "name": "HEXDC Stablecoin",
+            "address": "0x1FE0319440A672526916C232EAEe4808254Bdb00",
+            "symbol": "HEXDC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1FE0319440A672526916C232EAEe4808254Bdb00.png"
         },
         {
             "chainId": 369,
