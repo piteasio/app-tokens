@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-05-01T01:22:19.436Z",
+    "timestamp": "2024-05-07T01:22:19.436Z",
     "version": {
         "major": 1,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
     "tokens": [
@@ -1782,6 +1782,22 @@
             "symbol": "HORSE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x38e88e662d251969B6716642A3c03E445EaB6bA5.png"
+        },
+        {
+            "chainId": 369,
+            "name": "SAC DADDY",
+            "address": "0x13Dd594e6a0E3E3f1c154D27233952068b02AD01",
+            "symbol": "SAC",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x13Dd594e6a0E3E3f1c154D27233952068b02AD01.png"
+        },
+        {
+            "chainId": 369,
+            "name": "UFO",
+            "address": "0x456548A9B56eFBbD89Ca0309edd17a9E20b04018",
+            "symbol": "UFO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x456548A9B56eFBbD89Ca0309edd17a9E20b04018.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
