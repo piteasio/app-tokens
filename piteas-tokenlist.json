@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-05-07T01:22:19.436Z",
+    "timestamp": "2024-05-08T01:22:19.436Z",
     "version": {
         "major": 1,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     },
     "tokens": [
@@ -1798,6 +1798,14 @@
             "symbol": "UFO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x456548A9B56eFBbD89Ca0309edd17a9E20b04018.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PEDRO",
+            "address": "0xE6A811b5D0590cA747eefeC84EEB8de9FbE4449c",
+            "symbol": "PEDRO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xE6A811b5D0590cA747eefeC84EEB8de9FbE4449c.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
