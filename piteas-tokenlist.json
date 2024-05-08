@@ -1798,6 +1798,14 @@
             "symbol": "UFO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x456548A9B56eFBbD89Ca0309edd17a9E20b04018.png"
+        },
+        {
+            "chainId": 369,
+            "name": "6 Tons Of Digital Gold",
+            "address": "0x4FC0C8a7636cfE551bb077BA928b4E9d59b02DC2",
+            "symbol": "GOLD6T",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4FC0C8a7636cfE551bb077BA928b4E9d59b02DC2.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
