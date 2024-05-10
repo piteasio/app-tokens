@@ -3,7 +3,7 @@
     "timestamp": "2024-05-10T01:22:19.436Z",
     "version": {
         "major": 2,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "tokens": [
@@ -206,7 +206,7 @@
             "symbol": "9MM",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7b39712Ef45F7dcED2bBDF11F3D5046bA61dA719.png"
-        }
+        },
         {
             "chainId": 369,
             "name": "Daytona Finance",
