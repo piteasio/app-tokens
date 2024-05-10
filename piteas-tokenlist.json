@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-05-08T01:22:19.436Z",
+    "timestamp": "2024-05-10T01:22:19.436Z",
     "version": {
-        "major": 1,
-        "minor": 5,
+        "major": 2,
+        "minor": 0,
         "patch": 0
     },
     "tokens": [
@@ -199,6 +199,14 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xfE39FDc0012DCf10C9f674ea7e74889e4d71a226.png"
         },
+        {
+            "chainId": 369,
+            "name": "9MM",
+            "address": "0x7b39712Ef45F7dcED2bBDF11F3D5046bA61dA719",
+            "symbol": "9MM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7b39712Ef45F7dcED2bBDF11F3D5046bA61dA719.png"
+        }
         {
             "chainId": 369,
             "name": "Daytona Finance",
