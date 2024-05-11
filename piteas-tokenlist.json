@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-05-10T02:22:19.436Z",
+    "timestamp": "2024-05-11T01:12:19.436Z",
     "version": {
         "major": 2,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
     "tokens": [
@@ -1814,6 +1814,30 @@
             "symbol": "PEDRO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xE6A811b5D0590cA747eefeC84EEB8de9FbE4449c.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Op-Op Fruit",
+            "address": "0x7Cb59E8e61e16D84DB45dd133Cf0A58fDC439D75",
+            "symbol": "OPOP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7Cb59E8e61e16D84DB45dd133Cf0A58fDC439D75.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Freedom of Peach",
+            "address": "0x3cC6704b0902475587363DEfbD6dAb2ec0581628",
+            "symbol": "PEACH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x3cC6704b0902475587363DEfbD6dAb2ec0581628.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PenPineappleApplePen",
+            "address": "0x8b659DDc0289eD8E5E463254B34ffc7CA3DF1DEC",
+            "symbol": "PPAP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8b659DDc0289eD8E5E463254B34ffc7CA3DF1DEC.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
