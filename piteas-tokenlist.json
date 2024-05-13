@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-05-11T01:12:19.436Z",
+    "timestamp": "2024-05-13T01:12:19.436Z",
     "version": {
         "major": 2,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
     "tokens": [
@@ -1838,6 +1838,22 @@
             "symbol": "PPAP",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8b659DDc0289eD8E5E463254B34ffc7CA3DF1DEC.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Drama",
+            "address": "0x9759347254d573737B0A0168Acb3Fd24Aa14f08e",
+            "symbol": "DRAMA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9759347254d573737B0A0168Acb3Fd24Aa14f08e.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Icosa Burn",
+            "address": "0xBd2826B7823537fcD30D738aBe4250AD6262209c",
+            "symbol": "iBurn",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xBd2826B7823537fcD30D738aBe4250AD6262209c.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
