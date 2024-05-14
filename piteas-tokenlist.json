@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-05-14T01:12:19.436Z",
+    "timestamp": "2024-05-14T01:17:19.436Z",
     "version": {
         "major": 2,
-        "minor": 5,
+        "minor": 6,
         "patch": 0
     },
     "tokens": [
@@ -1862,6 +1862,22 @@
             "symbol": "BTC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6526779a6AdA09f2Dd3bbB3AF92a280c2c8a1860.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Gnosis on Pulsechain",
+            "address": "0x6810e776880C02933D47DB1b9fc05908e5386b96",
+            "symbol": "pGNO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6810e776880C02933D47DB1b9fc05908e5386b96.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Pulse Drip",
+            "address": "0xeB2CEed77147893Ba8B250c796c2d4EF02a72B68",
+            "symbol": "PDRIP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xeB2CEed77147893Ba8B250c796c2d4EF02a72B68.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
