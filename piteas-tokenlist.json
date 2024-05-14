@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-05-13T01:12:19.436Z",
+    "timestamp": "2024-05-14T01:12:19.436Z",
     "version": {
         "major": 2,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     },
     "tokens": [
@@ -1854,6 +1854,14 @@
             "symbol": "iBurn",
             "decimals": 9,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xBd2826B7823537fcD30D738aBe4250AD6262209c.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Bitcorn",
+            "address": "0x6526779a6AdA09f2Dd3bbB3AF92a280c2c8a1860",
+            "symbol": "BTC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6526779a6AdA09f2Dd3bbB3AF92a280c2c8a1860.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
