@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-05-14T01:17:19.436Z",
+    "timestamp": "2024-05-15T01:17:19.436Z",
     "version": {
         "major": 2,
-        "minor": 6,
+        "minor": 7,
         "patch": 0
     },
     "tokens": [
@@ -1878,6 +1878,14 @@
             "symbol": "PDRIP",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xeB2CEed77147893Ba8B250c796c2d4EF02a72B68.png"
+        },
+        {
+            "chainId": 369,
+            "name": "GameStop",
+            "address": "0xDd199016942596Ad07B0aC5Cb167121F4D709d56",
+            "symbol": "GME",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xDd199016942596Ad07B0aC5Cb167121F4D709d56.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
