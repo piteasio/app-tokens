@@ -2,8 +2,8 @@
     "name": "Piteas Tokens",
     "timestamp": "2024-05-15T01:17:19.436Z",
     "version": {
-        "major": 2,
-        "minor": 7,
+        "major": 3,
+        "minor": 0,
         "patch": 0
     },
     "tokens": [
@@ -1886,6 +1886,30 @@
             "symbol": "GME",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xDd199016942596Ad07B0aC5Cb167121F4D709d56.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Orange Man Good",
+            "address": "0xf21aeE14137E9bC4B3D5170300dde849f7fE2D85",
+            "symbol": "OMG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xf21aeE14137E9bC4B3D5170300dde849f7fE2D85.png"
+        },
+        {
+            "chainId": 369,
+            "name": "BABY GIFF",
+            "address": "0x32151909F971534de577d86E5346e45d1D9873d9",
+            "symbol": "bGIFF",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x32151909F971534de577d86E5346e45d1D9873d9.png"
+        },
+        {
+            "chainId": 369,
+            "name": "SoundX",
+            "address": "0xA301c1871Dbf414261946281C7F62213fae22CfE",
+            "symbol": "SOUNDX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA301c1871Dbf414261946281C7F62213fae22CfE.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
