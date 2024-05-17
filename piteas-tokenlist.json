@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-05-15T01:17:19.436Z",
+    "timestamp": "2024-05-17T01:17:19.436Z",
     "version": {
         "major": 3,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "tokens": [
@@ -1910,6 +1910,22 @@
             "symbol": "SOUNDX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA301c1871Dbf414261946281C7F62213fae22CfE.png"
+        },
+        {
+            "chainId": 369,
+            "name": "GAME",
+            "address": "0xc13A1f27ca24523cfe4C817eD7FF752783fBCd19",
+            "symbol": "GAME",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xc13A1f27ca24523cfe4C817eD7FF752783fBCd19.png"
+        },
+        {
+            "chainId": 369,
+            "name": "DickWifPump",
+            "address": "0x424E38032E9D3BfD0A72f837B4d930A6831D11c6",
+            "symbol": "DWP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x424E38032E9D3BfD0A72f837B4d930A6831D11c6.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
