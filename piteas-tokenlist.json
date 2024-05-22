@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-05-22T04:27:19.436Z",
+    "timestamp": "2024-05-22T05:27:19.436Z",
     "version": {
         "major": 3,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     },
     "tokens": [
@@ -1926,6 +1926,14 @@
             "symbol": "CWS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x55B9dE99A756700bAcdc816aB0cf668D2Caffc0b.png"
+        },
+        {
+            "chainId": 369,
+            "name": "New York City Pizza Rat",
+            "address": "0xaC9052cb220951c3CCA0Beb4C084A7D4fd2e3428",
+            "symbol": "PIZZA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xaC9052cb220951c3CCA0Beb4C084A7D4fd2e3428.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
