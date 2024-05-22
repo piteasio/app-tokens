@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-05-18T04:27:19.436Z",
+    "timestamp": "2024-05-22T04:27:19.436Z",
     "version": {
         "major": 3,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
     "tokens": [
@@ -718,6 +718,22 @@
             "symbol": "SPARK",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6386704cD6f7A584EA9D23cccA66aF7EBA5a727e.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Burned Spark",
+            "address": "0xFcff9ddd271c8dc3A00d6F7e9C9cfE0FF80E3732",
+            "symbol": "bSpark",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xFcff9ddd271c8dc3A00d6F7e9C9cfE0FF80E3732.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Spark404",
+            "address": "0xDc2e74740279dD1ed27727eddf80aF7CcC3D6a72",
+            "symbol": "Spark404",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xDc2e74740279dD1ed27727eddf80aF7CcC3D6a72.png"
         },
         {
             "chainId": 369,
