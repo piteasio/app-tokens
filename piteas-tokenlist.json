@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-05-27T01:11:19.436Z",
+    "timestamp": "2024-05-27T01:12:19.436Z",
     "version": {
         "major": 3,
-        "minor": 7,
+        "minor": 8,
         "patch": 0
     },
     "tokens": [
@@ -902,6 +902,14 @@
             "symbol": "2PHUX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x115f3Fa979a936167f9D208a7B7c4d85081e84BD.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Prime2PHUX",
+            "address": "0x6d358129Df7Ae10ee925D52e16F71A76D424990B",
+            "symbol": "Prime2PHUX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6d358129Df7Ae10ee925D52e16F71A76D424990B.png"
         },
         {
             "chainId": 369,
