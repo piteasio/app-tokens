@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-05-24T01:11:19.436Z",
+    "timestamp": "2024-05-27T01:11:19.436Z",
     "version": {
         "major": 3,
-        "minor": 6,
+        "minor": 7,
         "patch": 0
     },
     "tokens": [
@@ -894,6 +894,14 @@
             "symbol": "MINT",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x207e6b4529840A4fd518f73c68bc9c19B2A15944.png"
+        },
+        {
+            "chainId": 369,
+            "name": "2PHUX Governance Token",
+            "address": "0x115f3Fa979a936167f9D208a7B7c4d85081e84BD",
+            "symbol": "2PHUX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x115f3Fa979a936167f9D208a7B7c4d85081e84BD.png"
         },
         {
             "chainId": 369,
