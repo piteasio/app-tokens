@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-05-27T01:12:19.436Z",
+    "timestamp": "2024-05-29T01:12:19.436Z",
     "version": {
         "major": 3,
-        "minor": 8,
+        "minor": 9,
         "patch": 0
     },
     "tokens": [
@@ -1958,6 +1958,14 @@
             "symbol": "TRUMP",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7DC5080495844BDBAFA0E8cbb82590F6A51a2eCE.png"
+        },
+        {
+            "chainId": 369,
+            "name": "MatiAllin",
+            "address": "0xC697E0bB8ac6D1CFd928bca3E43CC64e2190e828",
+            "symbol": "MATI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xC697E0bB8ac6D1CFd928bca3E43CC64e2190e828.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
