@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-05-29T01:12:19.436Z",
+    "timestamp": "2024-05-30T01:12:19.436Z",
     "version": {
         "major": 3,
-        "minor": 9,
+        "minor": 10,
         "patch": 0
     },
     "tokens": [
@@ -254,6 +254,14 @@
             "symbol": "IM",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xBBcF895BFCb57d0f457D050bb806d1499436c0CE.png"
+        },
+        {
+            "chainId": 369,
+            "name": "TrueUSD on Pulsechain",
+            "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+            "symbol": "pTUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x0000000000085d4780B73119b644AE5ecd22b376.png"
         },
         {
             "chainId": 369,
