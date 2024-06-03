@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-05-30T01:12:19.436Z",
+    "timestamp": "2024-06-03T01:12:19.436Z",
     "version": {
         "major": 3,
-        "minor": 10,
+        "minor": 11,
         "patch": 0
     },
     "tokens": [
@@ -182,6 +182,14 @@
             "symbol": "ASIC",
             "decimals": 12,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x347a96a5BD06D2E15199b032F46fB724d6c73047.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Solana from Ethereum",
+            "address": "0x1c3C50bd18E3f0C7c23666b8e8a843238A359386",
+            "symbol": "SOL",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1c3C50bd18E3f0C7c23666b8e8a843238A359386.png"
         },
         {
             "chainId": 369,
