@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-06-03T01:15:19.436Z",
+    "timestamp": "2024-06-03T01:16:19.436Z",
     "version": {
         "major": 4,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "tokens": [
@@ -1990,6 +1990,14 @@
             "symbol": "LHEX",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xa73f450E3f17468A64BFdD222b099857Db76634d.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Mega Milk",
+            "address": "0x1d98844528313Ed4fC743Cc106C15aee07C2072F",
+            "symbol": "MILK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1d98844528313Ed4fC743Cc106C15aee07C2072F.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
