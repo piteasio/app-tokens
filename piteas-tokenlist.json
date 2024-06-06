@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-06-04T01:16:19.436Z",
+    "timestamp": "2024-06-06T01:16:19.436Z",
     "version": {
         "major": 4,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
     "tokens": [
@@ -2014,6 +2014,22 @@
             "symbol": "NOBULL",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xCBC7f61686D8ceb8160cBff9A5Ef8e1409cF4ddF.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PIKA to PIKO",
+            "address": "0x0A0F70B227f782f2CeAD75554781AF45a620A296",
+            "symbol": "PIKA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x0A0F70B227f782f2CeAD75554781AF45a620A296.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Pool Token",
+            "address": "0x96c91022A7CB49B41Cb2262E9fB560D863b7389e",
+            "symbol": "POOL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x96c91022A7CB49B41Cb2262E9fB560D863b7389e.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
