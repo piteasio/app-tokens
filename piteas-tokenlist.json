@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-06-06T01:16:19.436Z",
+    "timestamp": "2024-06-07T01:10:19.436Z",
     "version": {
         "major": 4,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
     "tokens": [
@@ -1734,6 +1734,14 @@
             "symbol": "UN",
             "decimals": 2,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2460328E89260dDFBa4A942a0cfa417F202C04C2.png"
+        },
+        {
+            "chainId": 369,
+            "name": "SUN Minimeal",
+            "address": "0x136ca0dA6725f377F12C3c303617F02B40cd9769",
+            "symbol": "SOIL",
+            "decimals": 2,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x136ca0dA6725f377F12C3c303617F02B40cd9769.png"
         },
         {
             "chainId": 369,
