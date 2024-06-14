@@ -2047,6 +2047,14 @@
             "decimals": 9,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x5a24D7129B6f3FcAd2220296df28911880AD22B0.png"
         }
+        {
+            "chainId": 369,
+            "name": "Beahead And Buttvis",
+            "address": "0x5FE7a76a5f08AcE0191c40Fc023c1B6e1F425FeF",
+            "symbol": "B&B",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x5FE7a76a5f08AcE0191c40Fc023c1B6e1F425FeF.png"
+        }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
