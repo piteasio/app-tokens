@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-06-12T01:10:19.436Z",
+    "timestamp": "2024-06-15T02:01:19.436Z",
     "version": {
-        "major": 4,
-        "minor": 5,
+        "major": 5,
+        "minor": 0,
         "patch": 0
     },
     "tokens": [
@@ -1738,10 +1738,10 @@
         {
             "chainId": 369,
             "name": "SUN Minimeal",
-            "address": "0x136ca0dA6725f377F12C3c303617F02B40cd9769",
+            "address": "0x22b2f187E6EE1f9Bc8f7Fc38bB0D9357462800e4",
             "symbol": "SOIL",
             "decimals": 2,
-            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x136ca0dA6725f377F12C3c303617F02B40cd9769.png"
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x22b2f187E6EE1f9Bc8f7Fc38bB0D9357462800e4.png"
         },
         {
             "chainId": 369,
@@ -2046,6 +2046,14 @@
             "symbol": "PZEN",
             "decimals": 9,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x5a24D7129B6f3FcAd2220296df28911880AD22B0.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Charizard",
+            "address": "0xDa7B9b34ed19f7d26374515CA38a268f6C880B9F",
+            "symbol": "Charizard",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xDa7B9b34ed19f7d26374515CA38a268f6C880B9F.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
