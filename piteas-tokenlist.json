@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-06-24T02:01:19.436Z",
+    "timestamp": "2024-06-26T02:01:19.436Z",
     "version": {
         "major": 5,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "tokens": [
@@ -2062,6 +2062,38 @@
             "symbol": "LUCK",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4C420a9C84E1d05eaBBca51C487F2e48EE832423.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Tellor Tributes on Pulsechain",
+            "address": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0",
+            "symbol": "pTRB",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0.png"
+        },
+        {
+            "chainId": 369,
+            "name": "LQTY on Pulsechain",
+            "address": "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
+            "symbol": "pLQTY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Uniswap on Pulsechain",
+            "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+            "symbol": "pUNI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Binance USD on Pulsechain",
+            "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+            "symbol": "pBUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4Fabb145d64652a948d72533023f6E7A623C7C53.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
