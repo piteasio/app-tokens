@@ -2094,6 +2094,14 @@
             "symbol": "pBUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4Fabb145d64652a948d72533023f6E7A623C7C53.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Content Reward Token",
+            "address": "0xb528a9DB27A74dB802C74D0CCc40657efE5F0A45",
+            "symbol": "SAVVA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xb528a9DB27A74dB802C74D0CCc40657efE5F0A45.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
