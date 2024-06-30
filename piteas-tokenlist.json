@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-06-26T02:09:19.436Z",
+    "timestamp": "2024-06-30T02:09:19.436Z",
     "version": {
         "major": 5,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
     "tokens": [
@@ -2102,6 +2102,22 @@
             "symbol": "SAVVA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xb528a9DB27A74dB802C74D0CCc40657efE5F0A45.png"
+        },
+        {
+            "chainId": 369,
+            "name": "ENKI",
+            "address": "0x0bC1e003e2A3CE1428Ec1c3B846E99EbC246BAa7",
+            "symbol": "ENKI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x0bC1e003e2A3CE1428Ec1c3B846E99EbC246BAa7.png"
+        },
+        {
+            "chainId": 369,
+            "name": "MAFIA",
+            "address": "0xa27aDe5806Ded801b93499C6fA23cc8dC9AC55EA",
+            "symbol": "MAFIA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xa27aDe5806Ded801b93499C6fA23cc8dC9AC55EA.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
