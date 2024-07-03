@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-06-30T02:09:19.436Z",
+    "timestamp": "2024-07-03T02:09:19.436Z",
     "version": {
         "major": 5,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     },
     "tokens": [
@@ -1489,6 +1489,30 @@
         },
         {
             "chainId": 369,
+            "name": "Andy",
+            "address": "0x3E59B2aeAe49674CF0CB21bf200277f3CcD232DD",
+            "symbol": "ANDY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x3E59B2aeAe49674CF0CB21bf200277f3CcD232DD.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Bird Dog",
+            "address": "0x64Cdf1E81136023ad912ED1522309fDa05322187",
+            "symbol": "BDOG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x64Cdf1E81136023ad912ED1522309fDa05322187.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Brett",
+            "address": "0x05cb9A4C644d9d6bc07430a220E1B5CE11Cd2eaa",
+            "symbol": "WOLF",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x05cb9A4C644d9d6bc07430a220E1B5CE11Cd2eaa.png"
+        },
+        {
+            "chainId": 369,
             "name": "sDAI",
             "address": "0x30FCB23A906493371b1721C8feb8815804808D74",
             "symbol": "sDAI",
@@ -2110,6 +2134,14 @@
             "symbol": "ENKI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x0bC1e003e2A3CE1428Ec1c3B846E99EbC246BAa7.png"
+        },
+        {
+            "chainId": 369,
+            "name": "MAFIA",
+            "address": "0xa27aDe5806Ded801b93499C6fA23cc8dC9AC55EA",
+            "symbol": "MAFIA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xa27aDe5806Ded801b93499C6fA23cc8dC9AC55EA.png"
         },
         {
             "chainId": 369,
