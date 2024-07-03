@@ -1507,7 +1507,7 @@
             "chainId": 369,
             "name": "Brett",
             "address": "0x05cb9A4C644d9d6bc07430a220E1B5CE11Cd2eaa",
-            "symbol": "WOLF",
+            "symbol": "BRETT",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x05cb9A4C644d9d6bc07430a220E1B5CE11Cd2eaa.png"
         },
