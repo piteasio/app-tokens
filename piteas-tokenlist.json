@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-07-03T02:09:19.436Z",
+    "timestamp": "2024-07-08T02:09:19.436Z",
     "version": {
         "major": 5,
-        "minor": 5,
+        "minor": 6,
         "patch": 0
     },
     "tokens": [
@@ -582,6 +582,14 @@
             "symbol": "pUSDT",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xdAC17F958D2ee523a2206206994597C13D831ec7.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Euro Tether",
+            "address": "0xC581b735A1688071A1746c968e0798D642EDE491",
+            "symbol": "pEURT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xC581b735A1688071A1746c968e0798D642EDE491.png"
         },
         {
             "chainId": 369,
