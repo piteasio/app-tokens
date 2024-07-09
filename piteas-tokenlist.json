@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-07-08T02:09:19.436Z",
+    "timestamp": "2024-07-09T02:09:19.436Z",
     "version": {
         "major": 5,
-        "minor": 6,
+        "minor": 7,
         "patch": 0
     },
     "tokens": [
@@ -2158,6 +2158,22 @@
             "symbol": "MAFIA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xa27aDe5806Ded801b93499C6fA23cc8dC9AC55EA.png"
+        },
+        {
+            "chainId": 369,
+            "name": "HEX1 Token",
+            "address": "0x298978f9B59A4BF9c08C114Fb6848fade7Be7E18",
+            "symbol": "HEX1",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x298978f9B59A4BF9c08C114Fb6848fade7Be7E18.png"
+        },
+        {
+            "chainId": 369,
+            "name": "HEXIT Token",
+            "address": "0x8d4D6aa8339dB0252dc92957544fe6931e0826Db",
+            "symbol": "HEXIT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8d4D6aa8339dB0252dc92957544fe6931e0826Db.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
