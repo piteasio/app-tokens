@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-07-10T02:09:19.436Z",
+    "timestamp": "2024-07-10T04:09:19.436Z",
     "version": {
-        "major": 5,
-        "minor": 8,
-        "patch": 0
+        "major": 6,
+        "minor": 0,
+        "patch": 1
     },
     "tokens": [
         {
@@ -2182,6 +2182,14 @@
             "symbol": "VETS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4013abBf94A745EfA7cc848989Ee83424A770060.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Leonidas",
+            "address": "0x165D605DAEAD3ee97b887CAf30e2dF673646d1F4",
+            "symbol": "Leonidas",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x165D605DAEAD3ee97b887CAf30e2dF673646d1F4.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
