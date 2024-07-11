@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-07-10T04:09:19.436Z",
+    "timestamp": "2024-07-11T01:09:19.436Z",
     "version": {
         "major": 6,
-        "minor": 0,
-        "patch": 1
+        "minor": 1,
+        "patch": 0
     },
     "tokens": [
         {
@@ -2190,6 +2190,14 @@
             "symbol": "Leonidas",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x165D605DAEAD3ee97b887CAf30e2dF673646d1F4.png"
+        },
+        {
+            "chainId": 369,
+            "name": "StackedItalian",
+            "address": "0x67d8954C2B7386c8Dbf6936Cc2355bA2227F0a8f",
+            "symbol": "Stack",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x67d8954C2B7386c8Dbf6936Cc2355bA2227F0a8f.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
