@@ -2199,6 +2199,14 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x67d8954C2B7386c8Dbf6936Cc2355bA2227F0a8f.png"
         }
+        {
+            "chainId": 369,
+            "name": "PulseTV",
+            "address": "0xa5ac6346077aa95095d34aebfbcd61c367a08b2f",
+            "symbol": "PTV",
+            "decimals": 18,
+            "logoURI": "https://images.squarespace-cdn.com/content/v1/6649a12f55e83816f580f8d7/4b6296a5-9cbd-411c-bd8c-81bab7d50cc5/PulseTv---logo.png"
+        }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
