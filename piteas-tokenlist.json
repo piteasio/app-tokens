@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-07-11T01:09:19.436Z",
+    "timestamp": "2024-07-19T01:09:19.436Z",
     "version": {
         "major": 6,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "tokens": [
@@ -2198,6 +2198,22 @@
             "symbol": "Stack",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x67d8954C2B7386c8Dbf6936Cc2355bA2227F0a8f.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Fibocoin",
+            "address": "0xF882BC48d989Ca1cA55a268701BfA3619B0a3Fd4",
+            "symbol": "FIB",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xF882BC48d989Ca1cA55a268701BfA3619B0a3Fd4.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Pulse TV",
+            "address": "0xA5AC6346077aa95095D34AEBFbcd61C367A08B2f",
+            "symbol": "PTV",
+            "decimals": 4,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA5AC6346077aa95095D34AEBFbcd61C367A08B2f.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
