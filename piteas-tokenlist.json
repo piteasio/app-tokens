@@ -2207,6 +2207,14 @@
             "decimals": 18,
             "logoURI": "https://images.squarespace-cdn.com/content/v1/6649a12f55e83816f580f8d7/4b6296a5-9cbd-411c-bd8c-81bab7d50cc5/PulseTv---logo.png"
         }
+        {
+            "chainId": 369,
+            "name": "LiquidHEX",
+            "address": "0xa73f450E3f17468A64BFdD222b099857Db76634d",
+            "symbol": "LHEX",
+            "decimals": 18,
+            "logoURI": "https://benispresence.github.io/frontend_liquidhex/logo.png"
+        }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
