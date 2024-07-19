@@ -2214,15 +2214,7 @@
             "symbol": "PTV",
             "decimals": 4,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA5AC6346077aa95095D34AEBFbcd61C367A08B2f.png"
-        }
-        {
-            "chainId": 369,
-            "name": "PulseTV",
-            "address": "0xa5ac6346077aa95095d34aebfbcd61c367a08b2f",
-            "symbol": "PTV",
-            "decimals": 18,
-            "logoURI": "https://images.squarespace-cdn.com/content/v1/6649a12f55e83816f580f8d7/4b6296a5-9cbd-411c-bd8c-81bab7d50cc5/PulseTv---logo.png"
-        }
+        },
         {
             "chainId": 369,
             "name": "LiquidHEX",
