@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-07-19T01:09:19.436Z",
+    "timestamp": "2024-07-24T01:09:19.436Z",
     "version": {
         "major": 6,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
     "tokens": [
@@ -2214,6 +2214,14 @@
             "symbol": "PTV",
             "decimals": 4,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA5AC6346077aa95095D34AEBFbcd61C367A08B2f.png"
+        },
+        {
+            "chainId": 369,
+            "name": "WIN",
+            "address": "0xFeAC4699AcFC80BA888FE20235c3B381d9af7C30",
+            "symbol": "WIN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xFeAC4699AcFC80BA888FE20235c3B381d9af7C30.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
