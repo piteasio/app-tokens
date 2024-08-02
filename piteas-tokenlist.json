@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-07-24T01:09:19.436Z",
+    "timestamp": "2024-08-02T01:09:19.436Z",
     "version": {
         "major": 6,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
     "tokens": [
@@ -622,6 +622,14 @@
             "symbol": "PHLP",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xF8bba8B1B1A05992B18051E4e79415364Cbf4539.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Phame LP v2",
+            "address": "0x7eE9946b082E197652Bf5d4Bdc2A034DBfF4121b",
+            "symbol": "PHLPv2",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7eE9946b082E197652Bf5d4Bdc2A034DBfF4121b.png"
         },
         {
             "chainId": 369,
