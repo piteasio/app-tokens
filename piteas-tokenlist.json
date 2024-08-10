@@ -2230,6 +2230,14 @@
             "symbol": "WIN",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xFeAC4699AcFC80BA888FE20235c3B381d9af7C30.png"
+        },
+        {
+            "chainId": 369,
+            "name": "LEAN",
+            "address": "0x1c9b5e57AA89f8b58CA28249E347A6C933726449",
+            "symbol": "LEAN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1c9b5e57AA89f8b58CA28249E347A6C933726449.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
