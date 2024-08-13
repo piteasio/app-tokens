@@ -2225,6 +2225,14 @@
         },
         {
             "chainId": 369,
+            "name": "REFLUX | Interest",
+            "address": "0xF876BDf9D6403AA7D5bF7F523E8f440A841CC596",
+            "symbol": "RFX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xF876BDf9D6403AA7D5bF7F523E8f440A841CC596.png"
+        },
+        {
+            "chainId": 369,
             "name": "WIN",
             "address": "0xFeAC4699AcFC80BA888FE20235c3B381d9af7C30",
             "symbol": "WIN",
