@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-08-13T01:09:19.436Z",
+    "timestamp": "2024-08-19T01:09:19.436Z",
     "version": {
         "major": 6,
-        "minor": 5,
+        "minor": 6,
         "patch": 0
     },
     "tokens": [
@@ -2129,11 +2129,19 @@
         },
         {
             "chainId": 369,
-            "name": "REFLUX | Interest",
+            "name": "REFLUX",
             "address": "0xF876BDf9D6403AA7D5bF7F523E8f440A841CC596",
             "symbol": "RFX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xF876BDf9D6403AA7D5bF7F523E8f440A841CC596.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Bitcoin Cash",
+            "address": "0xD4e685ecD1C177A5D9661cF675309E5D00c2e08a",
+            "symbol": "BCH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD4e685ecD1C177A5D9661cF675309E5D00c2e08a.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
