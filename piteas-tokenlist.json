@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-08-19T01:09:19.436Z",
+    "timestamp": "2024-08-21T01:09:19.436Z",
     "version": {
         "major": 6,
-        "minor": 6,
+        "minor": 7,
         "patch": 0
     },
     "tokens": [
@@ -2142,6 +2142,14 @@
             "symbol": "BCH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD4e685ecD1C177A5D9661cF675309E5D00c2e08a.png"
+        },
+        {
+            "chainId": 369,
+            "name": "GIGA CHAD",
+            "address": "0xCB43bc226386f8b9d63879ee3A4C5b32E6516054",
+            "symbol": "CHAD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xCB43bc226386f8b9d63879ee3A4C5b32E6516054.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
