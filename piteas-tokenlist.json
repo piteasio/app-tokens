@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-08-21T01:09:19.436Z",
+    "timestamp": "2024-08-22T01:09:19.436Z",
     "version": {
         "major": 6,
-        "minor": 7,
+        "minor": 8,
         "patch": 0
     },
     "tokens": [
@@ -2150,6 +2150,14 @@
             "symbol": "CHAD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xCB43bc226386f8b9d63879ee3A4C5b32E6516054.png"
+        },
+        {
+            "chainId": 369,
+            "name": "CAMEL CLAN",
+            "address": "0xC1967c5a0cedc577D9017D2465bC0b0c55eAFE49",
+            "symbol": "CAMEL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xC1967c5a0cedc577D9017D2465bC0b0c55eAFE49.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
