@@ -2158,6 +2158,14 @@
             "symbol": "CAMEL",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xC1967c5a0cedc577D9017D2465bC0b0c55eAFE49.png"
+        },
+		{
+            "chainId": 369,
+            "name": "Ditto",
+            "address": "0xc438437218009EDD656d319689c902aE56b4b96F",
+            "symbol": "Dto",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xc438437218009EDD656d319689c902aE56b4b96F.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
