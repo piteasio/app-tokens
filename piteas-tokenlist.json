@@ -2182,6 +2182,22 @@
             "symbol": "Mudkip",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x95032Be41FfD6fea41781447332B5F7b1542D03d.png"
+        },
+        {
+            "chainId": 369,
+            "name": "ChuckNorrisLuigiCIAKilledJFK007Mog",
+            "address": "0x1Cf43d56cF32e754FfC894c2b0587d8BC9035952",
+            "symbol": "INCENTIVE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1Cf43d56cF32e754FfC894c2b0587d8BC9035952.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PeterParkerBushDid911KirbyPepe",
+            "address": "0x54E51Cfa1CF14cB03A7eF172439fEca8804dBE1D",
+            "symbol": "PULSECHAIN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x54E51Cfa1CF14cB03A7eF172439fEca8804dBE1D.png"
         }		
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
