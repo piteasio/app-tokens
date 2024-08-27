@@ -2174,7 +2174,15 @@
             "symbol": "DTO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xc438437218009EDD656d319689c902aE56b4b96F.png"
-        }
+        },
+        {
+            "chainId": 369,
+            "name": "Mudkip ミズゴロウ",
+            "address": "0x95032Be41FfD6fea41781447332B5F7b1542D03d",
+            "symbol": "Mudkip",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x95032Be41FfD6fea41781447332B5F7b1542D03d.png"
+        }		
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
