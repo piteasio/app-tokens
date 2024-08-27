@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-08-27T01:12:19.436Z",
+    "timestamp": "2024-08-27T01:15:19.436Z",
     "version": {
-        "major": 6,
-        "minor": 11,
+        "major": 7,
+        "minor": 0,
         "patch": 0
     },
     "tokens": [
@@ -2177,7 +2177,7 @@
         },
         {
             "chainId": 369,
-            "name": "ChuckNorrisLuigiCIAKilledJFK007Mog",
+            "name": "ChuckNorris",
             "address": "0x1Cf43d56cF32e754FfC894c2b0587d8BC9035952",
             "symbol": "INCENTIVE",
             "decimals": 18,
@@ -2185,7 +2185,7 @@
         },
         {
             "chainId": 369,
-            "name": "PeterParkerBushDid911KirbyPepe",
+            "name": "PeterParker",
             "address": "0x54E51Cfa1CF14cB03A7eF172439fEca8804dBE1D",
             "symbol": "PULSECHAIN",
             "decimals": 18,
