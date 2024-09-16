@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-09-12T01:15:19.436Z",
+    "timestamp": "2024-09-16T01:15:19.436Z",
     "version": {
         "major": 7,
         "minor": 0,
-        "patch": 1
+        "patch": 2
     },
     "tokens": [
         {
@@ -2206,6 +2206,14 @@
             "symbol": "Mudkip",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x95032Be41FfD6fea41781447332B5F7b1542D03d.png"
+        },
+        {
+            "chainId": 369,
+            "name": "AFFECTION",
+            "address": "0x24F0154C1dCe548AdF15da2098Fdd8B8A3B8151D",
+            "symbol": "AFFECTION",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x24F0154C1dCe548AdF15da2098Fdd8B8A3B8151D.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
