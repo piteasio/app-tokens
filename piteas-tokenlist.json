@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-09-16T01:18:19.436Z",
+    "timestamp": "2024-09-21T01:18:19.436Z",
     "version": {
         "major": 7,
         "minor": 0,
-        "patch": 3
+        "patch": 4
     },
     "tokens": [
         {
@@ -2222,6 +2222,14 @@
             "symbol": "X",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA6C4790cc7Aa22CA27327Cb83276F2aBD687B55b.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Shocker",
+            "address": "0x97F50E6bAAA852701D2fb9d7542C87ac7cD8262D",
+            "symbol": "SHKR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x97F50E6bAAA852701D2fb9d7542C87ac7cD8262D.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
