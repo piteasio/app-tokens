@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-09-21T01:18:19.436Z",
+    "timestamp": "2024-09-25T01:18:19.436Z",
     "version": {
         "major": 7,
         "minor": 0,
-        "patch": 4
+        "patch": 5
     },
     "tokens": [
         {
@@ -2230,6 +2230,14 @@
             "symbol": "SHKR",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x97F50E6bAAA852701D2fb9d7542C87ac7cD8262D.png"
+        },
+        {
+            "chainId": 369,
+            "name": "JUPITER",
+            "address": "0x9Dc1684Fa60458faf59Af2a7538FF9bd59a62BD6",
+            "symbol": "JUPITER",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9Dc1684Fa60458faf59Af2a7538FF9bd59a62BD6.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
