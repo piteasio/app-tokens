@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-09-25T01:18:19.436Z",
+    "timestamp": "2024-09-27T01:18:19.436Z",
     "version": {
         "major": 7,
         "minor": 0,
-        "patch": 5
+        "patch": 6
     },
     "tokens": [
         {
@@ -1241,11 +1241,11 @@
         },
         {
             "chainId": 369,
-            "name": "Galactic Credits",
-            "address": "0x49603d2C2bf78A88767cDca6E76c64cd5E8D6482",
+            "name": "Galactic Credits V2",
+            "address": "0xA74CE5E7C5AB50e22ef0daAfa555f8Cb2B6b9320",
             "symbol": "CREDS",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x49603d2C2bf78A88767cDca6E76c64cd5E8D6482.png"
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA74CE5E7C5AB50e22ef0daAfa555f8Cb2B6b9320.png"
         },
         {
             "chainId": 369,
