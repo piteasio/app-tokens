@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-09-28T01:18:19.436Z",
+    "timestamp": "2024-10-01T01:18:19.436Z",
     "version": {
         "major": 7,
         "minor": 1,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -2246,6 +2246,14 @@
             "symbol": "SOTASODA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD1D5A10d702d98647C5F06ff057Bbea78818d27C.png"
+        },
+        {
+            "chainId": 369,
+            "name": "6 Tons of Digital Gold",
+            "address": "0x4FC0C8a7636cfE551bb077BA928b4E9d59b02DC2",
+            "symbol": "GOLD6T",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4FC0C8a7636cfE551bb077BA928b4E9d59b02DC2.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
