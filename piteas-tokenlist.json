@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-10-01T01:18:19.436Z",
+    "timestamp": "2024-10-04T01:18:19.436Z",
     "version": {
         "major": 7,
-        "minor": 1,
-        "patch": 1
+        "minor": 2,
+        "patch": 0
     },
     "tokens": [
         {
@@ -2254,6 +2254,62 @@
             "symbol": "GOLD6T",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4FC0C8a7636cfE551bb077BA928b4E9d59b02DC2.png"
+        },
+        {
+            "chainId": 369,
+            "name": "SOUL USD",
+            "address": "0x8C9c31c740BA466BF2218dA2a78D40B123FC9495",
+            "symbol": "SUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8C9c31c740BA466BF2218dA2a78D40B123FC9495.png"
+        },
+        {
+            "chainId": 369,
+            "name": "SOULS",
+            "address": "0x3B5eBC98eD7a796A60eDA15b54Cb084629134573",
+            "symbol": "SOULS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x3B5eBC98eD7a796A60eDA15b54Cb084629134573.png"
+        },
+        {
+            "chainId": 369,
+            "name": "FREE SOUL",
+            "address": "0x23f2621d0C392d1dD4E2840416d651536dA64D4A",
+            "symbol": "FREE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x23f2621d0C392d1dD4E2840416d651536dA64D4A.png"
+        },
+        {
+            "chainId": 369,
+            "name": "My Portfolio",
+            "address": "0xD29582F42C6Aa7Bf4133F0CEda65de9c5fBEd338",
+            "symbol": "WRECKED",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD29582F42C6Aa7Bf4133F0CEda65de9c5fBEd338.png"
+        },
+        {
+            "chainId": 369,
+            "name": "HACHIKO",
+            "address": "0xAf5ec50cECCc4acb41204525019F531B2A55675c",
+            "symbol": "HATCHI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xAf5ec50cECCc4acb41204525019F531B2A55675c.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Charmander",
+            "address": "0xa0381b8deB04D29FB01de3050B54c226f0BFcfB1",
+            "symbol": "Charm",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xa0381b8deB04D29FB01de3050B54c226f0BFcfB1.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Meowth",
+            "address": "0x7cbEd98f3679795fc8Cd8594b98bE77575eDE156",
+            "symbol": "MEOWTH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7cbEd98f3679795fc8Cd8594b98bE77575eDE156.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
