@@ -1,9 +1,9 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-10-05T01:18:19.436Z",
+    "timestamp": "2024-10-09T01:18:19.436Z",
     "version": {
         "major": 7,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
     "tokens": [
@@ -2198,6 +2198,22 @@
             "symbol": "Snorlax",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xc1042c35A077F5c77e0FDec0E5Ea70E80b016d78.png"
+        },
+        {
+            "chainId": 369,
+            "name": "DOMESHOT",
+            "address": "0x23c9945687c49eB8E65A2Fd690E1D92fD0c3efE7",
+            "symbol": "DOME",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x23c9945687c49eB8E65A2Fd690E1D92fD0c3efE7.png"
+        },
+        {
+            "chainId": 369,
+            "name": "SPONGE on PULSE",
+            "address": "0xeEb4A7e8bF5198B81bbFD58E6c4E8fbAD8A95462",
+            "symbol": "SPONGE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xeEb4A7e8bF5198B81bbFD58E6c4E8fbAD8A95462.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
