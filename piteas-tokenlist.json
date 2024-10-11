@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-10-10T01:18:19.436Z",
+    "timestamp": "2024-10-11T01:18:19.436Z",
     "version": {
         "major": 7,
         "minor": 4,
-        "patch": 1
+        "patch": 2
     },
     "tokens": [
         {
@@ -2222,6 +2222,14 @@
             "symbol": "ACTR",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x85DF7cE20A4CE0cF859804b45cB540FFE42074Da.png"
+        },
+        {
+            "chainId": 369,
+            "name": "KUMAMON",
+            "address": "0x4eF90d0a9b107DFf6E916102C4DaF3d0A564b577",
+            "symbol": "KUMAMON",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4eF90d0a9b107DFf6E916102C4DaF3d0A564b577.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
