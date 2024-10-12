@@ -2237,7 +2237,7 @@
             "address": "0x2dA60FA8D9d8481Df1CbEF487DA8Bc70dE81b3Cc",
             "symbol": "PUFF",
             "decimals": 18,
-            "logoURI": "https://dd.dexscreener.com/ds-data/tokens/pulsechain/0x2da60fa8d9d8481df1cbef487da8bc70de81b3cc.png?size=xl&key=3be38e"
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2dA60FA8D9d8481Df1CbEF487DA8Bc70dE81b3Cc.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
