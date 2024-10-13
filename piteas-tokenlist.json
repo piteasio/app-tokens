@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-10-11T01:18:19.436Z",
+    "timestamp": "2024-10-12T01:18:19.436Z",
     "version": {
         "major": 7,
-        "minor": 4,
-        "patch": 2
+        "minor": 5,
+        "patch": 0
     },
     "tokens": [
         {
@@ -2230,6 +2230,22 @@
             "symbol": "KUMAMON",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4eF90d0a9b107DFf6E916102C4DaF3d0A564b577.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Jigglypuff",
+            "address": "0x2dA60FA8D9d8481Df1CbEF487DA8Bc70dE81b3Cc",
+            "symbol": "PUFF",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2dA60FA8D9d8481Df1CbEF487DA8Bc70dE81b3Cc.png"
+        },
+        {
+            "chainId": 369,
+            "name": "GENGAR",
+            "address": "0x8e60Dc40D25565867da4e0cD9c55411043F14c19",
+            "symbol": "GENGAR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8e60Dc40D25565867da4e0cD9c55411043F14c19.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
