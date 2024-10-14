@@ -34,5 +34,12 @@ Adding or Updating a token
 
 #
 
-Disclaimer
+# Notice:
+Please keep in mind that not every token can be listed, and it will need to be approved by the Piteas team. Here are some basic requirements:
+- The token must have at least $5K in major liquidity (LPs with liquid tokens)
+- Liquidity pools must be integrated with Piteas
+- The token's logo and details must be provided
+
+
+# Disclaimer
 After raising a PR, please allow us some time to verify the PR. We do not follow any particular order in reviewing token additions and updations.
