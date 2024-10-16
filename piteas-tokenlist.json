@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-10-12T01:18:19.436Z",
+    "timestamp": "2024-10-16T01:18:19.436Z",
     "version": {
         "major": 7,
         "minor": 5,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -2246,6 +2246,14 @@
             "symbol": "GENGAR",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8e60Dc40D25565867da4e0cD9c55411043F14c19.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Magikarp",
+            "address": "0x0c6861A673A10C272bEa7947De5E60ab44B6BAc6",
+            "symbol": "RAGE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x0c6861A673A10C272bEa7947De5E60ab44B6BAc6.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
