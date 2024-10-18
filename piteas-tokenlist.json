@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-10-16T01:18:19.436Z",
+    "timestamp": "2024-10-18T01:18:19.436Z",
     "version": {
         "major": 7,
-        "minor": 5,
-        "patch": 1
+        "minor": 6,
+        "patch": 0
     },
     "tokens": [
         {
@@ -2254,6 +2254,46 @@
             "symbol": "RAGE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x0c6861A673A10C272bEa7947De5E60ab44B6BAc6.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Pulsar from Ethereum",
+            "address": "0x69C96Bb512A386a538ab52C87F34aCAf9c76D05a",
+            "symbol": "PULSAR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x69C96Bb512A386a538ab52C87F34aCAf9c76D05a.png"
+        },
+        {
+            "chainId": 369,
+            "name": "TITAN X from Ethereum",
+            "address": "0xBE3381E831C035169B92EF0Cc4759C570528577d",
+            "symbol": "TITANX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xBE3381E831C035169B92EF0Cc4759C570528577d.png"
+        },
+        {
+            "chainId": 369,
+            "name": "HEX Time Token 3000",
+            "address": "0xE9E1340A2b31d5D2a2dB28FB854a794E106b430a",
+            "symbol": "HTT3000",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xE9E1340A2b31d5D2a2dB28FB854a794E106b430a.png"
+        },
+        {
+            "chainId": 369,
+            "name": "HEX Time Token 5000",
+            "address": "0xE2D03779147A32064511dd2b9D37F66f3EeFAd7C",
+            "symbol": "HTT5000",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xE2D03779147A32064511dd2b9D37F66f3EeFAd7C.png"
+        },
+        {
+            "chainId": 369,
+            "name": "HEX Time Token 7000",
+            "address": "0x47810bb3ECDc6b080CeB2d39E769F21Ff14AB7E9",
+            "symbol": "HTT7000",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x47810bb3ECDc6b080CeB2d39E769F21Ff14AB7E9.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
