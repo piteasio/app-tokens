@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-10-18T01:18:19.436Z",
+    "timestamp": "2024-10-19T01:18:19.436Z",
     "version": {
         "major": 7,
         "minor": 6,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -2294,6 +2294,14 @@
             "symbol": "HTT7000",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x47810bb3ECDc6b080CeB2d39E769F21Ff14AB7E9.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Pulsican Store",
+            "address": "0x1BC0CE24e87d998b96b42f0F8f70A5aa8d637a04",
+            "symbol": "PLSS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1BC0CE24e87d998b96b42f0F8f70A5aa8d637a04.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
