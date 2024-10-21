@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-10-19T01:18:19.436Z",
+    "timestamp": "2024-10-21T01:18:19.436Z",
     "version": {
         "major": 7,
         "minor": 6,
-        "patch": 1
+        "patch": 2
     },
     "tokens": [
         {
@@ -2302,6 +2302,14 @@
             "symbol": "PLSS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1BC0CE24e87d998b96b42f0F8f70A5aa8d637a04.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Pepechu",
+            "address": "0x4F0a3F5b40C509402930B139EaF006AFfBF75aDb",
+            "symbol": "PEPU",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4F0a3F5b40C509402930B139EaF006AFfBF75aDb.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
