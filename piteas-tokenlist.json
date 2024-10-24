@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-10-21T01:18:19.436Z",
+    "timestamp": "2024-10-24T01:18:19.436Z",
     "version": {
         "major": 7,
-        "minor": 6,
-        "patch": 2
+        "minor": 7,
+        "patch": 0
     },
     "tokens": [
         {
@@ -2310,6 +2310,14 @@
             "symbol": "PEPU",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4F0a3F5b40C509402930B139EaF006AFfBF75aDb.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Bulbasaur",
+            "address": "0xE37747c9f3e09fCbBC9615A4Cd12C97E7BB50E34",
+            "symbol": "Bulba",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xE37747c9f3e09fCbBC9615A4Cd12C97E7BB50E34.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
