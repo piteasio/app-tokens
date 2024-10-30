@@ -2318,6 +2318,14 @@
             "symbol": "Bulba",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xE37747c9f3e09fCbBC9615A4Cd12C97E7BB50E34.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Reflection USD Stablecoin",
+            "address": "0xbf078f58a8fa9f696bc4e480dd1eede6a56dbd99",
+            "symbol": "RUSD",
+            "decimals": 6,
+            "logoURI": "0xbf078f58a8fa9f696bc4e480dd1eede6a56dbd99.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
