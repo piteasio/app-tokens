@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-10-24T01:18:19.436Z",
+    "timestamp": "2024-10-31T01:18:19.436Z",
     "version": {
         "major": 7,
         "minor": 7,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -638,6 +638,14 @@
             "symbol": "OBStable",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xB272AE05C5F5eCE5a3a599928c06469ebc73FC31.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Maker on Pulsechain",
+            "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+            "symbol": "pMKR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2.png"
         },
         {
             "chainId": 369,
@@ -2318,6 +2326,22 @@
             "symbol": "Bulba",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xE37747c9f3e09fCbBC9615A4Cd12C97E7BB50E34.png"
+        },
+        {
+            "chainId": 369,
+            "name": "TRUMP Shooses",
+            "address": "0xD010BF67fC59AA9e440125990de23AAb91B2e5b1",
+            "symbol": "SHOOS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD010BF67fC59AA9e440125990de23AAb91B2e5b1.png"
+        },
+        {
+            "chainId": 369,
+            "name": "HeartWifDog",
+            "address": "0x16757fa456F06AAB7aDa2Be7a5FF47fef96572DC",
+            "symbol": "HOG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x16757fa456F06AAB7aDa2Be7a5FF47fef96572DC.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
