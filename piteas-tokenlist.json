@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-11-04T01:18:19.436Z",
+    "timestamp": "2024-11-05T01:18:19.436Z",
     "version": {
         "major": 7,
         "minor": 7,
-        "patch": 2
+        "patch": 3
     },
     "tokens": [
         {
@@ -2350,6 +2350,14 @@
             "symbol": "SPX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xdE33300e2Ec7A5b863d39eE7dDC02e58FB021F45.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Squirrel Wif Nut",
+            "address": "0x874e3F27140FCB7cd734df9758552f36f1AC5fcF",
+            "symbol": "NUTS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x874e3F27140FCB7cd734df9758552f36f1AC5fcF.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
