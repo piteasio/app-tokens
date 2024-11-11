@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-11-07T01:18:19.436Z",
+    "timestamp": "2024-11-11T01:18:19.436Z",
     "version": {
         "major": 7,
-        "minor": 7,
-        "patch": 5
+        "minor": 8,
+        "patch": 0
     },
     "tokens": [
         {
@@ -2166,6 +2166,22 @@
             "symbol": "FREE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x23f2621d0C392d1dD4E2840416d651536dA64D4A.png"
+        },
+        {
+            "chainId": 369,
+            "name": "FREE PALESTINE",
+            "address": "0xde3bab90cA73D22C77050153f0bDab4c516C5552",
+            "symbol": "FREE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xde3bab90cA73D22C77050153f0bDab4c516C5552.png"
+        },
+        {
+            "chainId": 369,
+            "name": "SCORPIO",
+            "address": "0xd6f21e3565D6b4401C78a1dC0167b236cdD573f6",
+            "symbol": "SCORPIO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xd6f21e3565D6b4401C78a1dC0167b236cdD573f6.png"
         },
         {
             "chainId": 369,
