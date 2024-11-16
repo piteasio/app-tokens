@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-11-15T01:18:19.436Z",
+    "timestamp": "2024-11-16T01:18:19.436Z",
     "version": {
         "major": 7,
         "minor": 8,
-        "patch": 1
+        "patch": 2
     },
     "tokens": [
         {
@@ -2478,6 +2478,22 @@
             "symbol": "QUAD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xB2fbC6E798EF33342f6810CEB32AC498B6563082.png"
+        },
+        {
+            "chainId": 369,
+            "name": "XUSD Vibratile Asset",
+            "address": "0xbbeA78397d4d4590882EFcc4820f03074aB2AB29",
+            "symbol": "XUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xbbeA78397d4d4590882EFcc4820f03074aB2AB29.png"
+        },
+        {
+            "chainId": 369,
+            "name": "MSTR2100",
+            "address": "0x37bAf0379D9Ca65FCbF80F76869AE697367b2c25",
+            "symbol": "MSTR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x37bAf0379D9Ca65FCbF80F76869AE697367b2c25.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
