@@ -4,7 +4,7 @@
     "version": {
         "major": 7,
         "minor": 8,
-        "patch": 2
+        "patch": 3
     },
     "tokens": [
         {
@@ -2494,6 +2494,30 @@
             "symbol": "MSTR",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x37bAf0379D9Ca65FCbF80F76869AE697367b2c25.png"
+        },
+        {
+            "chainId": 369,
+            "name": "SPONGE on PULSE V2",
+            "address": "0x196dD891e009f9ebE441103420A07326c4a33cba",
+            "symbol": "SPONGE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x196dD891e009f9ebE441103420A07326c4a33cba.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Dai Niro",
+            "address": "0x0297a4d78dA1dbd8C1ce1FF4d90F1cb22C3ec12A",
+            "symbol": "Niro",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x0297a4d78dA1dbd8C1ce1FF4d90F1cb22C3ec12A.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Vaultiano",
+            "address": "0xB9Cd6E3f7B4539795cB51E9C02cb7ba1A2E277d1",
+            "symbol": "VAULT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xB9Cd6E3f7B4539795cB51E9C02cb7ba1A2E277d1.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
