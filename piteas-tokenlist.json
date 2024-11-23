@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-11-20T01:19:19.436Z",
+    "timestamp": "2024-11-23T01:19:19.436Z",
     "version": {
         "major": 7,
-        "minor": 8,
-        "patch": 5
+        "minor": 9,
+        "patch": 0
     },
     "tokens": [
         {
@@ -2518,6 +2518,30 @@
             "symbol": "GOOD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8a7213A9Aa159C10fae16DCba54E78ce10e83298.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Vouch Staked PLS",
+            "address": "0x79BB3A0Ee435f957ce4f54eE8c3CFADc7278da0C",
+            "symbol": "vPLS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x79BB3A0Ee435f957ce4f54eE8c3CFADc7278da0C.png"
+        },
+        {
+            "chainId": 369,
+            "name": "AxisAlive",
+            "address": "0xB0eBAf9378d6E7531ba09403A12636947CC2f84b",
+            "symbol": "ALIVE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xB0eBAf9378d6E7531ba09403A12636947CC2f84b.png"
+        },
+        {
+            "chainId": 369,
+            "name": "SoftTastyDonut",
+            "address": "0x55f49Fe677d104D0141CEF3EcFE4FCcA892D4aa9",
+            "symbol": "STD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x55f49Fe677d104D0141CEF3EcFE4FCcA892D4aa9.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
