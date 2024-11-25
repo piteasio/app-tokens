@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-11-23T01:19:19.436Z",
+    "timestamp": "2024-11-25T01:19:19.436Z",
     "version": {
         "major": 7,
         "minor": 9,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -2542,6 +2542,14 @@
             "symbol": "STD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x55f49Fe677d104D0141CEF3EcFE4FCcA892D4aa9.png"
+        },
+        {
+            "chainId": 369,
+            "name": "10x That Shit",
+            "address": "0xdA1dAfB686959F1410e8A0863ebCEA02Fa605933",
+            "symbol": "10x",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xdA1dAfB686959F1410e8A0863ebCEA02Fa605933.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
