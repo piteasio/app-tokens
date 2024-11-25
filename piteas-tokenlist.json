@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-11-25T01:19:19.436Z",
+    "timestamp": "2024-11-25T01:22:19.436Z",
     "version": {
         "major": 7,
         "minor": 9,
-        "patch": 1
+        "patch": 2
     },
     "tokens": [
         {
@@ -2550,6 +2550,14 @@
             "symbol": "10x",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xdA1dAfB686959F1410e8A0863ebCEA02Fa605933.png"
+        },
+        {
+            "chainId": 369,
+            "name": "QUESO from Burritos.Cash",
+            "address": "0xef6570621B4E7aD12F60ECE4FC09608769cDecD9",
+            "symbol": "QUESO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xef6570621B4E7aD12F60ECE4FC09608769cDecD9.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
