@@ -2558,6 +2558,14 @@
             "symbol": "QUESO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xef6570621B4E7aD12F60ECE4FC09608769cDecD9.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PulseDogElon",
+            "address": "0xe8CB0509811dAd76e971bAe0D58a813A4B826210",
+            "symbol": "PELON",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/EliotNesso/app-tokens/main/token-logo/0xe8CB0509811dAd76e971bAe0D58a813A4B826210.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
