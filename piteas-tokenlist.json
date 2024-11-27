@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-11-25T01:22:19.436Z",
+    "timestamp": "2024-11-26T01:22:19.436Z",
     "version": {
-        "major": 7,
-        "minor": 9,
-        "patch": 2
+        "major": 1,
+        "minor": 0,
+        "patch": 0
     },
     "tokens": [
         {
@@ -467,9 +467,33 @@
             "chainId": 369,
             "name": "Aave Token",
             "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
-            "symbol": "AAVE",
+            "symbol": "pAAVE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Staked ETH on PulseChain",
+            "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+            "symbol": "pSTETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Render Token on PulseChain",
+            "address": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
+            "symbol": "pRNDR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Paxos Gold on PulseChain",
+            "address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
+            "symbol": "pPAXG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x45804880De22913dAFE09f4980848ECE6EcbAf78.png"
         },
         {
             "chainId": 369,
@@ -2558,6 +2582,14 @@
             "symbol": "QUESO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xef6570621B4E7aD12F60ECE4FC09608769cDecD9.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PulseDogElon",
+            "address": "0xe8CB0509811dAd76e971bAe0D58a813A4B826210",
+            "symbol": "PELON",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe8CB0509811dAd76e971bAe0D58a813A4B826210.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
