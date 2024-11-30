@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-11-28T01:22:19.436Z",
+    "timestamp": "2024-11-30T01:22:19.436Z",
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 2
+        "patch": 3
     },
     "tokens": [
         {
@@ -2606,6 +2606,14 @@
             "symbol": "BITCOIN",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x72e4f9F808C49A2a61dE9C5896298920Dc4EEEa9.png"
+        },
+        {
+            "chainId": 369,
+            "name": "BriBerry Governance Token",
+            "address": "0x08C26D39E9cD2175401F9115A23580cB4A4C935a",
+            "symbol": "BRIBE",
+            "decimals": 0,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x08C26D39E9cD2175401F9115A23580cB4A4C935a.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
