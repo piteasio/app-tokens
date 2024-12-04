@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-11-30T02:22:19.436Z",
+    "timestamp": "2024-12-04T02:22:19.436Z",
     "version": {
         "major": 1,
         "minor": 1,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -2670,6 +2670,14 @@
             "symbol": "PEEPO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2f7632Ab79a687c40C7933151a5B0184E3756Cc7.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Eevee",
+            "address": "0x64f4EE0BDf92BcD7ED332eC6675726E9c0D06F8F",
+            "symbol": "EEVEE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x64f4EE0BDf92BcD7ED332eC6675726E9c0D06F8F.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
