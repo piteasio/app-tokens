@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-12-04T02:22:19.436Z",
+    "timestamp": "2024-12-05T02:22:19.436Z",
     "version": {
         "major": 1,
         "minor": 1,
-        "patch": 1
+        "patch": 2
     },
     "tokens": [
         {
@@ -2678,6 +2678,22 @@
             "symbol": "EEVEE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x64f4EE0BDf92BcD7ED332eC6675726E9c0D06F8F.png"
+        },
+        {
+            "chainId": 369,
+            "name": "MAGIX",
+            "address": "0xFC3824E8d68988D66c23baeD7bA094D8B0DBd9a6",
+            "symbol": "MAGIX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xFC3824E8d68988D66c23baeD7bA094D8B0DBd9a6.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Peezy",
+            "address": "0x698Cb3223D8eB1A3D9908e304775118DF4F81933",
+            "symbol": "PEEZY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x698Cb3223D8eB1A3D9908e304775118DF4F81933.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
