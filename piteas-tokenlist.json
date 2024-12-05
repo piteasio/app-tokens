@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-12-05T02:22:19.436Z",
+    "timestamp": "2024-12-05T02:23:19.436Z",
     "version": {
         "major": 1,
         "minor": 1,
-        "patch": 2
+        "patch": 3
     },
     "tokens": [
         {
@@ -2694,6 +2694,14 @@
             "symbol": "PEEZY",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x698Cb3223D8eB1A3D9908e304775118DF4F81933.png"
+        },
+        {
+            "chainId": 369,
+            "name": "FOX",
+            "address": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+            "symbol": "pFOX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
