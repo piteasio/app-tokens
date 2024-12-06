@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-12-05T02:23:19.436Z",
+    "timestamp": "2024-12-06T02:23:19.436Z",
     "version": {
         "major": 1,
         "minor": 1,
-        "patch": 3
+        "patch": 4
     },
     "tokens": [
         {
@@ -2702,6 +2702,54 @@
             "symbol": "pFOX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d.png"
+        },
+        {
+            "chainId": 369,
+            "name": "KISHKA",
+            "address": "0x2dd40F954093A9C2D67EBb5687Df9292Dac335F3",
+            "symbol": "KISHKA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2dd40F954093A9C2D67EBb5687Df9292Dac335F3.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Gelato",
+            "address": "0x616cb6a245Ed4c11216Ec58D10B6A2E87271845d",
+            "symbol": "GEL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x616cb6a245Ed4c11216Ec58D10B6A2E87271845d.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Lady Gaga",
+            "address": "0x9fC97f73A610318FEe90a8BdfcC2AD08e2E884DD",
+            "symbol": "GAGA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9fC97f73A610318FEe90a8BdfcC2AD08e2E884DD.png"
+        },
+        {
+            "chainId": 369,
+            "name": "SIMP",
+            "address": "0xADBD09Faf339BD18d00430Be1c2cba6c1119df1E",
+            "symbol": "IMP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xADBD09Faf339BD18d00430Be1c2cba6c1119df1E.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PLSPUPPY",
+            "address": "0xe3B3f5F95d263edc6A5e3D4b7314728A390a4342",
+            "symbol": "PLSPUP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe3B3f5F95d263edc6A5e3D4b7314728A390a4342.png"
+        },
+        {
+            "chainId": 369,
+            "name": "pVOLT",
+            "address": "0x74758472AddC95944769E8aDac07E391c31cAc82",
+            "symbol": "pVOLT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x74758472AddC95944769E8aDac07E391c31cAc82.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
