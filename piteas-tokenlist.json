@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-12-06T02:23:19.436Z",
+    "timestamp": "2024-12-11T02:23:19.436Z",
     "version": {
         "major": 1,
         "minor": 1,
-        "patch": 4
+        "patch": 5
     },
     "tokens": [
         {
@@ -2750,6 +2750,14 @@
             "symbol": "pVOLT",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x74758472AddC95944769E8aDac07E391c31cAc82.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Genesis P-Orridge Coin",
+            "address": "0xc7eB14e178220E84530748a71b91F07c3545dE50",
+            "symbol": "GENESIS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xc7eB14e178220E84530748a71b91F07c3545dE50.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
