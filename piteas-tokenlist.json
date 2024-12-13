@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-12-11T02:23:19.436Z",
+    "timestamp": "2024-12-13T02:23:19.436Z",
     "version": {
         "major": 1,
         "minor": 1,
-        "patch": 5
+        "patch": 6
     },
     "tokens": [
         {
@@ -2758,6 +2758,22 @@
             "symbol": "GENESIS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xc7eB14e178220E84530748a71b91F07c3545dE50.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Janus",
+            "address": "0xd5A96B6ACa28302CF1B0F860673851705D25667e",
+            "symbol": "JNS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xd5A96B6ACa28302CF1B0F860673851705D25667e.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Dark",
+            "address": "0x1578F4De7fCb3Ac9e8925ac690228EDcA3BBc7c5",
+            "symbol": "DARK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1578F4De7fCb3Ac9e8925ac690228EDcA3BBc7c5.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
