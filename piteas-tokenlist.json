@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-12-13T02:23:19.436Z",
+    "timestamp": "2024-12-14T02:23:19.436Z",
     "version": {
         "major": 1,
         "minor": 1,
-        "patch": 6
+        "patch": 7
     },
     "tokens": [
         {
@@ -2774,6 +2774,22 @@
             "symbol": "DARK",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1578F4De7fCb3Ac9e8925ac690228EDcA3BBc7c5.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PulseLitecoin",
+            "address": "0x68eA849F92998D54555B33F45825c42Ee56866Fb",
+            "symbol": "pLTC",
+            "decimals": 12,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x68eA849F92998D54555B33F45825c42Ee56866Fb.png"
+        },
+        {
+            "chainId": 369,
+            "name": "One Click Away",
+            "address": "0xa17ff0061c1E3161fe281C5FBa23B48b23ce9636",
+            "symbol": "CLICK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xa17ff0061c1E3161fe281C5FBa23B48b23ce9636.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
