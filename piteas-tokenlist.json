@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-12-16T02:23:19.436Z",
+    "timestamp": "2024-12-17T02:23:19.436Z",
     "version": {
         "major": 1,
         "minor": 1,
-        "patch": 8
+        "patch": 9
     },
     "tokens": [
         {
@@ -225,11 +225,19 @@
         },
         {
             "chainId": 369,
-            "name": "Pepe",
+            "name": "Pepe on Pulsechain",
             "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
-            "symbol": "PEPE",
+            "symbol": "pPEPE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6982508145454Ce325dDbE47a25d4ec3d2311933.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Pepe from Ethereum",
+            "address": "0x4d3AeA379b7689E0Cb722826C909Fab39E54123d",
+            "symbol": "ePEPE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4d3AeA379b7689E0Cb722826C909Fab39E54123d.png"
         },
         {
             "chainId": 369,
