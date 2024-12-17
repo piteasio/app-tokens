@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-12-14T02:23:19.436Z",
+    "timestamp": "2024-12-16T02:23:19.436Z",
     "version": {
         "major": 1,
         "minor": 1,
-        "patch": 7
+        "patch": 8
     },
     "tokens": [
         {
@@ -2790,6 +2790,22 @@
             "symbol": "CLICK",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xa17ff0061c1E3161fe281C5FBa23B48b23ce9636.png"
+        },
+        {
+            "chainId": 369,
+            "name": "ETHTC",
+            "address": "0xB6FDD8A5b6069De409288Bc30C69c5856Dc67aC8",
+            "symbol": "ETHTC",
+            "decimals": 2,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xB6FDD8A5b6069De409288Bc30C69c5856Dc67aC8.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Milady",
+            "address": "0xD100ecF770dC06D407787c3a991086a6E876Cc17",
+            "symbol": "MILADY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD100ecF770dC06D407787c3a991086a6E876Cc17.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
