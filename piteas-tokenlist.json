@@ -2417,14 +2417,6 @@
         },
         {
             "chainId": 369,
-            "name": "Bullseye Bot Token",
-            "address": "0xeAb7c22B8F5111559A2c2B1A3402d3FC713CAc27",
-            "symbol": "BLSEYE",
-            "decimals": 10,
-            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xeAb7c22B8F5111559A2c2B1A3402d3FC713CAc27.png"
-        },
-        {
-            "chainId": 369,
             "name": "XBURN.win",
             "address": "0x6518dD379F02DDDb65C027fE8b4042E91337ba62",
             "symbol": "XBURN",
