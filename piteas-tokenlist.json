@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-12-17T02:23:19.436Z",
+    "timestamp": "2024-12-25T02:23:19.436Z",
     "version": {
         "major": 1,
         "minor": 1,
-        "patch": 9
+        "patch": 10
     },
     "tokens": [
         {
@@ -2806,6 +2806,30 @@
             "symbol": "MILADY",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD100ecF770dC06D407787c3a991086a6E876Cc17.png"
+        },
+        {
+            "chainId": 369,
+            "name": "MOST WANTED",
+            "address": "0x79FC0E1d3EC00d81E5423DcC01A617b0e1245c2B",
+            "symbol": "RICKY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x79FC0E1d3EC00d81E5423DcC01A617b0e1245c2B.png"
+        },
+        {
+            "chainId": 369,
+            "name": "redPILL",
+            "address": "0x2f4C121cB612d423d9639dc223576A08098c3537",
+            "symbol": "RDPIL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2f4C121cB612d423d9639dc223576A08098c3537.png"
+        },
+        {
+            "chainId": 369,
+            "name": "ICE KING",
+            "address": "0xb33a7a3142532207012F8A88787aB465eAa7FfAc",
+            "symbol": "ICE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xb33a7a3142532207012F8A88787aB465eAa7FfAc.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
