@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2024-12-25T02:23:19.436Z",
+    "timestamp": "2025-01-02T02:23:19.436Z",
     "version": {
         "major": 1,
-        "minor": 1,
-        "patch": 10
+        "minor": 2,
+        "patch": 0
     },
     "tokens": [
         {
@@ -2830,6 +2830,14 @@
             "symbol": "ICE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xb33a7a3142532207012F8A88787aB465eAa7FfAc.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Linker",
+            "address": "0xA99C95f034Cb10b725724f7679D10DE1748aD8ca",
+            "symbol": "LNKR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA99C95f034Cb10b725724f7679D10DE1748aD8ca.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
