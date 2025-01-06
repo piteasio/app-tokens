@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-01-04T02:23:19.436Z",
+    "timestamp": "2025-01-06T02:23:19.436Z",
     "version": {
         "major": 1,
         "minor": 2,
-        "patch": 1
+        "patch": 2
     },
     "tokens": [
         {
@@ -2614,6 +2614,14 @@
             "symbol": "stPLS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x21dCB2c16C3773A565AcB45f6c34348EC78a8385.png"
+        },
+        {
+            "chainId": 369,
+            "name": "MICHI",
+            "address": "0xdeFB2a9455B2d8f432d8cFe4355e0594787C23D5",
+            "symbol": "MICHI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xdeFB2a9455B2d8f432d8cFe4355e0594787C23D5.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
