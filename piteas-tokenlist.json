@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-01-14T02:23:19.436Z",
+    "timestamp": "2025-01-14T02:28:19.436Z",
     "version": {
         "major": 1,
         "minor": 2,
-        "patch": 3
+        "patch": 4
     },
     "tokens": [
         {
@@ -1234,10 +1234,10 @@
         {
             "chainId": 369,
             "name": "2 Cent Club",
-            "address": "0x6293373bf0dae2050641973d49b7b2f71adc91a1",
+            "address": "0x6293373BF0DAE2050641973D49b7b2f71adC91a1",
             "symbol": "2CC",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6293373bf0dae2050641973d49b7b2f71adc91a1.png"
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6293373BF0DAE2050641973D49b7b2f71adC91a1.png"
         },
         {
             "chainId": 369,
