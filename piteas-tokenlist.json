@@ -2631,6 +2631,14 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xd4f6Dfd7dA9731D11B8789226F6d692f02fea16F.png"
         }
+        {
+            "chainId": 369, // Should always be 369
+            "address": "0x5B4256833949cFdB2cDe3F23B8E17e4934650F9C",
+            "name": "SemenDemon",
+            "symbol": "SEM",
+            "decimals": <18>,
+            "logoURI": "https://semendemon.net/SemenDemon_Logo.jpg",
+        }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
