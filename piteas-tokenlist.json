@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-01-14T02:28:19.436Z",
+    "timestamp": "2025-01-25T02:28:19.436Z",
     "version": {
         "major": 1,
         "minor": 2,
-        "patch": 4
+        "patch": 5
     },
     "tokens": [
         {
@@ -2630,6 +2630,14 @@
             "symbol": "ORD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xd4f6Dfd7dA9731D11B8789226F6d692f02fea16F.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Knights of the Orion",
+            "address": "0xE7308da032326dE7A2a2b80E1131650E845Ab989",
+            "symbol": "KORD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xE7308da032326dE7A2a2b80E1131650E845Ab989.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
