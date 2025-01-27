@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-01-25T02:28:19.436Z",
+    "timestamp": "2025-01-27T02:28:19.436Z",
     "version": {
         "major": 1,
         "minor": 2,
-        "patch": 5
+        "patch": 6
     },
     "tokens": [
         {
@@ -2638,6 +2638,14 @@
             "symbol": "KORD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xE7308da032326dE7A2a2b80E1131650E845Ab989.png"
+        },
+        {
+            "chainId": 369,
+            "name": "DOMINANCE",
+            "address": "0x116D162d729E27E2E1D6478F1d2A8AEd9C7a2beA",
+            "symbol": "DOMINANCE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x116D162d729E27E2E1D6478F1d2A8AEd9C7a2beA.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
