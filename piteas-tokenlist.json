@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-02-03T02:28:19.436Z",
+    "timestamp": "2025-02-03T02:35:19.436Z",
     "version": {
         "major": 1,
         "minor": 3,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -2734,6 +2734,14 @@
             "symbol": "BABYHACKER",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x253d5EcaE52B6AFEE9aC4C50e6b51FA9e7E6A8Da.png"
+        },
+        {
+            "chainId": 369,
+            "name": "DAI from pump.tires",
+            "address": "0xf598cB1D27Fb2c5C731F535AD6c1D0ec5EfE1320",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xf598cB1D27Fb2c5C731F535AD6c1D0ec5EfE1320.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
