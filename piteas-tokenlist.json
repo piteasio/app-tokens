@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-01-28T02:28:19.436Z",
+    "timestamp": "2025-02-03T02:28:19.436Z",
     "version": {
         "major": 1,
-        "minor": 2,
-        "patch": 7
+        "minor": 3,
+        "patch": 0
     },
     "tokens": [
         {
@@ -2654,6 +2654,86 @@
             "symbol": "PUMP",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x78Ad9dA5d80a08AeDE9B0876B7A8807320DbDc9A.png"
+        },
+        {
+            "chainId": 369,
+            "name": "MostWanted",
+            "address": "0xe33a5AE21F93aceC5CfC0b7b0FDBB65A0f0Be5cC",
+            "symbol": "MOST",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe33a5AE21F93aceC5CfC0b7b0FDBB65A0f0Be5cC.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Trump",
+            "address": "0x8cC6d99114Edd628249fAbc8a4d64F9A759a77Bf",
+            "symbol": "Trump",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8cC6d99114Edd628249fAbc8a4d64F9A759a77Bf.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PUMP.tires",
+            "address": "0xec4252e62C6dE3D655cA9Ce3AfC12E553ebBA274",
+            "symbol": "PUMP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xec4252e62C6dE3D655cA9Ce3AfC12E553ebBA274.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Sommi Fan Token",
+            "address": "0x6A46d56F9Dd963cEAc7f60aD148d49219CC3b79f",
+            "symbol": "FRIENDSHIP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6A46d56F9Dd963cEAc7f60aD148d49219CC3b79f.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Core Coin",
+            "address": "0xEa65cae72a3B4410aa5e9A964860D46AFc885987",
+            "symbol": "CORE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xEa65cae72a3B4410aa5e9A964860D46AFc885987.png"
+        },
+        {
+            "chainId": 369,
+            "name": "MARS",
+            "address": "0x709e07230860FE0543DCBC359Fdf1D1b5eD13305",
+            "symbol": "MARS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x709e07230860FE0543DCBC359Fdf1D1b5eD13305.png"
+        },
+        {
+            "chainId": 369,
+            "name": "ELON",
+            "address": "0x435363A7C8C63057aAD5d9903c154b4d43E00093",
+            "symbol": "ELON",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x435363A7C8C63057aAD5d9903c154b4d43E00093.png"
+        },
+        {
+            "chainId": 369,
+            "name": "DEGENS RUN THE CHAIN",
+            "address": "0xb8A7bC2c6d5C1f28a8a95Dd0E7676611cfF4b075",
+            "symbol": "ALMIGHTY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xb8A7bC2c6d5C1f28a8a95Dd0E7676611cfF4b075.png"
+        },
+        {
+            "chainId": 369,
+            "name": "HexO",
+            "address": "0x39BcA0fE6Aed637042Ef19f0FdC2F918933C6b97",
+            "symbol": "HexO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x39BcA0fE6Aed637042Ef19f0FdC2F918933C6b97.png"
+        },
+        {
+            "chainId": 369,
+            "name": "BABY HACKER",
+            "address": "0x253d5EcaE52B6AFEE9aC4C50e6b51FA9e7E6A8Da",
+            "symbol": "BABYHACKER",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x253d5EcaE52B6AFEE9aC4C50e6b51FA9e7E6A8Da.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
