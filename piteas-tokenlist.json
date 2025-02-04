@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-02-03T02:35:19.436Z",
+    "timestamp": "2025-02-04T02:35:19.436Z",
     "version": {
         "major": 1,
         "minor": 3,
-        "patch": 1
+        "patch": 2
     },
     "tokens": [
         {
@@ -2742,6 +2742,118 @@
             "symbol": "DAI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xf598cB1D27Fb2c5C731F535AD6c1D0ec5EfE1320.png"
+        },
+        {
+            "chainId": 369,
+            "name": "USDC from pump.tires",
+            "address": "0x080f7A005834c84240F25B2Df4AED8236bd57812",
+            "symbol": "USDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x080f7A005834c84240F25B2Df4AED8236bd57812.png"
+        },
+        {
+            "chainId": 369,
+            "name": "USDT from pump.tires",
+            "address": "0x279d6564A78Cc9f126eC630e8a826DD55294f875",
+            "symbol": "USDT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x279d6564A78Cc9f126eC630e8a826DD55294f875.png"
+        },
+        {
+            "chainId": 369,
+            "name": "ETH from pump.tires",
+            "address": "0xBFcfA52225Baa5feec5fbb54E6458957D53ddD94",
+            "symbol": "ETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xBFcfA52225Baa5feec5fbb54E6458957D53ddD94.png"
+        },
+        {
+            "chainId": 369,
+            "name": "DOGE from pump.tires",
+            "address": "0xDDe9164E7E0DA7ae48b58F36B42c1c9f80e7245F",
+            "symbol": "DOGE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xDDe9164E7E0DA7ae48b58F36B42c1c9f80e7245F.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PEPE from pump.tires",
+            "address": "0x1B71505D95Ab3e7234ed2239b8EC7aa65b94ae7B",
+            "symbol": "PEPE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1B71505D95Ab3e7234ed2239b8EC7aa65b94ae7B.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Bitcoin from pump.tires",
+            "address": "0xF7bf2A938f971D7e4811A1170C43d651d21A0F81",
+            "symbol": "BTC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xF7bf2A938f971D7e4811A1170C43d651d21A0F81.png"
+        },
+        {
+            "chainId": 369,
+            "name": "XRP from pump.tires",
+            "address": "0x35Cf97eC047F93660C27c21FdD846dEa72bc66D7",
+            "symbol": "XRP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x35Cf97eC047F93660C27c21FdD846dEa72bc66D7.png"
+        },
+        {
+            "chainId": 369,
+            "name": "XRP new from pump.tires",
+            "address": "0x9Ff4f187D1a41DCD05d6a80c060c6489C132e372",
+            "symbol": "XRP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9Ff4f187D1a41DCD05d6a80c060c6489C132e372.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Solana from pump.tires",
+            "address": "0x873301F2B4B83FeaFF04121B68eC9231B29Ce0df",
+            "symbol": "SOL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x873301F2B4B83FeaFF04121B68eC9231B29Ce0df.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Cardano from pump.tires",
+            "address": "0x4774e075c16989be68C26cC146fE707Ef4393661",
+            "symbol": "ADA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4774e075c16989be68C26cC146fE707Ef4393661.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Tron from pump.tires",
+            "address": "0x0392fBD58918E7ECBB2C68f4EBe4e2225C9a6468",
+            "symbol": "TRX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x0392fBD58918E7ECBB2C68f4EBe4e2225C9a6468.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PulseX from pump.tires",
+            "address": "0xd73731bDA87C3464e76268c094D959c1B35b9bF1",
+            "symbol": "PLSX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xd73731bDA87C3464e76268c094D959c1B35b9bF1.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PulseChain from pump.tires",
+            "address": "0x260e5dA7eF6E30e0A647d1aDF47628198DCb0709",
+            "symbol": "PLS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x260e5dA7eF6E30e0A647d1aDF47628198DCb0709.png"
+        },
+        {
+            "chainId": 369,
+            "name": "HEX from pump.tires",
+            "address": "0x55C50875e890c7eE5621480baB02511C380E12C6",
+            "symbol": "HEX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x55C50875e890c7eE5621480baB02511C380E12C6.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
