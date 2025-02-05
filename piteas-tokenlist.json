@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-02-04T02:35:19.436Z",
+    "timestamp": "2025-02-05T02:35:19.436Z",
     "version": {
         "major": 1,
         "minor": 3,
-        "patch": 2
+        "patch": 3
     },
     "tokens": [
         {
@@ -2854,6 +2854,30 @@
             "symbol": "HEX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x55C50875e890c7eE5621480baB02511C380E12C6.png"
+        },
+        {
+            "chainId": 369,
+            "name": "BestEverything",
+            "address": "0x84601f4e914E00Dc40296Ac11CdD27926BE319f2",
+            "symbol": "BEST",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x84601f4e914E00Dc40296Ac11CdD27926BE319f2.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Dick Heart",
+            "address": "0xC86E034d7571459C4E7076Ff92b03fD3e3D0CA0C",
+            "symbol": "DICK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xC86E034d7571459C4E7076Ff92b03fD3e3D0CA0C.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Heart Wif Niggas",
+            "address": "0x1e81026D34F2202E63D8Acf1a295de35D4124c69",
+            "symbol": "HWIF",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1e81026D34F2202E63D8Acf1a295de35D4124c69.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
