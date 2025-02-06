@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-02-05T02:35:19.436Z",
+    "timestamp": "2025-02-06T02:35:19.436Z",
     "version": {
         "major": 1,
         "minor": 3,
-        "patch": 3
+        "patch": 4
     },
     "tokens": [
         {
@@ -2878,6 +2878,30 @@
             "symbol": "HWIF",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1e81026D34F2202E63D8Acf1a295de35D4124c69.png"
+        },
+        {
+            "chainId": 369,
+            "name": "ApeCoin on Pulsechain",
+            "address": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+            "symbol": "pAPE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4d224452801ACEd8B2F0aebE155379bb5D594381.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Richard Fartcoin",
+            "address": "0x6f40B31737c2B9010Ca86C8a04683Dd64527E205",
+            "symbol": "Fartcoin",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6f40B31737c2B9010Ca86C8a04683Dd64527E205.png"
+        },
+        {
+            "chainId": 369,
+            "name": "DOUBT",
+            "address": "0x6ba0876e30CcE2A9AfC4B82D8BD8A8349DF4Ca96",
+            "symbol": "DOUBT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6ba0876e30CcE2A9AfC4B82D8BD8A8349DF4Ca96.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
