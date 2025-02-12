@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-02-10T02:35:19.436Z",
+    "timestamp": "2025-02-12T02:35:19.436Z",
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -2998,6 +2998,30 @@
             "symbol": "HEART",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x5CB6D3aF04D6171F83EA9B51F2F22fA989f9509e.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Kingdom of Meme Tokens",
+            "address": "0x471250E27388CA90018a9042DC81310F8AAB8D2D",
+            "symbol": "KOMT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x471250E27388CA90018a9042DC81310F8AAB8D2D.png"
+        },
+        {
+            "chainId": 369,
+            "name": "The One Meme",
+            "address": "0x2012aC87AE6222E5B496d1ba873c6fd79E9c0b7A",
+            "symbol": "RING",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2012aC87AE6222E5B496d1ba873c6fd79E9c0b7A.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Eli Porter",
+            "address": "0x6f82e6c4747c616d2e57D306f44EFCc206D49858",
+            "symbol": "ELI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6f82e6c4747c616d2e57D306f44EFCc206D49858.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
