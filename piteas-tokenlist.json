@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-02-05T02:35:19.436Z",
+    "timestamp": "2025-02-13T02:35:19.436Z",
     "version": {
         "major": 1,
-        "minor": 3,
-        "patch": 3
+        "minor": 4,
+        "patch": 2
     },
     "tokens": [
         {
@@ -2878,6 +2878,158 @@
             "symbol": "HWIF",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1e81026D34F2202E63D8Acf1a295de35D4124c69.png"
+        },
+        {
+            "chainId": 369,
+            "name": "ApeCoin on Pulsechain",
+            "address": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+            "symbol": "pAPE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4d224452801ACEd8B2F0aebE155379bb5D594381.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Richard Fartcoin",
+            "address": "0x6f40B31737c2B9010Ca86C8a04683Dd64527E205",
+            "symbol": "Fartcoin",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6f40B31737c2B9010Ca86C8a04683Dd64527E205.png"
+        },
+        {
+            "chainId": 369,
+            "name": "DOUBT",
+            "address": "0x6ba0876e30CcE2A9AfC4B82D8BD8A8349DF4Ca96",
+            "symbol": "DOUBT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6ba0876e30CcE2A9AfC4B82D8BD8A8349DF4Ca96.png"
+        },
+        {
+            "chainId": 369,
+            "name": "ETH TAKEOVER",
+            "address": "0x018eDECc388650C1Af0441907e49fE2c75cdbABD",
+            "symbol": "CTO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x018eDECc388650C1Af0441907e49fE2c75cdbABD.png"
+        },
+        {
+            "chainId": 369,
+            "name": "JAMES",
+            "address": "0x05076bf151AC83680151111027CBfb08cA057a7A",
+            "symbol": "JAMES",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x05076bf151AC83680151111027CBfb08cA057a7A.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Dark Rock Insiders Fund Trust",
+            "address": "0xA9e71e1AcF993F001f734cE849e8E2fec4B6A4Ea",
+            "symbol": "DRIFT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA9e71e1AcF993F001f734cE849e8E2fec4B6A4Ea.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Hearts Law",
+            "address": "0x9a30bDd18c2c95b3F3Dcb098446DC5Aa2b0b0210",
+            "symbol": "Hearts",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9a30bDd18c2c95b3F3Dcb098446DC5Aa2b0b0210.png"
+        },
+        {
+            "chainId": 369,
+            "name": "TIRES",
+            "address": "0x1039ED7f66Ca06346ecc807985b7262EeEad8e4f",
+            "symbol": "TIRES",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1039ED7f66Ca06346ecc807985b7262EeEad8e4f.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Louis Vuitton Airplane",
+            "address": "0x7d1E869ea81aF84B0C0be9D19cdd1B64800537F3",
+            "symbol": "PLANE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7d1E869ea81aF84B0C0be9D19cdd1B64800537F3.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Unicorn Fart Balls",
+            "address": "0x68638F5cbd3b35615C7858d7b2F839600698036E",
+            "symbol": "UFB",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x68638F5cbd3b35615C7858d7b2F839600698036E.png"
+        },
+        {
+            "chainId": 369,
+            "name": "dogwifhat from pump.tires",
+            "address": "0xcbc9C2666193733BF99ECCAD74b4435eb0DF179A",
+            "symbol": "WIF",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xcbc9C2666193733BF99ECCAD74b4435eb0DF179A.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Golden Bear",
+            "address": "0x24e130bb9c0436FBB840dbE391861bEA45B96991",
+            "symbol": "TEDI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x24e130bb9c0436FBB840dbE391861bEA45B96991.png"
+        },
+        {
+            "chainId": 369,
+            "name": "MAGIC CARPET",
+            "address": "0x6794E23f0C09e4e54848eDd64502806876d42b0F",
+            "symbol": "RIDE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6794E23f0C09e4e54848eDd64502806876d42b0F.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Michi",
+            "address": "0x4c27CC93603bC1d0913C6aA0100Da49A9D982c38",
+            "symbol": "Michi",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4c27CC93603bC1d0913C6aA0100Da49A9D982c38.png"
+        },
+        {
+            "chainId": 369,
+            "name": "HEART",
+            "address": "0x5CB6D3aF04D6171F83EA9B51F2F22fA989f9509e",
+            "symbol": "HEART",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x5CB6D3aF04D6171F83EA9B51F2F22fA989f9509e.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Kingdom of Meme Tokens",
+            "address": "0x471250E27388CA90018a9042DC81310F8AAB8D2D",
+            "symbol": "KOMT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x471250E27388CA90018a9042DC81310F8AAB8D2D.png"
+        },
+        {
+            "chainId": 369,
+            "name": "The One Meme",
+            "address": "0x2012aC87AE6222E5B496d1ba873c6fd79E9c0b7A",
+            "symbol": "RING",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2012aC87AE6222E5B496d1ba873c6fd79E9c0b7A.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Eli Porter",
+            "address": "0x6f82e6c4747c616d2e57D306f44EFCc206D49858",
+            "symbol": "ELI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6f82e6c4747c616d2e57D306f44EFCc206D49858.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Lazy",
+            "address": "0x97df6a05AEaaeF7b461ef6d08aCB058f02868c17",
+            "symbol": "LZY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x97df6a05AEaaeF7b461ef6d08aCB058f02868c17.png"
         }
         {
             "chainId": 369,
