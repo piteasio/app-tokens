@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-02-12T02:35:19.436Z",
+    "timestamp": "2025-02-13T02:35:19.436Z",
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 1
+        "patch": 2
     },
     "tokens": [
         {
@@ -3022,6 +3022,14 @@
             "symbol": "ELI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6f82e6c4747c616d2e57D306f44EFCc206D49858.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Lazy",
+            "address": "0x97df6a05AEaaeF7b461ef6d08aCB058f02868c17",
+            "symbol": "LZY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x97df6a05AEaaeF7b461ef6d08aCB058f02868c17.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
