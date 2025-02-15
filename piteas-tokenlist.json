@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-02-14T02:35:19.436Z",
+    "timestamp": "2025-02-15T02:35:19.436Z",
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 3
+        "patch": 4
     },
     "tokens": [
         {
@@ -3038,6 +3038,22 @@
             "symbol": "LZY",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x97df6a05AEaaeF7b461ef6d08aCB058f02868c17.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PUPPERS",
+            "address": "0x27246B3e508c696Af6C6F3D83286aC6D8242d3bA",
+            "symbol": "PUPPERS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x27246B3e508c696Af6C6F3D83286aC6D8242d3bA.png"
+        },
+        {
+            "chainId": 369,
+            "name": "NPC",
+            "address": "0xa6C897bc61270073f998FbC8d2425f01D3aDEb65",
+            "symbol": "NPC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xa6C897bc61270073f998FbC8d2425f01D3aDEb65.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
