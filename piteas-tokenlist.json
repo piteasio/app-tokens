@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-02-15T02:35:19.436Z",
+    "timestamp": "2025-02-15T02:38:19.436Z",
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 4
+        "patch": 5
     },
     "tokens": [
         {
@@ -3054,6 +3054,14 @@
             "symbol": "NPC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xa6C897bc61270073f998FbC8d2425f01D3aDEb65.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PUPPERS",
+            "address": "0xbd59a88754902B80922dFEBc15c7ea94a8C21ce2",
+            "symbol": "PUPPERS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xbd59a88754902B80922dFEBc15c7ea94a8C21ce2.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
