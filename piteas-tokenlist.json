@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-02-17T02:38:19.436Z",
+    "timestamp": "2025-02-18T02:38:19.436Z",
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 6
+        "patch": 7
     },
     "tokens": [
         {
@@ -3014,6 +3014,54 @@
             "symbol": "PUPPERS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xbd59a88754902B80922dFEBc15c7ea94a8C21ce2.png"
+        },
+        {
+            "chainId": 369,
+            "name": "DumbMoney",
+            "address": "0xe65112d2f120c8cb23ADC80D8E8122c0c8b7fF8D",
+            "symbol": "DUMB",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe65112d2f120c8cb23ADC80D8E8122c0c8b7fF8D.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Dumb Amplifier",
+            "address": "0x8357aA9070dc7d8d154Da74561CEc58cA30c41C3",
+            "symbol": "DAMP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8357aA9070dc7d8d154Da74561CEc58cA30c41C3.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Smoki",
+            "address": "0x708DACAb783DeCbB4994A9Db612Da8C2100Ab186",
+            "symbol": "SMOKI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x708DACAb783DeCbB4994A9Db612Da8C2100Ab186.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Audio Ecstasy Inc",
+            "address": "0x3Fa77830bFaF10e27bd1211Ff54E2D0Fd4869cA4",
+            "symbol": "XTC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x3Fa77830bFaF10e27bd1211Ff54E2D0Fd4869cA4.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Richards first Car",
+            "address": "0xeF7A713C3F10c12D8b12B7CBB78b79b92303Ccd4",
+            "symbol": "BONNIE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xeF7A713C3F10c12D8b12B7CBB78b79b92303Ccd4.png"
+        },
+        {
+            "chainId": 369,
+            "name": "REMEMBER",
+            "address": "0xC506af3eA272dAFBE1A8E39d9C3446E03637bB12",
+            "symbol": "REMEMBER",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xC506af3eA272dAFBE1A8E39d9C3446E03637bB12.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
