@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-02-18T02:38:19.436Z",
+    "timestamp": "2025-02-20T02:38:19.436Z",
     "version": {
         "major": 1,
-        "minor": 4,
-        "patch": 7
+        "minor": 5,
+        "patch": 0
     },
     "tokens": [
         {
@@ -3062,6 +3062,22 @@
             "symbol": "REMEMBER",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xC506af3eA272dAFBE1A8E39d9C3446E03637bB12.png"
+        },
+        {
+            "chainId": 369,
+            "name": "TrumpOfficial",
+            "address": "0xf2DD4FE4bE7B8C0655d0962A4285150Ff09769EA",
+            "symbol": "Trump",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xf2DD4FE4bE7B8C0655d0962A4285150Ff09769EA.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Power to Profit",
+            "address": "0xA831a35f48664fE357c584540fb79e172157CBF3",
+            "symbol": "POWER",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA831a35f48664fE357c584540fb79e172157CBF3.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
