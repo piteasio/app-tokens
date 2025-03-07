@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-02-20T02:38:19.436Z",
+    "timestamp": "2025-03-207T02:38:19.436Z",
     "version": {
         "major": 1,
         "minor": 5,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -3078,6 +3078,14 @@
             "symbol": "POWER",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA831a35f48664fE357c584540fb79e172157CBF3.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Fetch",
+            "address": "0xe39B70c9978E4232140d148Ad3C0b08f4A42220D",
+            "symbol": "FETCH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe39B70c9978E4232140d148Ad3C0b08f4A42220D.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
