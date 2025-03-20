@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-03-11T02:38:19.436Z",
+    "timestamp": "2025-03-20T02:38:19.436Z",
     "version": {
         "major": 1,
         "minor": 6,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -3086,6 +3086,30 @@
             "symbol": "FETCH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe39B70c9978E4232140d148Ad3C0b08f4A42220D.png"
+        },
+        {
+            "chainId": 369,
+            "name": "INC Dollar",
+            "address": "0x144Cd22AaA2a80FEd0Bb8B1DeADDc51A53Df1d50",
+            "symbol": "INCD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x144Cd22AaA2a80FEd0Bb8B1DeADDc51A53Df1d50.png"
+        },
+        {
+            "chainId": 369,
+            "name": "INC Printer",
+            "address": "0x6C203A555824ec90a215f37916cf8Db58EBe2fA3",
+            "symbol": "PRINT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6C203A555824ec90a215f37916cf8Db58EBe2fA3.png"
+        },
+        {
+            "chainId": 369,
+            "name": "GAS Money",
+            "address": "0x042b48a98B37042D58Bc8defEEB7cA4eC76E6106",
+            "symbol": "GAS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x042b48a98B37042D58Bc8defEEB7cA4eC76E6106.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
