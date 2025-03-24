@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-03-20T02:38:19.436Z",
+    "timestamp": "2025-03-24T02:38:19.436Z",
     "version": {
         "major": 1,
         "minor": 6,
-        "patch": 1
+        "patch": 2
     },
     "tokens": [
         {
@@ -3110,6 +3110,22 @@
             "symbol": "GAS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x042b48a98B37042D58Bc8defEEB7cA4eC76E6106.png"
+        },
+        {
+            "chainId": 369,
+            "name": "pDONG",
+            "address": "0x47C7Ae1514Ee90c43e2bD50CAa8DA63285ae146d",
+            "symbol": "pDONG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x47C7Ae1514Ee90c43e2bD50CAa8DA63285ae146d.png"
+        },
+        {
+            "chainId": 369,
+            "name": "pdied",
+            "address": "0xa8f501432348c5DD042347e22FBb0F0EB1528Cab",
+            "symbol": "pdied",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xa8f501432348c5DD042347e22FBb0F0EB1528Cab.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
