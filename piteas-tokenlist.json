@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-03-24T02:44:19.436Z",
+    "timestamp": "2025-03-25T02:44:19.436Z",
     "version": {
         "major": 1,
         "minor": 6,
-        "patch": 3
+        "patch": 4
     },
     "tokens": [
         {
@@ -3134,6 +3134,38 @@
             "symbol": "STM",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x62bd78d40A9FCb4D29F6fF183CFbcaf2f5ca9B52.png"
+        },
+        {
+            "chainId": 369,
+            "name": "QUEEN POOIE",
+            "address": "0xd5cFb4Cf3f49EfAf435Cd16105Cf6a40Ef921957",
+            "symbol": "QUEEN2",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xd5cFb4Cf3f49EfAf435Cd16105Cf6a40Ef921957.png"
+        },
+        {
+            "chainId": 369,
+            "name": "XGAME.IO",
+            "address": "0x4Eb7C1c05087f98Ae617d006F48914eE73fF8D2A",
+            "symbol": "XGAME",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4Eb7C1c05087f98Ae617d006F48914eE73fF8D2A.png"
+        },
+        {
+            "chainId": 369,
+            "name": "SolidX from pump.tires",
+            "address": "0x988aCabE384d80454995D6c9e105a4f67eA9947C",
+            "symbol": "SOLIDX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x988aCabE384d80454995D6c9e105a4f67eA9947C.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Firewhale",
+            "address": "0x03b4652C8565BC8c257Fbd9fA935AAE41160fc4C",
+            "symbol": "FIREW",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x03b4652C8565BC8c257Fbd9fA935AAE41160fc4C.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
