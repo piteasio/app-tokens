@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-03-25T02:44:19.436Z",
+    "timestamp": "2025-04-02T02:44:19.436Z",
     "version": {
         "major": 1,
         "minor": 6,
-        "patch": 4
+        "patch": 5
     },
     "tokens": [
         {
@@ -3166,6 +3166,22 @@
             "symbol": "FIREW",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x03b4652C8565BC8c257Fbd9fA935AAE41160fc4C.png"
+        },
+        {
+            "chainId": 369,
+            "name": "EMIT",
+            "address": "0x32fB5663619A657839A80133994E45c5e5cDf427",
+            "symbol": "EMIT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x32fB5663619A657839A80133994E45c5e5cDf427.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Teddy Bear HardCore",
+            "address": "0x4620f185423AdC4702c7d9a22ecAAfA2dC8a5729",
+            "symbol": "TBHC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4620f185423AdC4702c7d9a22ecAAfA2dC8a5729.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
