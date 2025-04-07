@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-04-02T02:44:19.436Z",
+    "timestamp": "2025-04-07T02:44:19.436Z",
     "version": {
         "major": 1,
         "minor": 6,
-        "patch": 5
+        "patch": 6
     },
     "tokens": [
         {
@@ -3182,6 +3182,22 @@
             "symbol": "TBHC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4620f185423AdC4702c7d9a22ecAAfA2dC8a5729.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Good DAI",
+            "address": "0x75C84Ca7eC3F14e4f53aCAbf6eDD628cd1B22bC1",
+            "symbol": "PDAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x75C84Ca7eC3F14e4f53aCAbf6eDD628cd1B22bC1.png"
+        },
+        {
+            "chainId": 369,
+            "name": "BEAST",
+            "address": "0xdc60f0EE40bEd3078614bE202555d2f07d38166e",
+            "symbol": "BEAST",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xdc60f0EE40bEd3078614bE202555d2f07d38166e.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
