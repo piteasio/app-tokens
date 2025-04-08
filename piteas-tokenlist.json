@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-04-07T02:44:19.436Z",
+    "timestamp": "2025-04-08T02:44:19.436Z",
     "version": {
         "major": 1,
-        "minor": 6,
-        "patch": 6
+        "minor": 7,
+        "patch": 0
     },
     "tokens": [
         {
@@ -3198,6 +3198,14 @@
             "symbol": "BEAST",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xdc60f0EE40bEd3078614bE202555d2f07d38166e.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Teddy Bear",
+            "address": "0x91Ab48C4988aE5bbEB02aCB8b5cdBCd8225D7974",
+            "symbol": "TEDDY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x91Ab48C4988aE5bbEB02aCB8b5cdBCd8225D7974.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
