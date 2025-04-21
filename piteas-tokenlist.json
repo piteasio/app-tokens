@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-04-08T02:44:19.436Z",
+    "timestamp": "2025-04-21T02:44:19.436Z",
     "version": {
         "major": 1,
         "minor": 7,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -3206,6 +3206,46 @@
             "symbol": "TEDDY",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x91Ab48C4988aE5bbEB02aCB8b5cdBCd8225D7974.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Joachim-Silver",
+            "address": "0xFb7B367b80F80421d9d023D01cE9FB846A2aDa88",
+            "symbol": "Thaler",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xFb7B367b80F80421d9d023D01cE9FB846A2aDa88.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Free-Gold",
+            "address": "0xc57169b5e803F83c28970f0d8a73e2b35d56CE32",
+            "symbol": "Franc",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xc57169b5e803F83c28970f0d8a73e2b35d56CE32.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Mona-Lisa",
+            "address": "0x03dBe411E19436FE79Ce79DFf09B3E5f7F64644f",
+            "symbol": "Moony",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x03dBe411E19436FE79Ce79DFf09B3E5f7F64644f.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Teddy Claire",
+            "address": "0xFd96af96B6cFb5F35Fb227b0fE7215903FdAFC68",
+            "symbol": "Claire",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xFd96af96B6cFb5F35Fb227b0fE7215903FdAFC68.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Tether Gold from Ethereum",
+            "address": "0xD31d5463991f61B6e53b9b5ca574fA731F94991e",
+            "symbol": "XAUt",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD31d5463991f61B6e53b9b5ca574fA731F94991e.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
