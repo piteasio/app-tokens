@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-04-21T02:44:19.436Z",
+    "timestamp": "2025-04-26T02:44:19.436Z",
     "version": {
         "major": 1,
         "minor": 7,
-        "patch": 1
+        "patch": 2
     },
     "tokens": [
         {
@@ -3246,6 +3246,22 @@
             "symbol": "XAUt",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD31d5463991f61B6e53b9b5ca574fA731F94991e.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Pump Tires Mascot",
+            "address": "0x208614c2db3e24ee2aF701538017c6a34030B1E3",
+            "symbol": "PUMPY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x208614c2db3e24ee2aF701538017c6a34030B1E3.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Piggy Bank",
+            "address": "0xFAaC6a85C3e123AB2CF7669B1024f146cFef0b38",
+            "symbol": "OINK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xFAaC6a85C3e123AB2CF7669B1024f146cFef0b38.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
