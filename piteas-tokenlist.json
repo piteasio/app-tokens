@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-04-28T02:44:19.436Z",
+    "timestamp": "2025-04-28T02:45:19.436Z",
     "version": {
         "major": 2,
         "minor": 0,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -1601,27 +1601,11 @@
         },
         {
             "chainId": 369,
-            "name": "SUN Minimeal SOIL (new)",
+            "name": "SUN Minimeal SOIL",
             "address": "0xbd63FA573A120013804e51B46C56F9b3e490f53C",
             "symbol": "SOIL",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xbd63FA573A120013804e51B46C56F9b3e490f53C.png"
-        },
-        {
-            "chainId": 369,
-            "name": "SUN Minimeal (old)",
-            "address": "0x22b2f187E6EE1f9Bc8f7Fc38bB0D9357462800e4",
-            "symbol": "SOIL",
-            "decimals": 2,
-            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x22b2f187E6EE1f9Bc8f7Fc38bB0D9357462800e4.png"
-        },
-        {
-            "chainId": 369,
-            "name": "SUN Minimeal STABLE",
-            "address": "0xAE1D4cDe040524321C87b923636E5Ad564147225",
-            "symbol": "STBL",
-            "decimals": 2,
-            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xAE1D4cDe040524321C87b923636E5Ad564147225.png"
         },
         {
             "chainId": 369,
