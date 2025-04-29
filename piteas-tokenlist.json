@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-04-28T02:45:19.436Z",
+    "timestamp": "2025-04-29T02:45:19.436Z",
     "version": {
         "major": 2,
         "minor": 0,
-        "patch": 1
+        "patch": 2
     },
     "tokens": [
         {
@@ -3254,6 +3254,22 @@
             "symbol": "OINK",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xFAaC6a85C3e123AB2CF7669B1024f146cFef0b38.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Black-Hole",
+            "address": "0xDC6D73BC3fF1046844386FE0301A8C6355c3E7d3",
+            "symbol": "Zero",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xDC6D73BC3fF1046844386FE0301A8C6355c3E7d3.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Chinta-Mani",
+            "address": "0xBBC1F6cb4Ed8e1e32CeD17B2809739B093d4EFec",
+            "symbol": "Emerald",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xBBC1F6cb4Ed8e1e32CeD17B2809739B093d4EFec.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
