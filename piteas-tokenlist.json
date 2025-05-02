@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-04-29T02:45:19.436Z",
+    "timestamp": "2025-05-02T02:45:19.436Z",
     "version": {
         "major": 2,
-        "minor": 0,
-        "patch": 2
+        "minor": 1,
+        "patch": 0
     },
     "tokens": [
         {
@@ -3270,6 +3270,22 @@
             "symbol": "Emerald",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xBBC1F6cb4Ed8e1e32CeD17B2809739B093d4EFec.png"
+        },
+        {
+            "chainId": 369,
+            "name": "TOP HAT",
+            "address": "0xc2472877F596D5052883B93777325dD7F7d11c96",
+            "symbol": "TOPHAT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xc2472877F596D5052883B93777325dD7F7d11c96.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Sparta",
+            "address": "0x52347C33Cf6Ca8D2cfb864AEc5aA0184C8fd4c9b",
+            "symbol": "SPARTA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x52347C33Cf6Ca8D2cfb864AEc5aA0184C8fd4c9b.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
