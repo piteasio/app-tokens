@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-05-02T02:45:19.436Z",
+    "timestamp": "2025-05-08T02:45:19.436Z",
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -3286,6 +3286,22 @@
             "symbol": "SPARTA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x52347C33Cf6Ca8D2cfb864AEc5aA0184C8fd4c9b.png"
+        },
+        {
+            "chainId": 369,
+            "name": "MISSOR",
+            "address": "0x063E79CF6A555dac9033EAa3c61A8f02F1020759",
+            "symbol": "MISSOR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x063E79CF6A555dac9033EAa3c61A8f02F1020759.png"
+        },
+        {
+            "chainId": 369,
+            "name": "urmom",
+            "address": "0xe43b3cEE3554e120213b8B69Caf690B6C04A7ec0",
+            "symbol": "urmom",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe43b3cEE3554e120213b8B69Caf690B6C04A7ec0.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
