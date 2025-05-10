@@ -3302,7 +3302,15 @@
             "symbol": "urmom",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe43b3cEE3554e120213b8B69Caf690B6C04A7ec0.png"
-        }
+        },
+        {
+            "chainId": 369,
+            "name": "USD Gold6T",
+            "address": "0x1e5E67983BfCc37c3c4a1A25F15E57170762398c",
+            "symbol": "USDG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1e5E67983BfCc37c3c4a1A25F15E57170762398c.png"
+        },
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
