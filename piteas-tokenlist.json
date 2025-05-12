@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-05-08T02:45:19.436Z",
+    "timestamp": "2025-05-12T02:45:19.436Z",
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 1
+        "patch": 2
     },
     "tokens": [
         {
@@ -3302,6 +3302,14 @@
             "symbol": "urmom",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe43b3cEE3554e120213b8B69Caf690B6C04A7ec0.png"
+        },
+        {
+            "chainId": 369,
+            "name": "GoPulse",
+            "address": "0x000000000002625d361571e3771d402e10cf7ddb",
+            "symbol": "GO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x000000000002625d361571e3771d402e10cf7ddb.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
