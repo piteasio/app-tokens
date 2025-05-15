@@ -4,7 +4,7 @@
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 2
+        "patch": 3
     },
     "tokens": [
         {
@@ -3310,6 +3310,14 @@
             "symbol": "GO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x000000000002625d361571e3771d402e10cf7ddb.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Pulse Golden Ticket",
+            "address": "0xA99DF47d9fA5dCbe69211787faE6780bC4172492",
+            "symbol": "GT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA99DF47d9fA5dCbe69211787faE6780bC4172492.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
