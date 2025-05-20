@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-05-12T02:45:19.436Z",
+    "timestamp": "2025-05-20T02:45:19.436Z",
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 3
+        "patch": 4
     },
     "tokens": [
         {
@@ -3318,6 +3318,14 @@
             "symbol": "GT",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA99DF47d9fA5dCbe69211787faE6780bC4172492.png"
+        },
+        {
+            "chainId": 369,
+            "name": "MoonX",
+            "address": "0x1C9c8528f2a1672e0E7eaDA21167a596D126B568",
+            "symbol": "MOONX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1C9c8528f2a1672e0E7eaDA21167a596D126B568.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
