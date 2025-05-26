@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-05-20T02:45:19.436Z",
+    "timestamp": "2025-05-26T02:45:19.436Z",
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 4
+        "patch": 5
     },
     "tokens": [
         {
@@ -3326,6 +3326,38 @@
             "symbol": "MOONX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1C9c8528f2a1672e0E7eaDA21167a596D126B568.png"
+        },
+        {
+            "chainId": 369,
+            "name": "RPE",
+            "address": "0x664bAaF75570E167D66Fc0056C2d527a1d6809Cd",
+            "symbol": "RPE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x664bAaF75570E167D66Fc0056C2d527a1d6809Cd.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Quattro Ricos Base",
+            "address": "0x01a77602eCAF9A68372CAC8d4fB247864FAAD154",
+            "symbol": "T4MC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x01a77602eCAF9A68372CAC8d4fB247864FAAD154.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Quattro Ricos Son",
+            "address": "0xab24834379a816Bde64a2A54df24D73aC0630dD5",
+            "symbol": "T4MC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xab24834379a816Bde64a2A54df24D73aC0630dD5.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Reserve Teh",
+            "address": "0x1D177CB9EfEEa49A8B97ab1C72785a3A37ABc9Ff",
+            "symbol": "FED",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1D177CB9EfEEa49A8B97ab1C72785a3A37ABc9Ff.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
