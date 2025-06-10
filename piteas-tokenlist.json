@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-05-27T02:47:19.436Z",
+    "timestamp": "2025-06-10T02:47:19.436Z",
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 7
+        "patch": 8
     },
     "tokens": [
         {
@@ -3366,6 +3366,30 @@
             "symbol": "OGBNK",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8B42Daf61014F2446c319D22e4deC422B47563F5.png"
+        },
+        {
+            "chainId": 369,
+            "name": "YEET",
+            "address": "0x6Afd30110e9fF1b29dB3c4DAf31EF0045a6552cB",
+            "symbol": "YEET",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6Afd30110e9fF1b29dB3c4DAf31EF0045a6552cB.png"
+        },
+        {
+            "chainId": 369,
+            "name": "The Fitzgerald Company",
+            "address": "0x99F58b6979756fc129a33797eF796a6178D8A5De",
+            "symbol": "TFC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x99F58b6979756fc129a33797eF796a6178D8A5De.png"
+        },
+        {
+            "chainId": 369,
+            "name": "SURF",
+            "address": "0x12828D4cdA7CBfAcd7586E54708A9b9674641bEd",
+            "symbol": "SURF",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x12828D4cdA7CBfAcd7586E54708A9b9674641bEd.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
