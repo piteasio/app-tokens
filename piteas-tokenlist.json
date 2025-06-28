@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-06-10T02:47:19.436Z",
+    "timestamp": "2025-06-28T02:47:19.436Z",
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 8
+        "patch": 9
     },
     "tokens": [
         {
@@ -3390,6 +3390,14 @@
             "symbol": "SURF",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x12828D4cdA7CBfAcd7586E54708A9b9674641bEd.png"
+        },
+        {
+            "chainId": 369,
+            "name": "stCombo",
+            "address": "0x2806F9d083BABbDbB9a92b0722F1b5D4E6FEF6cC",
+            "symbol": "ST3",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2806F9d083BABbDbB9a92b0722F1b5D4E6FEF6cC.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
