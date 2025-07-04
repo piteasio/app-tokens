@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-06-28T02:47:19.436Z",
+    "timestamp": "2025-07-04T02:47:19.436Z",
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 9
+        "patch": 10
     },
     "tokens": [
         {
@@ -3398,6 +3398,14 @@
             "symbol": "ST3",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2806F9d083BABbDbB9a92b0722F1b5D4E6FEF6cC.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Compound Dai on Pulsechain",
+            "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
+            "symbol": "cDAI",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
