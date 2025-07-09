@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-07-04T02:47:19.436Z",
+    "timestamp": "2025-07-09T02:47:19.436Z",
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 10
+        "patch": 11
     },
     "tokens": [
         {
@@ -2684,7 +2684,7 @@
             "name": "Sommi Fan Token",
             "address": "0x6A46d56F9Dd963cEAc7f60aD148d49219CC3b79f",
             "symbol": "FRIENDSHIP",
-            "decimals": 18,
+            "decimals": 9,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6A46d56F9Dd963cEAc7f60aD148d49219CC3b79f.png"
         },
         {
