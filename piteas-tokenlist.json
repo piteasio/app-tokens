@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-07-09T02:47:19.436Z",
+    "timestamp": "2025-07-18T02:47:19.436Z",
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 11
+        "patch": 12
     },
     "tokens": [
         {
@@ -3406,6 +3406,14 @@
             "symbol": "cDAI",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Pax Dollar on Pulsechain",
+            "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+            "symbol": "USDP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8E870D67F660D95d5be530380D0eC0bd388289E1.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
