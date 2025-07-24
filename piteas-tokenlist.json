@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-07-21T02:47:19.436Z",
+    "timestamp": "2025-07-24T02:47:19.436Z",
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 13
+        "patch": 14
     },
     "tokens": [
         {
@@ -622,6 +622,14 @@
             "symbol": "CST",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x600136dA8cc6D1Ea07449514604dc4ab7098dB82.png"
+        },
+        {
+            "chainId": 369,
+            "name": "TIDE Governance Token",
+            "address": "0xdedBCc8D9458B2556375680FbA297C6aCa6c7DCf",
+            "symbol": "TIDE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xdedBCc8D9458B2556375680FbA297C6aCa6c7DCf.png"
         },
         {
             "chainId": 369,
