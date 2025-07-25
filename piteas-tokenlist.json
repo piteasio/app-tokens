@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-07-24T02:47:19.436Z",
+    "timestamp": "2025-07-25T02:47:19.436Z",
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 14
+        "patch": 15
     },
     "tokens": [
         {
@@ -3430,6 +3430,14 @@
             "symbol": "DRDOGE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x9d95DFBB1aBb8F57abc20FDE4F786BB1Db52ad71.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PulseLand",
+            "address": "0xEE126a8903b1318f2a2Eb739Fd80481da6E028D3",
+            "symbol": "PLAND",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xEE126a8903b1318f2a2Eb739Fd80481da6E028D3.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
