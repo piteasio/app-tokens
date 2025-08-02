@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-07-25T02:47:19.436Z",
+    "timestamp": "2025-08-02T02:47:19.436Z",
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 15
+        "patch": 16
     },
     "tokens": [
         {
@@ -3438,7 +3438,16 @@
             "symbol": "PLAND",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xEE126a8903b1318f2a2Eb739Fd80481da6E028D3.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PulseChain Peacock",
+            "address": "0xc10A4Ed9b4042222d69ff0B374eddd47ed90fC1F",
+            "symbol": "PCOCK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xc10A4Ed9b4042222d69ff0B374eddd47ed90fC1F.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
