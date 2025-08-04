@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-08-03T02:47:19.436Z",
+    "timestamp": "2025-08-04T02:47:19.436Z",
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 17
+        "patch": 18
     },
     "tokens": [
         {
@@ -990,6 +990,14 @@
             "symbol": "COM",
             "decimals": 12,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x5A9780Bfe63f3ec57f01b087cD65BD656C9034A8.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Communis Volume",
+            "address": "0xe34Cab4Ccf271f4F149C4Cc43697C5C5810c835a",
+            "symbol": "COMV",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe34Cab4Ccf271f4F149C4Cc43697C5C5810c835a.png"
         },
         {
             "chainId": 369,
@@ -3490,5 +3498,6 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
