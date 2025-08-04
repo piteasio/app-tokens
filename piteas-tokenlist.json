@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-08-02T02:47:19.436Z",
+    "timestamp": "2025-08-03T02:47:19.436Z",
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 16
+        "patch": 17
     },
     "tokens": [
         {
@@ -3446,8 +3446,49 @@
             "symbol": "PCOCK",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xc10A4Ed9b4042222d69ff0B374eddd47ed90fC1F.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Liberty Swap Mascot",
+            "address": "0x0eB38452FdCCab988838d9BE74e0f00239A876E6",
+            "symbol": "INTERN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x0eB38452FdCCab988838d9BE74e0f00239A876E6.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Briah",
+            "address": "0xA80736067abDc215a3b6B66a57c6e608654d0C9a",
+            "symbol": "Briah",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA80736067abDc215a3b6B66a57c6e608654d0C9a.png"
+        },
+        {
+            "chainId": 369,
+            "name": "The CVRE Token",
+            "address": "0x483287DEd4F43552f201a103670853b5dc57D59d",
+            "symbol": "CVRE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x483287DEd4F43552f201a103670853b5dc57D59d.png"
+        },
+        {
+            "chainId": 369,
+            "name": "UnStable Dick Coin",
+            "address": "0x54b11a4f6536a4e843851bb54e942320a1e705be",
+            "symbol": "USDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x54b11a4f6536a4e843851bb54e942320a1e705be.png"
+        },
+        {
+            "chainId": 369,
+            "name": "UnStable Dick Coin",
+            "address": "0x54b11a4f6536a4e843851bb54e942320a1e705be",
+            "symbol": "USDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x54b11a4f6536a4e843851bb54e942320a1e705be.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
