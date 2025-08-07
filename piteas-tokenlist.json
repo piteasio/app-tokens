@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-08-05T02:47:19.436Z",
+    "timestamp": "2025-08-05T02:49:19.436Z",
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 19
+        "patch": 20
     },
     "tokens": [
         {
@@ -3489,14 +3489,6 @@
         },
         {
             "chainId": 369,
-            "name": "UnStable Dick Coin",
-            "address": "0x54b11a4f6536a4e843851bb54e942320a1e705be",
-            "symbol": "USDC",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x54b11a4f6536a4e843851bb54e942320a1e705be.png"
-        },
-        {
-            "chainId": 369,
             "name": "uPLS",
             "address": "0x7FB5120D2DB148e91f572d2f69bC04FE454Dbd9b",
             "symbol": "uPLS",
@@ -3506,6 +3498,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
