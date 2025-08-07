@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-08-05T02:49:19.436Z",
+    "timestamp": "2025-08-05T02:51:19.436Z",
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 20
+        "patch": 21
     },
     "tokens": [
         {
@@ -3494,10 +3494,19 @@
             "symbol": "uPLS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7FB5120D2DB148e91f572d2f69bC04FE454Dbd9b.png"
+        },
+        {
+            "chainId": 369,
+            "name": "FuckTheVC",
+            "address": "0xe4644C747dE89d363E38a32C19b9741417e79dBD",
+            "symbol": "FTVC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe4644C747dE89d363E38a32C19b9741417e79dBD.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
