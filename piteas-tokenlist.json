@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-08-05T02:51:19.436Z",
+    "timestamp": "2025-08-08T02:51:19.436Z",
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 21
+        "patch": 22
     },
     "tokens": [
         {
@@ -3502,10 +3502,35 @@
             "symbol": "FTVC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe4644C747dE89d363E38a32C19b9741417e79dBD.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PulseSend",
+            "address": "0xD42B6CfA7A62d54124C5d78dd631fd4606bb3825",
+            "symbol": "SEND",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD42B6CfA7A62d54124C5d78dd631fd4606bb3825.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Quattro Rico",
+            "address": "0xf4523Ec066F92d5A2A6410496B32884E37aB629f",
+            "symbol": "QR4",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xf4523Ec066F92d5A2A6410496B32884E37aB629f.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Just a pulse guy",
+            "address": "0x67922D590BA6C784f468B6B562d201113a8FbD2D",
+            "symbol": "PULSEGUY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x67922D590BA6C784f468B6B562d201113a8FbD2D.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
