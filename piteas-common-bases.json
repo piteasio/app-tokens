@@ -97,6 +97,10 @@
       "label": "AXIS"
     },
     {
+      "address": "0xCA35638A3fdDD02fEC597D8c1681198C06b23F58",
+      "label": "TIME"
+    },
+    {
       "address": "0xc10A4Ed9b4042222d69ff0B374eddd47ed90fC1F",
       "label": "PCOCK"
     },
@@ -107,5 +111,6 @@
   ]
 
 }
+
 
 
