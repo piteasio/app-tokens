@@ -3577,11 +3577,15 @@
             "0xeB6b7932Da20c6D7B3a899D5887d86dfB09A6408",
             "0x600136dA8cc6D1Ea07449514604dc4ab7098dB82",
             "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "0xd6c31bA0754C4383A41c0e9DF042C62b5e918f6d",
             "0xe33a5AE21F93aceC5CfC0b7b0FDBB65A0f0Be5cC",
+            "0x8Da17Db850315A34532108f0f5458fc0401525f6",
             "0x8BDB63033b02C15f113De51EA1C3a96Af9e8ecb5",
-            "0xc10A4Ed9b4042222d69ff0B374eddd47ed90fC1F"
+            "0xc10A4Ed9b4042222d69ff0B374eddd47ed90fC1F",
+            "0xA80736067abDc215a3b6B66a57c6e608654d0C9a"
         ]
     },
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
