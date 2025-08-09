@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-08-09T02:51:19.436Z",
+    "timestamp": "2025-08-09T03:51:19.436Z",
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 23
+        "patch": 24
     },
     "tokens": [
         {
@@ -3550,10 +3550,19 @@
             "symbol": "Amaruca",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xacd0108FA393982d9098Bb5e2C723EaF327994e0.png"
+        },
+        {
+            "chainId": 369,
+            "name": "pFLANNY",
+            "address": "0xBC1D0EaC2acEfB05A947c4900635701527F2B70a",
+            "symbol": "PFLAN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xBC1D0EaC2acEfB05A947c4900635701527F2B70a.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
