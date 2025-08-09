@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-08-08T02:51:19.436Z",
+    "timestamp": "2025-08-09T02:51:19.436Z",
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 22
+        "patch": 23
     },
     "tokens": [
         {
@@ -3526,6 +3526,30 @@
             "symbol": "PULSEGUY",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x67922D590BA6C784f468B6B562d201113a8FbD2D.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Napoleon Bonaparte",
+            "address": "0xB4036a33009165bc741875cFb59ca73eBfB698F4",
+            "symbol": "SuperMoon",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xB4036a33009165bc741875cFb59ca73eBfB698F4.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Shiba-Floki",
+            "address": "0x7408930DB7a6A4a66effa858D49784f94Fb82cF7",
+            "symbol": "Maitreya",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7408930DB7a6A4a66effa858D49784f94Fb82cF7.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Quetzal Coatl",
+            "address": "0xacd0108FA393982d9098Bb5e2C723EaF327994e0",
+            "symbol": "Amaruca",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xacd0108FA393982d9098Bb5e2C723EaF327994e0.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
