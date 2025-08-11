@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-08-09T04:53:19.436Z",
+    "timestamp": "2025-08-11T01:12:19.436Z",
     "version": {
         "major": 2,
         "minor": 2,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -3558,8 +3558,41 @@
             "symbol": "PFLAN",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xBC1D0EaC2acEfB05A947c4900635701527F2B70a.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Ibiza Crypto Bosses",
+            "address": "0xA7704061372a523912B743139BcF447c23dB5e5E",
+            "symbol": "pBOSS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA7704061372a523912B743139BcF447c23dB5e5E.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Giga Cock",
+            "address": "0x14aED785b3F951Eb5aC98250E8f4f530A2F83177",
+            "symbol": "GIGACOCK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x14aED785b3F951Eb5aC98250E8f4f530A2F83177.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Pentagon-Electron",
+            "address": "0xE538f4D6E38bABF47e47513094483aFc4aA42E03",
+            "symbol": "Magdalene",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xE538f4D6E38bABF47e47513094483aFc4aA42E03.png"
+        },
+        {
+            "chainId": 369,
+            "name": "CHOMP",
+            "address": "0x7a38DfA4249B5e80cf49602E50947A47bc5edC29",
+            "symbol": "CHOMP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7a38DfA4249B5e80cf49602E50947A47bc5edC29.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
