@@ -1,10 +1,10 @@
 {
   "name": "Piteas Common Tokens",
-  "timestamp": "2025-08-09T05:13:19.436Z",
+  "timestamp": "2025-08-11T01:13:19.436Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "list": [
     "NATIVE",
@@ -97,6 +97,10 @@
       "label": "AXIS"
     },
     {
+      "address": "0x0567CA0dE35606E9C260CC2358404B11DE21DB44",
+      "label": "HELGO"
+    },
+    {
       "address": "0xCA35638A3fdDD02fEC597D8c1681198C06b23F58",
       "label": "TIME"
     },
@@ -111,6 +115,7 @@
   ]
 
 }
+
 
 
 
