@@ -1,10 +1,10 @@
 {
   "name": "Piteas Common Tokens",
-  "timestamp": "2025-08-11T01:13:19.436Z",
+  "timestamp": "2025-08-11T02:13:19.436Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "list": [
     "NATIVE",
@@ -73,6 +73,10 @@
       "label": "pWBTC"
     },
     {
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "label": "pUSDT"
+    },
+    {
       "address": "0xd6c31bA0754C4383A41c0e9DF042C62b5e918f6d",
       "label": "BEAR"
     },
@@ -97,8 +101,16 @@
       "label": "AXIS"
     },
     {
+      "address": "0x52347C33Cf6Ca8D2cfb864AEc5aA0184C8fd4c9b",
+      "label": "SPARTA"
+    },
+    {
       "address": "0x0567CA0dE35606E9C260CC2358404B11DE21DB44",
       "label": "HELGO"
+    },
+    {
+      "address": "0x9663c2d75ffd5F4017310405fCe61720aF45B829",
+      "label": "PHUX"
     },
     {
       "address": "0xCA35638A3fdDD02fEC597D8c1681198C06b23F58",
@@ -115,6 +127,7 @@
   ]
 
 }
+
 
 
 
