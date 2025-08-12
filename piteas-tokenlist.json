@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-08-11T01:12:19.436Z",
+    "timestamp": "2025-08-12T01:12:19.436Z",
     "version": {
         "major": 2,
         "minor": 2,
-        "patch": 1
+        "patch": 2
     },
     "tokens": [
         {
@@ -3590,9 +3590,18 @@
             "symbol": "CHOMP",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7a38DfA4249B5e80cf49602E50947A47bc5edC29.png"
+        },
+        {
+            "chainId": 369,
+            "name": "FingerMonkey",
+            "address": "0x60Dd286B42f704aB9B89bf34D53DF39Fb89150E6",
+            "symbol": "FM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x60Dd286B42f704aB9B89bf34D53DF39Fb89150E6.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
