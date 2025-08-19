@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-08-17T01:12:19.436Z",
+    "timestamp": "2025-08-18T01:12:19.436Z",
     "version": {
         "major": 2,
         "minor": 2,
-        "patch": 3
+        "patch": 4
     },
     "tokens": [
         {
@@ -3638,6 +3638,30 @@
             "symbol": "XAVIER",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x79e8AE8F8a19280354dbb9ee844ED80CE9a8219d.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Unity",
+            "address": "0xC70CF25DFCf5c5e9757002106C096ab72fab299E",
+            "symbol": "UNITY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xC70CF25DFCf5c5e9757002106C096ab72fab299E.png"
+        },
+        {
+            "chainId": 369,
+            "name": "DorraWifHat",
+            "address": "0x393937C233D42bB965373759EcFb6265B998F17e",
+            "symbol": "DORRA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x393937C233D42bB965373759EcFb6265B998F17e.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Bella the Dog",
+            "address": "0x895c1F5F4396a2a9D3DC778F63d9ddd58de8286f",
+            "symbol": "BELLA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x895c1F5F4396a2a9D3DC778F63d9ddd58de8286f.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
