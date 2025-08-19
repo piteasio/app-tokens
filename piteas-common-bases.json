@@ -1,10 +1,10 @@
 {
   "name": "Piteas Common Tokens",
-  "timestamp": "2025-08-11T02:13:19.436Z",
+  "timestamp": "2025-08-19T02:13:19.436Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "list": [
     "NATIVE",
@@ -121,12 +121,13 @@
       "label": "PCOCK"
     },
     {
-      "address": "0xA80736067abDc215a3b6B66a57c6e608654d0C9a",
-      "label": "BRIAH"
+      "address": "0xA804b9E522A2D1645a19227514CFe856Ad8C2fbC",
+      "label": "DEVC"
     }
   ]
 
 }
+
 
 
 
