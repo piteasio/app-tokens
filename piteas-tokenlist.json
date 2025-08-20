@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-08-18T01:12:19.436Z",
+    "timestamp": "2025-08-20T01:12:19.436Z",
     "version": {
         "major": 2,
         "minor": 2,
-        "patch": 4
+        "patch": 5
     },
     "tokens": [
         {
@@ -3662,10 +3662,43 @@
             "symbol": "BELLA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x895c1F5F4396a2a9D3DC778F63d9ddd58de8286f.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Think BIGGER",
+            "address": "0x190837EB34bFC75482947a6661B006C6cB16eE03",
+            "symbol": "THINK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x190837EB34bFC75482947a6661B006C6cB16eE03.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Weaponzied Autism",
+            "address": "0xfED434E658DD199a30815A3698881D8248f9D400",
+            "symbol": "AUTISM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xfED434E658DD199a30815A3698881D8248f9D400.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Flappy pCock",
+            "address": "0xCE80eDf0E34eAB96038909411B2abEbD0b1aBE1F",
+            "symbol": "FLAPPY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xCE80eDf0E34eAB96038909411B2abEbD0b1aBE1F.png"
+        },
+        {
+            "chainId": 369,
+            "name": "DREDD AI",
+            "address": "0x45462fC0b9a5eC6047484c2e572C595Df386fE61",
+            "symbol": "DREDD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x45462fC0b9a5eC6047484c2e572C595Df386fE61.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
