@@ -3695,9 +3695,19 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x45462fC0b9a5eC6047484c2e572C595Df386fE61.png"
         }
+        {
+  "chainId": 369,
+  "address": "0x473EB99177965277275B3e83bCE3d4884473878D",
+  "name": "Bank Note",
+  "symbol": "bNote",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/app-tokens/dev/token-logo/0x473EB99177965277275B3e83bCE3d4884473878D.png"
+}
+
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
