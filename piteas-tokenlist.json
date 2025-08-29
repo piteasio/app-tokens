@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-08-27T01:12:19.436Z",
+    "timestamp": "2025-08-29T01:12:19.436Z",
     "version": {
         "major": 2,
         "minor": 2,
-        "patch": 7
+        "patch": 8
     },
     "tokens": [
         {
@@ -3718,10 +3718,19 @@
             "symbol": "KISHKA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xdf2eb4E30d8ca5D76C2eA9f7E246CE0a415F1db9.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Swarm",
+            "address": "0x1E2b066d068eb087CCf85620B8306a283ea70816",
+            "symbol": "SWRM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1E2b066d068eb087CCf85620B8306a283ea70816.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
