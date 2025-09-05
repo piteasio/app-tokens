@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-08-29T01:12:19.436Z",
+    "timestamp": "2025-09-05T01:12:19.436Z",
     "version": {
         "major": 2,
         "minor": 2,
-        "patch": 8
+        "patch": 9
     },
     "tokens": [
         {
@@ -3726,10 +3726,19 @@
             "symbol": "SWRM",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1E2b066d068eb087CCf85620B8306a283ea70816.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Dev is Based",
+            "address": "0x6F21950028418e0dFA840255daA1812200f7AB07",
+            "symbol": "Based",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6F21950028418e0dFA840255daA1812200f7AB07.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
