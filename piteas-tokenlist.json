@@ -3738,14 +3738,15 @@
         {
             "chainId": 369,
             "name": "Honey Token",
-            "address": "0xD5612419333302C82Ff0458eF9035E469dCf6bE7",
+            "address": "0xDB42c5559249BffBC917f052a54fE92Eec427AFf",
             "symbol": "HONEY",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD5612419333302C82Ff0458eF9035E469dCf6bE7.png"
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xDB42c5559249BffBC917f052a54fE92Eec427AFf.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
