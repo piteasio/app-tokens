@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-09-05T01:12:19.436Z",
+    "timestamp": "2025-09-10T01:12:19.436Z",
     "version": {
         "major": 2,
         "minor": 2,
-        "patch": 9
+        "patch": 10
     },
     "tokens": [
         {
@@ -3734,10 +3734,19 @@
             "symbol": "Based",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6F21950028418e0dFA840255daA1812200f7AB07.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Honey Token",
+            "address": "0xD5612419333302C82Ff0458eF9035E469dCf6bE7",
+            "symbol": "HONEY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD5612419333302C82Ff0458eF9035E469dCf6bE7.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
