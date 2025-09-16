@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-09-15T01:12:19.436Z",
+    "timestamp": "2025-09-16T01:12:19.436Z",
     "version": {
         "major": 2,
         "minor": 2,
-        "patch": 11
+        "patch": 12
     },
     "tokens": [
         {
@@ -126,6 +126,14 @@
             "symbol": "pUSDC",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.png"
+        },
+        {
+            "chainId": 369,
+            "name": "USD Coin from Hyperlane",
+            "address": "0xa5B0D537CeBE97f087Dc5FE5732d70719caaEc1D",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xa5B0D537CeBE97f087Dc5FE5732d70719caaEc1D.png"
         },
         {
             "chainId": 369,
@@ -3754,6 +3762,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
