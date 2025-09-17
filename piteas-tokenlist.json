@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-09-16T01:12:19.436Z",
+    "timestamp": "2025-09-17T01:12:19.436Z",
     "version": {
         "major": 2,
         "minor": 2,
-        "patch": 12
+        "patch": 13
     },
     "tokens": [
         {
@@ -3385,11 +3385,11 @@
         },
         {
             "chainId": 369,
-            "name": "Old Glory ELITE",
-            "address": "0x051e25adBAb661e36217aff170388da6f9275F26",
-            "symbol": "OG+",
+            "name": "Old Glory ELITE V6",
+            "address": "0x63aa45017513B9D5bD7252F0C4752f23f77f7043",
+            "symbol": "OGT+",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x051e25adBAb661e36217aff170388da6f9275F26.png"
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x63aa45017513B9D5bD7252F0C4752f23f77f7043.png"
         },
         {
             "chainId": 369,
@@ -3762,6 +3762,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
