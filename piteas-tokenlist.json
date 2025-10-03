@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-09-24T01:12:19.436Z",
+    "timestamp": "2025-10-03T01:12:19.436Z",
     "version": {
         "major": 2,
         "minor": 2,
-        "patch": 14
+        "patch": 15
     },
     "tokens": [
         {
@@ -3758,10 +3758,19 @@
             "symbol": "VOUCH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD34f5ADC24d8Cc55C1e832Bdf65fFfDF80D1314f.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PulseChain Tablet",
+            "address": "0xD5896371c92511eDC5EF004b229Cf7680227FAcF",
+            "symbol": "TABLET",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD5896371c92511eDC5EF004b229Cf7680227FAcF.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
