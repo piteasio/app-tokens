@@ -3766,6 +3766,30 @@
             "symbol": "TABLET",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD5896371c92511eDC5EF004b229Cf7680227FAcF.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PulseX LP",
+            "address": "0x801c369cb1443c087cd327dfb53aecf378f6ff85",
+            "symbol": "PLP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x801c369cb1443c087cd327dfb53aecf378f6ff85.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PulseX LP",
+            "address": "0x46814b3f18d90625b6e166bc2917bb64a635d797",
+            "symbol": "PLP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x46814b3f18d90625b6e166bc2917bb64a635d797.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PulseX LP",
+            "address": "0x7dba127e41ed05500d114e81d9713b4c084ce6e5",
+            "symbol": "PLP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7dba127e41ed05500d114e81d9713b4c084ce6e5.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
