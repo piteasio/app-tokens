@@ -28,7 +28,7 @@ Adding or Updating a token
   - "name": "USD Coin from Ethereum",
   - "symbol": "USDC",
   - "decimals": 6,
-  - "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07.png"
+  - "logoURI": "https://raw.githubusercontent.com/vouchrun/app-tokens/main/token-logo/0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07.png"
 
 3- Commit the changes and raise a PR to our repo's dev branch.
 
