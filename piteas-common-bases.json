@@ -1,10 +1,10 @@
 {
   "name": "Piteas Common Tokens",
-  "timestamp": "2025-10-06T02:13:19.436Z",
+  "timestamp": "2025-10-08T02:13:19.436Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 5
+    "patch": 6
   },
   "list": [
     "NATIVE",
@@ -65,6 +65,10 @@
       "label": "HEXDC"
     },
     {
+      "address": "0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433",
+      "label": "PTS"
+    },
+    {
       "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
       "label": "pDAI"
     },
@@ -73,20 +77,12 @@
       "label": "pWBTC"
     },
     {
-      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-      "label": "pUSDT"
-    },
-    {
       "address": "0xd6c31bA0754C4383A41c0e9DF042C62b5e918f6d",
       "label": "BEAR"
     },
     {
       "address": "0xCc78A0acDF847A2C1714D2A925bB4477df5d48a6",
       "label": "ATROPA"
-    },
-    {
-      "address": "0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433",
-      "label": "PTS"
     },
     {
       "address": "0xe33a5AE21F93aceC5CfC0b7b0FDBB65A0f0Be5cC",
@@ -99,6 +95,10 @@
     {
       "address": "0x8Da17Db850315A34532108f0f5458fc0401525f6",
       "label": "SOLIDX"
+    },
+    {
+      "address": "0x4Eb7C1c05087f98Ae617d006F48914eE73fF8D2A",
+      "label": "XGAME"
     },
     {
       "address": "0x8BDB63033b02C15f113De51EA1C3a96Af9e8ecb5",
@@ -127,6 +127,7 @@
   ]
 
 }
+
 
 
 
