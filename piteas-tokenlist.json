@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-10-14T02:12:19.436Z",
+    "timestamp": "2025-10-15T02:12:19.436Z",
     "version": {
         "major": 2,
         "minor": 2,
-        "patch": 18
+        "patch": 19
     },
     "tokens": [
         {
@@ -3798,10 +3798,19 @@
             "symbol": "5555",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2858D7b77598eA9D35273ABFa86ECb25A7e490F5.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PulseChain Peahen",
+            "address": "0xFDe3255Fb043eA55F9D8635C5e7FF18770A6a810",
+            "symbol": "PHEN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xFDe3255Fb043eA55F9D8635C5e7FF18770A6a810.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
