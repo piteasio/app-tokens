@@ -3839,9 +3839,18 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x45794f23A8e8Fa4aBA05c60EaB9d0565b1d4845e.png"
         }
+        {
+    "chainId": 369,
+    "address": "0x316520621ECC290Ef3be603092e2A91CEaE4c69d",
+    "name": "Optimus",
+    "symbol": "OPTI",
+    "decimals": 18,
+    "logoURI": "https://github.com/SarcasticCrypto/assets/blob/master/222.png",
+}
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
