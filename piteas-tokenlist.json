@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-10-20T02:12:19.436Z",
+    "timestamp": "2025-10-27T02:12:19.436Z",
     "version": {
         "major": 2,
         "minor": 2,
-        "patch": 20
+        "patch": 21
     },
     "tokens": [
         {
@@ -3838,10 +3838,43 @@
             "symbol": "PF",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x45794f23A8e8Fa4aBA05c60EaB9d0565b1d4845e.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Argyle",
+            "address": "0x6095BB6323bba332567171325a549dFF69980906",
+            "symbol": "ARGYLE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6095BB6323bba332567171325a549dFF69980906.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Comfy",
+            "address": "0x55A06E7B2299982AC089b8b184303aCac51be835",
+            "symbol": "COMFY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x55A06E7B2299982AC089b8b184303aCac51be835.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Switch Engine",
+            "address": "0x6FFb7085B6f7413fbE5528f9004B1be77878018B",
+            "symbol": "SWITCH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6FFb7085B6f7413fbE5528f9004B1be77878018B.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Hamtoshi",
+            "address": "0x19a8acf61f9994691144623a6324726610bc1218",
+            "symbol": "HAM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x19a8acf61f9994691144623a6324726610bc1218.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
