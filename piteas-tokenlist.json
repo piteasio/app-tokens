@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-10-28T02:13:19.436Z",
+    "timestamp": "2025-10-29T02:13:19.436Z",
     "version": {
         "major": 2,
         "minor": 2,
-        "patch": 23
+        "patch": 24
     },
     "tokens": [
         {
@@ -3878,18 +3878,11 @@
             "symbol": "VAULT",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xeB52ac4D25067185f75bab4BcbfBaFA28c876A22.png"
-        },
-        {
-            "chainId": 369,
-            "name": "Switch Engine",
-            "address": "0x6FFb7085B6f7413fbE5528f9004B1be77878018B",
-            "symbol": "SWITCH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6FFb7085B6f7413fbE5528f9004B1be77878018B.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
