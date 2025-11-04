@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-10-30T02:13:19.436Z",
+    "timestamp": "2025-11-04T02:13:19.436Z",
     "version": {
         "major": 2,
         "minor": 2,
-        "patch": 25
+        "patch": 26
     },
     "tokens": [
         {
@@ -3886,10 +3886,19 @@
             "symbol": "sUSDS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8b84bE5ED8071F6ACA12aF3311cf41C3bc673B84.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Grimace",
+            "address": "0x1109D54A43C17c3B3d7613b0E0D0e02c984153e1",
+            "symbol": "Grimace",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1109D54A43C17c3B3d7613b0E0D0e02c984153e1.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
