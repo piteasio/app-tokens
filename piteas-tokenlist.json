@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-11-04T02:13:19.436Z",
+    "timestamp": "2025-11-07T02:13:19.436Z",
     "version": {
         "major": 2,
         "minor": 2,
-        "patch": 26
+        "patch": 27
     },
     "tokens": [
         {
@@ -3894,10 +3894,27 @@
             "symbol": "Grimace",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x1109D54A43C17c3B3d7613b0E0D0e02c984153e1.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PulseChain Tiger",
+            "address": "0xC2ACde27428d292C4E8e5A4A38148d6b7A2215f5",
+            "symbol": "PTIGER",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xC2ACde27428d292C4E8e5A4A38148d6b7A2215f5.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Tiger Crypto Dog",
+            "address": "0x01272a2B4B5A7918Bb4AAbD02f4A267329EDe345",
+            "symbol": "ZELDA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x01272a2B4B5A7918Bb4AAbD02f4A267329EDe345.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
