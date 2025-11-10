@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-11-08T02:13:19.436Z",
+    "timestamp": "2025-11-10T02:13:19.436Z",
     "version": {
         "major": 2,
         "minor": 2,
-        "patch": 28
+        "patch": 29
     },
     "tokens": [
         {
@@ -3913,15 +3913,16 @@
         },
         {
             "chainId": 369,
-            "name": "Mr. Prove from pump.tires",
-            "address": "0x072e69b7BA8fF918b741c306c5fa93033D0e8f4E",
-            "symbol": "MrProve",
+            "name": "SCADA",
+            "address": "0x69e23263927Ae53E5FF3A898d082a83B7D6fB438",
+            "symbol": "SCADA",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x072e69b7BA8fF918b741c306c5fa93033D0e8f4E.png"
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x69e23263927Ae53E5FF3A898d082a83B7D6fB438.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
