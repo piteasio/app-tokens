@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-11-10T02:13:19.436Z",
+    "timestamp": "2025-11-14T02:13:19.436Z",
     "version": {
         "major": 2,
         "minor": 2,
-        "patch": 29
+        "patch": 30
     },
     "tokens": [
         {
@@ -3918,10 +3918,19 @@
             "symbol": "SCADA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x69e23263927Ae53E5FF3A898d082a83B7D6fB438.png"
+        },
+        {
+            "chainId": 369,
+            "name": "HERO Token for Veterans",
+            "address": "0x35a51Dfc82032682E4Bda8AAcA87B9Bc386C3D27",
+            "symbol": "HERO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x35a51Dfc82032682E4Bda8AAcA87B9Bc386C3D27.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
