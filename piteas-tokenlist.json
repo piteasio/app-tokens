@@ -1,6 +1,6 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2025-11-14T02:13:19.436Z",
+    "timestamp": "2026-01-05T02:13:19.436Z",
     "version": {
         "major": 2,
         "minor": 2,
@@ -3926,10 +3926,27 @@
             "symbol": "HERO",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x35a51Dfc82032682E4Bda8AAcA87B9Bc386C3D27.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Green Wick",
+            "address": "0x8CDaf3d630Da9E1450832924D5701CC0500E9cfC",
+            "symbol": "WICK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x8CDaf3d630Da9E1450832924D5701CC0500E9cfC.png"
+        },
+        {
+            "chainId": 369,
+            "name": "TOUCAN",
+            "address": "0x0ED3A7ea3f008FB2827F0A62Fc72FbDF2F4a8Ae5",
+            "symbol": "TOUCAN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x0ED3A7ea3f008FB2827F0A62Fc72FbDF2F4a8Ae5.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
