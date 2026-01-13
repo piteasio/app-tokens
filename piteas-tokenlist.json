@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2026-01-05T02:13:19.436Z",
+    "timestamp": "2026-01-12T02:13:19.436Z",
     "version": {
         "major": 2,
         "minor": 2,
-        "patch": 30
+        "patch": 31
     },
     "tokens": [
         {
@@ -3942,10 +3942,19 @@
             "symbol": "TOUCAN",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x0ED3A7ea3f008FB2827F0A62Fc72FbDF2F4a8Ae5.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Dump Tires Gold Coin",
+            "address": "0xD0676B28a457371D58d47E5247b439114e40Eb0F",
+            "symbol": "DTGC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD0676B28a457371D58d47E5247b439114e40Eb0F.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
