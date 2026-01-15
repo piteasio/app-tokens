@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2026-01-12T02:13:19.436Z",
+    "timestamp": "2026-01-15T02:13:19.436Z",
     "version": {
         "major": 2,
         "minor": 2,
-        "patch": 31
+        "patch": 32
     },
     "tokens": [
         {
@@ -3950,10 +3950,27 @@
             "symbol": "DTGC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD0676B28a457371D58d47E5247b439114e40Eb0F.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Cipher",
+            "address": "0xb20f8de69250f76AC4324815193BdC8a2F7E8eA3",
+            "symbol": "CIPHER",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xb20f8de69250f76AC4324815193BdC8a2F7E8eA3.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Coin Mafia",
+            "address": "0x562866b6483894240739211049E109312E9A9A67",
+            "symbol": "MAFIA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x562866b6483894240739211049E109312E9A9A67.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
