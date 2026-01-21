@@ -3966,10 +3966,19 @@
             "symbol": "MAFIA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x562866b6483894240739211049E109312E9A9A67.png"
+        },
+        {
+            "chainId": 369,
+            "name": "SkyRocket",
+            "address": "0x6C51c0B9Bae76D9d1e37E492c1a418B7A32073F7",
+            "symbol": "SKR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x6C51c0B9Bae76D9d1e37E492c1a418B7A32073F7.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
