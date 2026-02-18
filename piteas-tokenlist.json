@@ -865,9 +865,9 @@
         },
         {
             "chainId": 369,
-            "name": "monat money Ǝ𒑰",
+            "name": "monat money \u018e\ud809\udc70",
             "address": "0xf8AB3393b1f5CD6184Fb6800A1fC802043C4063e",
-            "symbol": "Ǝ𒑰",
+            "symbol": "\u018e\ud809\udc70",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xf8AB3393b1f5CD6184Fb6800A1fC802043C4063e.png"
         },
@@ -1121,7 +1121,7 @@
         },
         {
             "chainId": 369,
-            "name": "CROWS ㉫",
+            "name": "CROWS \u326b",
             "address": "0x203e366A1821570b2f84Ff5ae8B3BdeB48Dc4fa1",
             "symbol": "CROWS",
             "decimals": 18,
@@ -1225,7 +1225,7 @@
         },
         {
             "chainId": 369,
-            "name": "𑀭𑀭𑀭𑀭𑀭",
+            "name": "\ud804\udc2d\ud804\udc2d\ud804\udc2d\ud804\udc2d\ud804\udc2d",
             "address": "0xE35A842eb1EDca4C710B6c1B1565cE7df13f5996",
             "symbol": "BFF",
             "decimals": 18,
@@ -1337,7 +1337,7 @@
         },
         {
             "chainId": 369,
-            "name": "ŽIŽEK",
+            "name": "\u017dI\u017dEK",
             "address": "0xe2e1a5d691cCB9E88b84e23A1166B4e6Bd6904Dc",
             "symbol": "ZIZEK",
             "decimals": 18,
@@ -3715,7 +3715,7 @@
             "chainId": 369,
             "name": "ZeroTrust",
             "address": "0xf6703DBff070F231eEd966D33B1B6D7eF5207d26",
-            "symbol": "ZERØ",
+            "symbol": "ZER\u00d8",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xf6703DBff070F231eEd966D33B1B6D7eF5207d26.png"
         },
@@ -3966,43 +3966,15 @@
             "symbol": "MAFIA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x562866b6483894240739211049E109312E9A9A67.png"
+        },
+        {
+            "chainId": 369,
+            "address": "0xF2Da3942616880E52e841E5C504B5A9Fba23FFF0",
+            "name": "Nexion",
+            "symbol": "NEON",
+            "decimals": 18,
+            "logoURI": "https://nexionpulse.com/images/tokens/NEON.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
