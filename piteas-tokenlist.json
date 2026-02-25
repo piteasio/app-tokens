@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2026-02-17T02:13:19.436Z",
+    "timestamp": "2026-02-25T02:13:19.436Z",
     "version": {
         "major": 2,
         "minor": 2,
-        "patch": 33
+        "patch": 34
     },
     "tokens": [
         {
@@ -3974,10 +3974,19 @@
             "symbol": "NEON",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xF2Da3942616880E52e841E5C504B5A9Fba23FFF0.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Gizmo",
+            "address": "0x89f5d1c22394B4761F3bF746b60d54De03b59Ec6",
+            "symbol": "Gizmo",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x89f5d1c22394B4761F3bF746b60d54De03b59Ec6.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
