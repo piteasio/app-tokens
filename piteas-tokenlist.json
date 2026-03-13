@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2026-03-03T02:13:19.436Z",
+    "timestamp": "2026-03-13T02:13:19.436Z",
     "version": {
         "major": 2,
         "minor": 3,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -86,6 +86,14 @@
             "symbol": "WBTC",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xb17D901469B9208B17d916112988A3FeD19b5cA1.png"
+        },
+        {
+            "chainId": 369,
+            "name": "ProveX",
+            "address": "0xF6f8Db0aBa00007681F8fAF16A0FDa1c9B030b11",
+            "symbol": "PRVX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xF6f8Db0aBa00007681F8fAF16A0FDa1c9B030b11.png"
         },
         {
             "chainId": 369,
@@ -3986,6 +3994,7 @@
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
+
 
 
 
