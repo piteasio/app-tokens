@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2026-03-13T02:13:19.436Z",
+    "timestamp": "2026-03-23T02:13:19.436Z",
     "version": {
         "major": 2,
         "minor": 3,
-        "patch": 1
+        "patch": 2
     },
     "tokens": [
         {
@@ -3990,6 +3990,14 @@
             "symbol": "Gizmo",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x89f5d1c22394B4761F3bF746b60d54De03b59Ec6.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Provex Bull",
+            "address": "0x35B5F0Bd6264FfE48a848809Bb44583ed25CDd18",
+            "symbol": "BULLX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x35B5F0Bd6264FfE48a848809Bb44583ed25CDd18.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
