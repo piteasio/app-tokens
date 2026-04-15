@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2026-03-23T02:13:19.436Z",
+    "timestamp": "2026-04-15T02:13:19.436Z",
     "version": {
         "major": 2,
         "minor": 3,
-        "patch": 2
+        "patch": 3
     },
     "tokens": [
         {
@@ -3998,6 +3998,22 @@
             "symbol": "BULLX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x35B5F0Bd6264FfE48a848809Bb44583ed25CDd18.png"
+        },
+        {
+            "chainId": 369,
+            "name": "MoonCat",
+            "address": "0xd9c88721208F980756851D6Da989Ab499F9D9871",
+            "symbol": "MCAT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xd9c88721208F980756851D6Da989Ab499F9D9871.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PulseChain Mascot",
+            "address": "0xF05dF6DD8704ff262816459aa6dEf3e68F4EAB9b",
+            "symbol": "SOFIA",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xF05dF6DD8704ff262816459aa6dEf3e68F4EAB9b.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
