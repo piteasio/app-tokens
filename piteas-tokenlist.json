@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2026-04-15T02:13:19.436Z",
+    "timestamp": "2026-04-16T02:13:19.436Z",
     "version": {
         "major": 2,
         "minor": 3,
-        "patch": 3
+        "patch": 4
     },
     "tokens": [
         {
@@ -4014,6 +4014,14 @@
             "symbol": "SOFIA",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xF05dF6DD8704ff262816459aa6dEf3e68F4EAB9b.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Pulse Dai",
+            "address": "0xc40c58afFf0A8908c392a752F4951EfF381AA0b2",
+            "symbol": "PAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xc40c58afFf0A8908c392a752F4951EfF381AA0b2.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
