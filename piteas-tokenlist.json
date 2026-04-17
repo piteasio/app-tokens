@@ -4022,7 +4022,15 @@
             "symbol": "PAI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xc40c58afFf0A8908c392a752F4951EfF381AA0b2.png"
-        }
+        },
+        {
+            "chainId": 369,
+            "address": "0xeF7A713C3F10c12D8b12B7CBB78b79b92303Ccd4",
+            "name": "Richards first car",
+            "symbol": "BONNIE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xeF7A713C3F10c12D8b12B7CBB78b79b92303Ccd4.png",
+}
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
