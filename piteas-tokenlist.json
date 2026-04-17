@@ -4030,7 +4030,16 @@
             "symbol": "BONNIE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xeF7A713C3F10c12D8b12B7CBB78b79b92303Ccd4.png",
-}
+},        
+            
+        {
+            "chainId": 369,
+            "address": "0x5614A6C8A34849e91Ffe6cA570C05f54C1422b98",
+            "name": "$BONNIE's giant rusty",
+            "symbol": "HOLE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x5614A6C8A34849e91Ffe6cA570C05f54C1422b98.png",
+        }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
