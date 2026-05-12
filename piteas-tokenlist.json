@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2026-05-02T02:13:19.436Z",
+    "timestamp": "2026-05-12T02:13:19.436Z",
     "version": {
         "major": 2,
         "minor": 3,
-        "patch": 5
+        "patch": 6
     },
     "tokens": [
         {
@@ -4030,6 +4030,14 @@
             "symbol": "RHPEPE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x4e357E4E972FA0d4e2Cb2A363c8226c383c43C75.png"
+        },
+        {
+            "chainId": 369,
+            "name": "DARK PEPE",
+            "address": "0xE9e15d6F7380D1718a3bdeeE720eE979fAC1F5BC",
+            "symbol": "DPEPE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xE9e15d6F7380D1718a3bdeeE720eE979fAC1F5BC.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
