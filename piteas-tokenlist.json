@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2026-05-12T02:13:19.436Z",
+    "timestamp": "2026-05-13T02:13:19.436Z",
     "version": {
         "major": 2,
         "minor": 3,
-        "patch": 6
+        "patch": 7
     },
     "tokens": [
         {
@@ -2262,6 +2262,30 @@
             "symbol": "HTT6000",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xcdBFaf528c7CeA55d0AEbdB93C218D6f23B24af3.png"
+        },
+        {
+            "chainId": 369,
+            "name": "HEX Time Token 6666",
+            "address": "0x07ffb053224A100b95E2DC3fAA82BdA9Fc1b8899",
+            "symbol": "HTT6666",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x07ffb053224A100b95E2DC3fAA82BdA9Fc1b8899.png"
+        },
+        {
+            "chainId": 369,
+            "name": "HEX Time Token 5555",
+            "address": "0x7Ad74b94EBe76AA3046ECAD2E09A4aB63EAF96Bc",
+            "symbol": "HTT5555",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7Ad74b94EBe76AA3046ECAD2E09A4aB63EAF96Bc.png"
+        },
+        {
+            "chainId": 369,
+            "name": "HEX Time Token 7900",
+            "address": "0xF85F09D04aCC7c5fCe8A974b045F2C0B9D7Fe756",
+            "symbol": "HTT7900",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xF85F09D04aCC7c5fCe8A974b045F2C0B9D7Fe756.png"
         },
         {
             "chainId": 369,
