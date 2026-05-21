@@ -1,6 +1,6 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2026-05-21T02:13:19.436Z",
+    "timestamp": "2026-05-21T02:14:19.436Z",
     "version": {
         "major": 2,
         "minor": 3,
@@ -4078,6 +4078,14 @@
             "symbol": "ETHOS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7CDaff7Bccf2AA44BA1fC235a2b44D6e8238C81C.png"
+        },
+        {
+            "chainId": 369,
+            "name": "pMINT",
+            "address": "0xFf640cBd35A618Df1348D861B5e47f7eaB05b422",
+            "symbol": "pMINT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xFf640cBd35A618Df1348D861B5e47f7eaB05b422.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
