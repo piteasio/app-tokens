@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2026-05-14T02:13:19.436Z",
+    "timestamp": "2026-05-21T09:33:06.425Z",
     "version": {
         "major": 2,
         "minor": 3,
-        "patch": 8
+        "patch": 9
     },
     "tokens": [
         {
@@ -4070,6 +4070,14 @@
             "symbol": "DPEPE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xE9e15d6F7380D1718a3bdeeE720eE979fAC1F5BC.png"
+        },
+        {
+            "chainId": 369,
+            "name": "ETHOS",
+            "address": "0x7CDaff7Bccf2AA44BA1fC235a2b44D6e8238C81C",
+            "symbol": "ETHOS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7CDaff7Bccf2AA44BA1fC235a2b44D6e8238C81C.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
