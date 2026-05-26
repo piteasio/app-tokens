@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2026-05-25T02:14:19.436Z",
+    "timestamp": "2026-05-26T03:14:19.436Z",
     "version": {
         "major": 2,
         "minor": 3,
-        "patch": 10
+        "patch": 11
     },
     "tokens": [
         {
@@ -4094,6 +4094,14 @@
             "symbol": "pMINT",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xFf640cBd35A618Df1348D861B5e47f7eaB05b422.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Sway",
+            "address": "0xFe53f25c164C3C73aD75bdeB17Ed3364d7544AFC",
+            "symbol": "SWAY",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xFe53f25c164C3C73aD75bdeB17Ed3364d7544AFC.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
