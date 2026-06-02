@@ -1,10 +1,10 @@
 {
   "name": "Piteas Common Tokens",
-  "timestamp": "2026-03-13T02:13:19.436Z",
+  "timestamp": "2026-06-02T02:13:19.436Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 9
+    "patch": 10
   },
   "list": [
     "NATIVE",
@@ -41,6 +41,10 @@
       "label": "USDT"
     },
     {
+      "address": "0xa5B0D537CeBE97f087Dc5FE5732d70719caaEc1D",
+      "label": "hUSDC"
+    },
+    {
       "address": "0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C",
       "label": "WETH"
     },
@@ -49,24 +53,12 @@
       "label": "WBTC"
     },
     {
-      "address": "0x0dEEd1486bc52aA0d3E6f8849cEC5adD6598A162",
-      "label": "USDL"
-    },
-    {
-      "address": "0xa5B0D537CeBE97f087Dc5FE5732d70719caaEc1D",
-      "label": "hUSDC"
-    },
-    {
-      "address": "0xeB6b7932Da20c6D7B3a899D5887d86dfB09A6408",
-      "label": "PXDC"
-    },
-    {
-      "address": "0x1FE0319440A672526916C232EAEe4808254Bdb00",
-      "label": "HEXDC"
-    },
-    {
       "address": "0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433",
       "label": "PTS"
+    },
+    {
+      "address": "0xc10A4Ed9b4042222d69ff0B374eddd47ed90fC1F",
+      "label": "PCOCK"
     },
     {
       "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
@@ -93,6 +85,26 @@
       "label": "PUMP"
     },
     {
+      "address": "0x0dEEd1486bc52aA0d3E6f8849cEC5adD6598A162",
+      "label": "USDL"
+    },
+    {
+      "address": "0xeB6b7932Da20c6D7B3a899D5887d86dfB09A6408",
+      "label": "PXDC"
+    },
+    {
+      "address": "0x1FE0319440A672526916C232EAEe4808254Bdb00",
+      "label": "HEXDC"
+    },
+    {
+      "address": "0x9663c2d75ffd5F4017310405fCe61720aF45B829",
+      "label": "PHUX"
+    },
+    {
+      "address": "0xCA35638A3fdDD02fEC597D8c1681198C06b23F58",
+      "label": "TIME"
+    },
+    {
       "address": "0x8Da17Db850315A34532108f0f5458fc0401525f6",
       "label": "SOLIDX"
     },
@@ -111,18 +123,6 @@
     {
       "address": "0x0567CA0dE35606E9C260CC2358404B11DE21DB44",
       "label": "HELGO"
-    },
-    {
-      "address": "0x9663c2d75ffd5F4017310405fCe61720aF45B829",
-      "label": "PHUX"
-    },
-    {
-      "address": "0xCA35638A3fdDD02fEC597D8c1681198C06b23F58",
-      "label": "TIME"
-    },
-    {
-      "address": "0xc10A4Ed9b4042222d69ff0B374eddd47ed90fC1F",
-      "label": "PCOCK"
     }
   ]
 }
