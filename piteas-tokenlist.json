@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2026-05-26T03:14:19.436Z",
+    "timestamp": "2026-06-10T03:14:19.436Z",
     "version": {
         "major": 2,
         "minor": 3,
-        "patch": 11
+        "patch": 13
     },
     "tokens": [
         {
@@ -4102,6 +4102,14 @@
             "symbol": "SWAY",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xFe53f25c164C3C73aD75bdeB17Ed3364d7544AFC.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PEACOCK NINJAS AGAINST SOCIETY",
+            "address": "0xB709276c0e8d3A5372A13d4fEA886496F396feA1",
+            "symbol": "pNAS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xB709276c0e8d3A5372A13d4fEA886496F396feA1.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
