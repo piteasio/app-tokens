@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2026-06-10T03:14:19.436Z",
+    "timestamp": "2026-06-18T03:14:19.436Z",
     "version": {
         "major": 2,
         "minor": 3,
-        "patch": 13
+        "patch": 14
     },
     "tokens": [
         {
@@ -4110,6 +4110,22 @@
             "symbol": "pNAS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xB709276c0e8d3A5372A13d4fEA886496F396feA1.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PulseMachinery Gears",
+            "address": "0xD0aA56F7BF856948EFcc6361E44793ee9589Bf2B",
+            "symbol": "GEARS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD0aA56F7BF856948EFcc6361E44793ee9589Bf2B.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Tax evader",
+            "address": "0x043860275e792025de09353F4Fa5b789B40e3539",
+            "symbol": "EVDR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x043860275e792025de09353F4Fa5b789B40e3539.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
