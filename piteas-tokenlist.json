@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2026-06-18T03:14:19.436Z",
+    "timestamp": "2026-07-01T03:14:19.436Z",
     "version": {
         "major": 2,
         "minor": 3,
-        "patch": 14
+        "patch": 15
     },
     "tokens": [
         {
@@ -2305,6 +2305,14 @@
         },
         {
             "chainId": 369,
+            "name": "HEX Time Token 8000",
+            "address": "0xA737EA6FF4094FeDEe5a762CA34116207f34B4c6",
+            "symbol": "HTT8000",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA737EA6FF4094FeDEe5a762CA34116207f34B4c6.png"
+        },
+        {
+            "chainId": 369,
             "name": "Pulsican Store",
             "address": "0x1BC0CE24e87d998b96b42f0F8f70A5aa8d637a04",
             "symbol": "PLSS",
@@ -3969,6 +3977,14 @@
         },
         {
             "chainId": 369,
+            "name": "Synergy",
+            "address": "0x48Ff7C6e125942e3fd37c4296c33D586bf874Fe1",
+            "symbol": "SYN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x48Ff7C6e125942e3fd37c4296c33D586bf874Fe1.png"
+        },
+        {
+            "chainId": 369,
             "name": "HERO Token for Veterans",
             "address": "0x35a51Dfc82032682E4Bda8AAcA87B9Bc386C3D27",
             "symbol": "HERO",
@@ -4126,6 +4142,14 @@
             "symbol": "EVDR",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x043860275e792025de09353F4Fa5b789B40e3539.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Moon King B-Roots",
+            "address": "0x2523e1dC657648FE8597bd1ABd5725DC8938A08E",
+            "symbol": "MOONKING",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2523e1dC657648FE8597bd1ABd5725DC8938A08E.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
