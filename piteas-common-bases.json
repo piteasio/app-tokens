@@ -1,10 +1,10 @@
 {
   "name": "Piteas Common Tokens",
-  "timestamp": "2026-06-02T02:13:19.436Z",
+  "timestamp": "2026-07-02T02:13:19.436Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 10
+    "patch": 11
   },
   "list": [
     "NATIVE",
@@ -113,16 +113,16 @@
       "label": "XGAME"
     },
     {
-      "address": "0x8BDB63033b02C15f113De51EA1C3a96Af9e8ecb5",
-      "label": "AXIS"
+      "address": "0x1D177CB9EfEEa49A8B97ab1C72785a3A37ABc9Ff",
+      "label": "F㉾D"
     },
     {
-      "address": "0x52347C33Cf6Ca8D2cfb864AEc5aA0184C8fd4c9b",
-      "label": "SPARTA"
+      "address": "0x94534EeEe131840b1c0F61847c572228bdfDDE93",
+      "label": "pTGC"
     },
     {
-      "address": "0x0567CA0dE35606E9C260CC2358404B11DE21DB44",
-      "label": "HELGO"
+      "address": "0xB709276c0e8d3A5372A13d4fEA886496F396feA1",
+      "label": "pNAS"
     }
   ]
 }
