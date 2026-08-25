@@ -4,7 +4,7 @@
     "version": {
         "major": 2,
         "minor": 3,
-        "patch": 18
+        "patch": 19
     },
     "tokens": [
         {
@@ -4198,6 +4198,14 @@
             "symbol": "TROLL",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xCF2E8fC8EeFCc81a52468EcD081140a563A9c10A.png"
+        },
+        {
+            "chainId": 369,
+            "name": "HEX DOG",
+            "address": "0x73CBb4AFda3c554Dda7f31BC36538ABFe2F35B68",
+            "symbol": "GAINZ",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x73CBb4AFda3c554Dda7f31BC36538ABFe2F35B68.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
