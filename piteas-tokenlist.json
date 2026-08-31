@@ -4206,6 +4206,14 @@
             "symbol": "GAINZ",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x73CBb4AFda3c554Dda7f31BC36538ABFe2F35B68.png"
+        },
+        {
+            "chainId": 369,
+            "name": "The Extractor",
+            "address": "0xd21d5Dd79F7fDD54b24bA8e1ec74aAE4Cc597650",
+            "symbol": "Extractor",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xd21d5Dd79F7fDD54b24bA8e1ec74aAE4Cc597650.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
