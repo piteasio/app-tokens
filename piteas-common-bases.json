@@ -1,10 +1,10 @@
 {
   "name": "Piteas Common Tokens",
-  "timestamp": "2026-07-02T02:13:19.436Z",
+  "timestamp": "2026-08-31T02:13:19.436Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 11
+    "patch": 12
   },
   "list": [
     "NATIVE",
@@ -119,10 +119,6 @@
     {
       "address": "0x94534EeEe131840b1c0F61847c572228bdfDDE93",
       "label": "pTGC"
-    },
-    {
-      "address": "0xB709276c0e8d3A5372A13d4fEA886496F396feA1",
-      "label": "pNAS"
     }
   ]
 }
