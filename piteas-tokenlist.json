@@ -3793,14 +3793,6 @@
         },
         {
             "chainId": 369,
-            "name": "Kishka",
-            "address": "0xdf2eb4E30d8ca5D76C2eA9f7E246CE0a415F1db9",
-            "symbol": "KISHKA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xdf2eb4E30d8ca5D76C2eA9f7E246CE0a415F1db9.png"
-        },
-        {
-            "chainId": 369,
             "name": "Swarm",
             "address": "0x1E2b066d068eb087CCf85620B8306a283ea70816",
             "symbol": "SWRM",
@@ -4214,6 +4206,14 @@
             "symbol": "Extractor",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xd21d5Dd79F7fDD54b24bA8e1ec74aAE4Cc597650.png"
+        },
+        {
+            "chainId": 369,
+            "name": "HEX CAT",
+            "address": "0xA0AD1c79EdDDa5a9022a0A6976bEFC7300Bd6f72",
+            "symbol": "KISHKA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA0AD1c79EdDDa5a9022a0A6976bEFC7300Bd6f72.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
