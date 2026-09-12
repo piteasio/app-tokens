@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2026-06-10T03:14:19.436Z",
+    "timestamp": "2026-08-11T03:15:19.436Z",
     "version": {
         "major": 2,
         "minor": 3,
-        "patch": 13
+        "patch": 19
     },
     "tokens": [
         {
@@ -2305,6 +2305,14 @@
         },
         {
             "chainId": 369,
+            "name": "HEX Time Token 8000",
+            "address": "0xA737EA6FF4094FeDEe5a762CA34116207f34B4c6",
+            "symbol": "HTT8000",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA737EA6FF4094FeDEe5a762CA34116207f34B4c6.png"
+        },
+        {
+            "chainId": 369,
             "name": "Pulsican Store",
             "address": "0x1BC0CE24e87d998b96b42f0F8f70A5aa8d637a04",
             "symbol": "PLSS",
@@ -3785,14 +3793,6 @@
         },
         {
             "chainId": 369,
-            "name": "Kishka",
-            "address": "0xdf2eb4E30d8ca5D76C2eA9f7E246CE0a415F1db9",
-            "symbol": "KISHKA",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xdf2eb4E30d8ca5D76C2eA9f7E246CE0a415F1db9.png"
-        },
-        {
-            "chainId": 369,
             "name": "Swarm",
             "address": "0x1E2b066d068eb087CCf85620B8306a283ea70816",
             "symbol": "SWRM",
@@ -3969,6 +3969,14 @@
         },
         {
             "chainId": 369,
+            "name": "Synergy",
+            "address": "0x48Ff7C6e125942e3fd37c4296c33D586bf874Fe1",
+            "symbol": "SYN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x48Ff7C6e125942e3fd37c4296c33D586bf874Fe1.png"
+        },
+        {
+            "chainId": 369,
             "name": "HERO Token for Veterans",
             "address": "0x35a51Dfc82032682E4Bda8AAcA87B9Bc386C3D27",
             "symbol": "HERO",
@@ -4110,6 +4118,102 @@
             "symbol": "pNAS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xB709276c0e8d3A5372A13d4fEA886496F396feA1.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PulseMachinery Gears",
+            "address": "0xD0aA56F7BF856948EFcc6361E44793ee9589Bf2B",
+            "symbol": "GEARS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xD0aA56F7BF856948EFcc6361E44793ee9589Bf2B.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Tax evader",
+            "address": "0x043860275e792025de09353F4Fa5b789B40e3539",
+            "symbol": "EVDR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x043860275e792025de09353F4Fa5b789B40e3539.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Moon King B-Roots",
+            "address": "0x2523e1dC657648FE8597bd1ABd5725DC8938A08E",
+            "symbol": "MOONKING",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2523e1dC657648FE8597bd1ABd5725DC8938A08E.png"
+        },
+        {
+            "chainId": 369,
+            "name": "SAC DADDY",
+            "address": "0xe7C6b52e6e7e463FEF7640580D1C586D0622D5d1",
+            "symbol": "DADDY",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe7C6b52e6e7e463FEF7640580D1C586D0622D5d1.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Hex Whale",
+            "address": "0xd26c1a109927cDd9A483Bb35881Fe92ee7873cAD",
+            "symbol": "HEXWHALE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xd26c1a109927cDd9A483Bb35881Fe92ee7873cAD.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Whale Bay",
+            "address": "0x03B1A1B10151733bcEfa52178aadf9d7239407b4",
+            "symbol": "WHALE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x03B1A1B10151733bcEfa52178aadf9d7239407b4.png"
+        },
+        {
+            "chainId": 369,
+            "name": "The Humpback Holders Club",
+            "address": "0x17dD9d7324827990ba7472131270563302F10009",
+            "symbol": "HOLD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x17dD9d7324827990ba7472131270563302F10009.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Coffee Shop",
+            "address": "0x707C905DF6104eAE3B116eD9635cBee0A9EBA6E6",
+            "symbol": "COFFEE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x707C905DF6104eAE3B116eD9635cBee0A9EBA6E6.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PLS TROLL",
+            "address": "0xCF2E8fC8EeFCc81a52468EcD081140a563A9c10A",
+            "symbol": "TROLL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xCF2E8fC8EeFCc81a52468EcD081140a563A9c10A.png"
+        },
+        {
+            "chainId": 369,
+            "name": "HEX DOG",
+            "address": "0x73CBb4AFda3c554Dda7f31BC36538ABFe2F35B68",
+            "symbol": "GAINZ",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x73CBb4AFda3c554Dda7f31BC36538ABFe2F35B68.png"
+        },
+        {
+            "chainId": 369,
+            "name": "The Extractor",
+            "address": "0xd21d5Dd79F7fDD54b24bA8e1ec74aAE4Cc597650",
+            "symbol": "Extractor",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xd21d5Dd79F7fDD54b24bA8e1ec74aAE4Cc597650.png"
+        },
+        {
+            "chainId": 369,
+            "name": "HEX CAT",
+            "address": "0xA0AD1c79EdDDa5a9022a0A6976bEFC7300Bd6f72",
+            "symbol": "KISHKA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA0AD1c79EdDDa5a9022a0A6976bEFC7300Bd6f72.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
