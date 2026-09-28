@@ -3,7 +3,7 @@
   "sources": [
     {
       "type": "website",
-      "url": "https://hasbropulse.com",
+      "url": "https://primetokenpls.xyz",
       "content": "Official website"
     }
   ],
@@ -12,6 +12,6 @@
   "name": "Optimus Prime",
   "symbol": "PRIME",
   "decimals": 18,
-  "logoURI": "https://console.filebase.com/object/pls-tokens/0x041e2ab0a4af5066035cd464e66a10cf5a9cddd7.png",
+  "logoURI": "https://github.com/SarcasticCrypto/Pulsechain-Token-Logos/blob/master/0x041e2ab0a4af5066035cd464e66a10cf5a9cddd7.png",
   "description": "Optimus Prime Meme PulseChain token."
 }
