@@ -4217,7 +4217,7 @@
         },
         {
             "chainId": 369,
-            "name": "Fat Unsecured Ponzi Assets",
+            "name": "Fat Unsececured Ponzi Assets",
             "address": "0xB41cEb0d0316e6c330b2Dd982779a4030C8FeDeB",
             "symbol": "FUPA",
             "decimals": 18,
