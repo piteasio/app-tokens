@@ -1,10 +1,10 @@
 {
     "name": "Piteas Tokens",
-    "timestamp": "2026-08-11T03:15:19.436Z",
+    "timestamp": "2026-11-20T03:15:19.436Z",
     "version": {
         "major": 2,
         "minor": 3,
-        "patch": 19
+        "patch": 20
     },
     "tokens": [
         {
@@ -4214,6 +4214,14 @@
             "symbol": "KISHKA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA0AD1c79EdDDa5a9022a0A6976bEFC7300Bd6f72.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Fat Unsececured Ponzi Assets",
+            "address": "0xB41cEb0d0316e6c330b2Dd982779a4030C8FeDeB",
+            "symbol": "FUPA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xB41cEb0d0316e6c330b2Dd982779a4030C8FeDeB.png"
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
